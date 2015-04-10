@@ -1,0 +1,561 @@
+AIDS
+Abortion
+Abruption placentae
+Achalasia and cardiospasm
+Acne
+Acromegaly
+Actinic keratosis
+Adenocarcinoma
+Adenocarcinoma, Mucinous
+Adenoid cystic cancer
+Adenoma
+Adenoma of thyroid
+Adenovirus infection
+Adrenal gland hyperfunction
+Adrenal gland hypofunction
+Adrenal gland tumor
+Adrenoleukodystrophy
+Advanced cancer
+Albers-Schonberg disease
+Alcoholic liver disease
+Alimentary system disease
+Alopecia
+Alveolar bone loss
+Alzheimer's disease
+Amaurosis congenita of leber I 
+Amnionitis
+Amyloidosis
+Amyotrophic lateral sclerosis
+Anemia
+Angiomyolipoma
+Ankylosing spondylitis
+Ankylosis
+Anorexia nervosa
+Antiphospholipid syndrome
+Anxiety disorder
+Aortic aneurysm
+Aortic valve disease
+Aplastic anemia
+Arteriopathy
+Arthritis
+Aseptic necrosis of bone
+Asthma
+Ataxia telangiectasia
+Atherosclerosis
+Atopic rhinitis
+Attention deficit hyperactivity disorder
+Autistic disorder
+Autoimmune disease
+Autoimmune thyroiditis
+Azoospermia
+Bacterial infection
+Bacterial vaginosis
+Bardet-Biedl syndrome
+Barrett's esophagus
+Basal cell carcinoma
+Beckwith-Wiedemann syndrome
+Behavior disease
+Behcet syndrome
+Biliary Atresia
+Biliary cancer
+Bipolar disorder
+Bladder cancer
+Bone disease
+Bone marrow disease
+Bone metastases
+Brain disease
+Brain ischemia
+Brain tumor
+Breast cancer
+Bronchial disease
+Bronchial hyperreactivity
+Bronchiectasis
+Bronchiolitis
+Bronchiolitis obliterans
+Bronchopulmonary dysplasia
+Brucellosis
+Bulimia
+CNS lymphoma
+CNS metastases
+Cancer
+Capillaries disease
+Carcinoma
+Cardiovascular disease
+Celiac disease
+Central nervous system disease
+Cerebellar disease
+Cerebral palsy
+Cerebrovascular disorder
+Cervical cancer
+Charcot-Marie-Tooth disease
+Cholangiocarcinoma
+Cholangitis
+Cholelithiasis
+Cholestasis
+Chondrosarcoma
+Chordoma
+Choriocarcinoma
+Chorioretinitis
+Chronic fatigue syndrome
+Chronic obstructive airway disease
+Chronic progressive external ophthalmoplegia
+Chronic rejection of renal transplant
+Chronic simple glaucoma
+Cirrhosis
+Clear cell carcinoma
+Cleft palate
+Cockayne syndrome
+Colon cancer
+Combined immunodeficiency
+Common cold
+Common variable immunodeficiency
+Common wart
+Communicable disease
+Conduct disorder
+Congenital abnormality
+Congenital heart disease
+Connective tissue disease
+Copper metabolism disorder
+Corneal disease
+Coronavirus infection
+Craniosynostosis
+Creutzfeldt-Jakob syndrome
+Cushing syndrome
+Cutaneous fibrous histiocytoma
+Cystic fibrosis
+Cystitis
+Cytomegalovirus infection
+Deafness
+Degenerative disc disease
+Demyelinating disease
+Dental enamel hypoplasia
+Dental plaque
+Depression
+Dermatitis
+Diabetes insipidus
+Diabetes mellitus
+Disseminated cancer
+Disseminated intravascular coagulation
+Down syndrome
+Drug abuse
+Drug-Induced dyskinesia
+Duane retraction syndrome
+Eating disorder
+Ectodermal dysplasia
+Embryoma
+Emphysema
+Encephalitis
+Encephalopathies
+Endemic goiter
+Endocrine gland cancer
+Endocrine system disease
+Endometrial cancer
+Endometriosis
+Endometrium cancer
+Enteritis
+Eosinophilia
+Ependymoma
+Epidermolysis bullosa
+Epilepsy
+Epstein-Barr virus infection
+Esophageal disease
+Esophageal tumor
+Esophagitis
+Esophagus cancer
+Esotropia
+Ewings sarcoma
+Extramammary Paget's disease
+Eye cancer
+Eye disease
+Familial Mediterranean fever
+Fanconi's anemia
+Fatty liver
+Female reproductive cancer
+Female reproductive system disorder
+Fetal disease
+Fibroadenoma
+Fibroid tumor
+Fibroma
+Fibromyalgia
+Fibrosarcoma
+Filariasis
+Folic acid deficiency
+Gallbaldder cancer
+Gallbladder disease
+Gastritis
+Gastrointestinal cancer
+Gastrointestinal infection
+Gastrointestinal stromal tumor
+Gastrointestinal tumor
+Generalized anxiety disorder
+Germ cell tumor
+Gestational diabetes
+Gestational trophoblastic tumor
+Gigantism
+Gilles de la Tourette syndrome
+Gingival overgrowth
+Glaucoma
+Glomerulonephritis
+Glucose intolerance
+Glycogen storage disease
+Gonadal dysgenesis
+Gouts
+Gram-Negative bacterial infection
+Granulomatous disease
+Graves' disease
+Growth retardation
+HELLP syndrome
+HIV infection
+HTLV-I infection
+Hamman-Rich syndrome
+Heart disease
+Heart failure
+Heart valve disease
+Helicobacter infection
+Helminthiasis
+Hemangioma
+Hematopoietic system disease
+Hemoglobinopathies
+Hemolytic anemia
+Hemolytic-Uremic syndrome
+Hemophilia
+Hemorrhagic disorder
+Hemorrhagic fevers, Viral
+Henoch-Schoenlein purpura
+Hepatitis
+Hepatitis B
+Hepatitis C
+Hepatitis, Autoimmune
+Hepatoblastoma
+Hereditary disease
+Hereditary nonpolyposis colorectal tumor
+Herpes
+Histiocytosis
+Hodgkin's disease
+Huntington disease
+Hydatidiform mole
+Hydrocephalus
+Hyperaldosteronism
+Hypercholesterolemia
+Hyperglycemia
+Hyperhomocysteinemia
+Hyperinsulinism
+Hyperlipidemia
+Hyperopia
+Hyperparathyroidism
+Hypertension
+Hypertension, Pulmonary
+Hyperthyroidism
+Hyperuricemia
+Hypogammaglobulinemia
+Hypoglycemia
+Hypogonadism
+Hypopituitarism
+Hypothyroidism
+IGA glomerulonephritis
+Ichthyoses
+Immune complex disease
+Immunologic deficiency syndrome
+Infantile spasms
+Infection
+Infection by cryptococcus neoformans
+Infectious lung disease
+Infertility
+Infertility, Male
+Infiltrating cancer
+Inflammation of the central nervous system
+Influenza
+Intermediate coronary syndrome
+Intestinal disease
+Intracranial aneurysm
+Intracranial hypertension
+Intractable epilepsy
+Intraocular melanoma
+Iron overload
+Ischemia
+Kaposi sarcoma
+Keratoconjunctivitis Sicca
+Keratoconus
+Keratosis
+Kidney cancer
+Kidney disease
+Kidney failure
+Kidney tubular necrosis, acute
+Kuhnt-Junius degeneration
+Labor, Premature
+Larynx cancer
+Late pregnancy
+Learning disorder
+Leigh disease
+Leiomyosarcoma
+Leprosy
+Leukemia
+Leukodystrophy NOS
+Leukoencephalopathy
+Leukopenia
+Lewy body disease
+Lichen planus
+Lipodystrophy
+Lipoidosis
+Liver cancer
+Liver disease
+Liver failure
+Liver metastases
+Liver tumor
+Long QT syndrome
+Lung cancer
+Lung disease
+Lupus erythematosus
+Lupus vulgaris
+Lyme disease
+Lymphatic metastasis
+Lymphoma
+Lymphopenia
+Lymphoproliferative disorder
+Lysosomal storage disease
+Macular degeneration
+Malaria
+Malignant childhood tumor
+Malignant fibroxanthoma
+Malignant glioma
+Malnutrition
+Mastocytosis
+Melanoma
+Meningioma
+Mental retardation
+Mesothelioma
+Metabolic syndrome X
+Metabolism disease
+Metaplastic polyp
+Metastasis to lymph nodes
+Metastatic cancer to brain
+Migraine
+Mitochondrial disease
+Mitochondrial encephalomyopathies
+Mitral valve disease
+Mixed salivary gland tumor
+Movement disorder
+Moyamoya disease
+Mucocutaneous lymph node syndrome
+Mucopolysaccharidosis
+Multiple endocrine neoplasia
+Multiple malignancy
+Multiple myeloma
+Multiple sclerosis
+Multiple system atrophy
+Muscular atrophy
+Muscular dystrophies
+Muscular dystrophy
+Myasthenia Gravis
+Mycobacterium infection, Atypical
+Mycoplasma pneumonia
+Mycoses
+Mycosis fungoides
+Myelofibrosis
+Myeloid metaplasia
+Myeloproliferative disease
+Myoclonic epilepsies, Progressive
+Myoclonic epilepsy, Juvenile
+Myopathies, Nemaline
+Myopathy
+Myotonic disorder
+Narcolepsy
+Nasopharyngeal cancer
+Neck cancer
+Necrotizing enterocolitis
+Neoplasm metastasis
+Nephritis
+Nephroblastoma
+Nephrosis
+Nervous system disease
+Nervous system tumor
+Neurilemmoma
+Neuritis
+Neuroblastoma
+Neurodegenerative disorder
+Neuroendocrine tumor
+Neurofibromatosis
+Neuropathy
+Neurotic disorder
+Neutropenia
+Nevus
+Obesity
+Obsessive-compulsive disorder
+Oligospermia
+Optic atrophy
+Oral cancer
+Osteitis deformans
+Osteomyelitis
+Osteoporosis
+Osteosarcoma
+Otitis media
+Ovarian cancer
+Ovarian disease
+Ovarian failure
+Ovary cancer
+Overnutrition
+PEComa
+Palmoplantar keratosis
+Pancreas cancer
+Pancreas disease
+Pancreatitis
+Panic disorder
+Papillary adenocarcinoma
+Papillary cancer
+Papillomavirus infection
+Parasitic disease
+Parkinson disease
+Pelvic inflammatory disease
+Pemphigoid, Bullous
+Penile disease
+Peptic esophagitis
+Peptic ulcer
+Periodontal disease
+Periodontitis
+Peripheral nerve sheath cancer
+Peripheral nerve sheath tumor
+Pertussis
+Pervasive development disorder
+Phobic anxiety disorder
+Pick disease of the brain
+Pilomatrixoma
+Pituitary tumor
+Placenta disease
+Pleural effusion, Malignant
+Pneumoconiosis
+Polyarthritis
+Polycystic kidney
+Polycystic ovary syndrome
+Polycythemia
+Polymyositis
+Polyneuropathy
+Porcine reproductive and respiratory syndrome
+Pre-Eclampsia
+Premature birth
+Primary biliary cirrhosis
+Primary hyperparathyroidism
+Primary tumor
+Prion disease
+Prostate cancer
+Prostatic hypertrophy, Benign
+Protein deficiency
+Protein-energy malnutrition
+Proteinuria
+Protozoan infection
+Pseudoxanthoma elasticum
+Psoriasis
+Psychotic disorder
+Ptosis
+Pulmonary alveolar proteinosis
+Pulmonary embolism
+Pulmonary fibrosis
+Pulmonary hypertension
+Purpura, Thrombocytopenic, Idiopathic
+Pyelonephritis
+Rabies
+Rectal tumor
+Rectum cancer
+Renal Cell cancer
+Renal tubular acidosis
+Respiratory distress syndrome
+Respiratory failure
+Respiratory tract disease
+Reticulosarcoma
+Retinal disease
+Retinitis pigmentosa
+Retinoblastoma
+Rett syndrome
+Rhabdomyosarcoma
+Rhabdomyosarcoma, Embryonal
+Rheumatic fever
+Rheumatism
+Rheumatoid arthritis
+Salmonella infection
+Sarcoidosis
+Sarcoma
+Schistosoma mansonii infection
+Schistosomiasis
+Schizophrenia
+Scleroderma
+Sella turcica tumor
+Seminoma
+Septicemia
+Serous cancer
+Severe acute respiratory syndrome
+Shigella infection
+Sicca syndrome
+Sickle cell disease
+Silicosis
+Sinusitis
+Skin cancer
+Skin disease
+Skin disease, Genetic
+Skin tumor
+Solid tumor
+Spastic paraplegia, Hereditary
+Spinal cord disease
+Spinal dysraphism
+Spinocerebellar ataxias
+Splenic disease
+Spondylarthropathies
+Squamous cell cancer
+Stomach cancer
+Stomach disease
+Stress disorder, post-traumatic
+Stroke
+Subacute sclerosing panencephalitis
+Subarachnoid hemorrhage
+Sudden infant death syndrome
+Supranuclear palsy, progressive
+Synovial sarcoma
+Synovitis
+Systemic infection
+Systemic scleroderma
+Takayasu's arteritis
+Temporal arteritis
+Testicular dysfunction
+Testicular tumor
+Thalassemia
+Thromboangiitis obliterans
+Thrombocythemia, Hemorrhagic
+Thrombocytopenia
+Thrombocytosis
+Thrombophilia
+Thrombophlebitis
+Thymoma
+Thyroid cancer
+Thyroid gland disease
+Thyroiditis
+Tic disorder
+Tooth disease
+Transient hypertension of pregnancy
+Tropical spastic paraparesis
+Tuberculosis
+Tuberous sclerosis
+Tumor virus infection
+Turner's syndrome
+Ulcerative colitis
+Urinary tract infection
+Urogenital abnormalities
+Uterine cancer
+Uterine disease
+Uterine fibroids
+Uveitis
+Uveomeningoencephalitic syndrome
+Vaccinia
+Varicosity
+Vascular dementia
+Vascular disease
+Vasculitis
+Viral hepatitis
+Viremia
+Virus disease
+Vitamin B deficiency
+Vitamin D deficiency
+Vitiligo
+Von Hippel-Lindau syndrome
+Vulvar disease
+Werner syndrome
+Wiskott-Aldrich syndrome
+Yersinia infection
+Yolk Sac tumor

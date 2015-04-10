@@ -1,0 +1,563 @@
+doid	dolite_name
+DOID:635	AIDS
+	Abortion
+	Abruption placentae
+	Achalasia and cardiospasm
+DOID:6543	Acne
+DOID:2449	Acromegaly
+DOID:8866	Actinic keratosis
+DOID:299	Adenocarcinoma
+	Adenocarcinoma, Mucinous
+DOID:4866	Adenoid cystic cancer
+DOID:657	Adenoma
+	Adenoma of thyroid
+	Adenovirus infection
+DOID:3947	Adrenal gland hyperfunction
+	Adrenal gland hypofunction
+	Adrenal gland tumor
+DOID:10588	Adrenoleukodystrophy
+	Advanced cancer
+DOID:13533	Albers-Schonberg disease
+	Alcoholic liver disease
+DOID:77	Alimentary system disease
+DOID:987	Alopecia
+	Alveolar bone loss
+DOID:10652	Alzheimer's disease
+	Amaurosis congenita of leber I 
+	Amnionitis
+DOID:9120	Amyloidosis
+DOID:332	Amyotrophic lateral sclerosis
+DOID:2355	Anemia
+DOID:3314	Angiomyolipoma
+DOID:7147	Ankylosing spondylitis
+DOID:227	Ankylosis
+DOID:8689	Anorexia nervosa
+DOID:2988	Antiphospholipid syndrome
+DOID:2030	Anxiety disorder
+DOID:3627	Aortic aneurysm
+DOID:62	Aortic valve disease
+DOID:12449	Aplastic anemia
+	Arteriopathy
+DOID:848	Arthritis
+	Aseptic necrosis of bone
+DOID:2841	Asthma
+DOID:12704	Ataxia telangiectasia
+DOID:1936	Atherosclerosis
+DOID:4481	Atopic rhinitis
+DOID:1094	Attention deficit hyperactivity disorder
+DOID:12849	Autistic disorder
+DOID:417	Autoimmune disease
+DOID:7188	Autoimmune thyroiditis
+DOID:14227	Azoospermia
+	Bacterial infection
+DOID:3385	Bacterial vaginosis
+DOID:1935	Bardet-Biedl syndrome
+DOID:9206	Barrett's esophagus
+DOID:2513	Basal cell carcinoma
+DOID:5572	Beckwith-Wiedemann syndrome
+	Behavior disease
+DOID:13241	Behcet syndrome
+DOID:13608	Biliary Atresia
+	Biliary cancer
+DOID:3312	Bipolar disorder
+DOID:11054	Bladder cancer
+DOID:0080001	Bone disease
+DOID:4961	Bone marrow disease
+	Bone metastases
+DOID:936	Brain disease
+DOID:2316	Brain ischemia
+	Brain tumor
+DOID:1612	Breast cancer
+DOID:1176	Bronchial disease
+DOID:2841	Bronchial hyperreactivity
+DOID:9563	Bronchiectasis
+DOID:2942	Bronchiolitis
+DOID:2799	Bronchiolitis obliterans
+	Bronchopulmonary dysplasia
+DOID:11077	Brucellosis
+	Bulimia
+	CNS lymphoma
+	CNS metastases
+DOID:162	Cancer
+	Capillaries disease
+DOID:305	Carcinoma
+	Cardiovascular disease
+DOID:10608	Celiac disease
+DOID:331	Central nervous system disease
+DOID:2786	Cerebellar disease
+DOID:1969	Cerebral palsy
+DOID:6713	Cerebrovascular disorder
+DOID:4362	Cervical cancer
+DOID:10595	Charcot-Marie-Tooth disease
+DOID:4947	Cholangiocarcinoma
+DOID:9446	Cholangitis
+DOID:10211	Cholelithiasis
+DOID:13580	Cholestasis
+DOID:3371	Chondrosarcoma
+DOID:3302	Chordoma
+DOID:3594	Choriocarcinoma
+DOID:8886	Chorioretinitis
+DOID:8544	Chronic fatigue syndrome
+DOID:3083	Chronic obstructive airway disease
+DOID:12558	Chronic progressive external ophthalmoplegia
+	Chronic rejection of renal transplant
+DOID:1070	Chronic simple glaucoma
+DOID:5082	Cirrhosis
+	Clear cell carcinoma
+DOID:674	Cleft palate
+DOID:2962	Cockayne syndrome
+DOID:219	Colon cancer
+DOID:628	Combined immunodeficiency
+DOID:10459	Common cold
+DOID:12177	Common variable immunodeficiency
+DOID:11165	Common wart
+	Communicable disease
+DOID:12995	Conduct disorder
+	Congenital abnormality
+DOID:1682	Congenital heart disease
+DOID:65	Connective tissue disease
+	Copper metabolism disorder
+DOID:10124	Corneal disease
+	Coronavirus infection
+DOID:2340	Craniosynostosis
+	Creutzfeldt-Jakob syndrome
+DOID:12252	Cushing syndrome
+DOID:4418	Cutaneous fibrous histiocytoma
+DOID:1485	Cystic fibrosis
+DOID:1679	Cystitis
+	Cytomegalovirus infection
+	Deafness
+DOID:90	Degenerative disc disease
+DOID:3213	Demyelinating disease
+DOID:693	Dental enamel hypoplasia
+	Dental plaque
+	Depression
+DOID:2723	Dermatitis
+DOID:9409	Diabetes insipidus
+DOID:9351	Diabetes mellitus
+	Disseminated cancer
+DOID:11247	Disseminated intravascular coagulation
+DOID:14250	Down syndrome
+	Drug abuse
+	Drug-Induced dyskinesia
+DOID:12557	Duane retraction syndrome
+DOID:8670	Eating disorder
+	Ectodermal dysplasia
+DOID:4766	Embryoma
+	Emphysema
+DOID:9588	Encephalitis
+	Encephalopathies
+DOID:13198	Endemic goiter
+DOID:170	Endocrine gland cancer
+DOID:28	Endocrine system disease
+DOID:1380	Endometrial cancer
+DOID:289	Endometriosis
+	Endometrium cancer
+	Enteritis
+DOID:999	Eosinophilia
+	Ependymoma
+DOID:2730	Epidermolysis bullosa
+DOID:1826	Epilepsy
+	Epstein-Barr virus infection
+DOID:6050	Esophageal disease
+	Esophageal tumor
+DOID:11963	Esophagitis
+DOID:5041	Esophagus cancer
+DOID:9840	Esotropia
+DOID:3369	Ewings sarcoma
+	Extramammary Paget's disease
+	Eye cancer
+DOID:5614	Eye disease
+DOID:2987	Familial Mediterranean fever
+DOID:13636	Fanconi's anemia
+	Fatty liver
+DOID:120	Female reproductive cancer
+	Female reproductive system disorder
+	Fetal disease
+DOID:1618	Fibroadenoma
+	Fibroid tumor
+DOID:0050871	Fibroma
+DOID:631	Fibromyalgia
+DOID:3355	Fibrosarcoma
+DOID:1080	Filariasis
+	Folic acid deficiency
+	Gallbaldder cancer
+DOID:0060262	Gallbladder disease
+DOID:4029	Gastritis
+	Gastrointestinal cancer
+	Gastrointestinal infection
+DOID:9253	Gastrointestinal stromal tumor
+	Gastrointestinal tumor
+DOID:14320	Generalized anxiety disorder
+	Germ cell tumor
+DOID:11714	Gestational diabetes
+	Gestational trophoblastic tumor
+	Gigantism
+DOID:11119	Gilles de la Tourette syndrome
+DOID:3086	Gingival overgrowth
+DOID:1686	Glaucoma
+DOID:2921	Glomerulonephritis
+DOID:10603	Glucose intolerance
+DOID:2747	Glycogen storage disease
+DOID:14447	Gonadal dysgenesis
+	Gouts
+	Gram-Negative bacterial infection
+	Granulomatous disease
+DOID:12361	Graves' disease
+	Growth retardation
+DOID:13133	HELLP syndrome
+DOID:526	HIV infection
+	HTLV-I infection
+DOID:2800	Hamman-Rich syndrome
+DOID:114	Heart disease
+	Heart failure
+DOID:4079	Heart valve disease
+	Helicobacter infection
+DOID:883	Helminthiasis
+DOID:255	Hemangioma
+DOID:74	Hematopoietic system disease
+DOID:2860	Hemoglobinopathies
+DOID:583	Hemolytic anemia
+DOID:12554	Hemolytic-Uremic syndrome
+	Hemophilia
+	Hemorrhagic disorder
+	Hemorrhagic fevers, Viral
+DOID:11123	Henoch-Schoenlein purpura
+DOID:2237	Hepatitis
+DOID:2043	Hepatitis B
+DOID:1883	Hepatitis C
+	Hepatitis, Autoimmune
+DOID:687	Hepatoblastoma
+	Hereditary disease
+	Hereditary nonpolyposis colorectal tumor
+	Herpes
+DOID:3405	Histiocytosis
+	Hodgkin's disease
+DOID:12858	Huntington disease
+DOID:3590	Hydatidiform mole
+DOID:10908	Hydrocephalus
+DOID:446	Hyperaldosteronism
+	Hypercholesterolemia
+DOID:4195	Hyperglycemia
+DOID:9279	Hyperhomocysteinemia
+DOID:2018	Hyperinsulinism
+	Hyperlipidemia
+DOID:9834	Hyperopia
+DOID:13543	Hyperparathyroidism
+DOID:10763	Hypertension
+	Hypertension, Pulmonary
+DOID:7998	Hyperthyroidism
+DOID:1920	Hyperuricemia
+DOID:2583	Hypogammaglobulinemia
+DOID:9993	Hypoglycemia
+DOID:1924	Hypogonadism
+DOID:9406	Hypopituitarism
+DOID:1459	Hypothyroidism
+DOID:2986	IGA glomerulonephritis
+	Ichthyoses
+DOID:1557	Immune complex disease
+	Immunologic deficiency syndrome
+	Infantile spasms
+	Infection
+	Infection by cryptococcus neoformans
+	Infectious lung disease
+DOID:5223	Infertility
+	Infertility, Male
+	Infiltrating cancer
+	Inflammation of the central nervous system
+DOID:8469	Influenza
+DOID:8805	Intermediate coronary syndrome
+DOID:5295	Intestinal disease
+DOID:10941	Intracranial aneurysm
+DOID:9428	Intracranial hypertension
+	Intractable epilepsy
+DOID:1752	Intraocular melanoma
+	Iron overload
+DOID:326	Ischemia
+DOID:8632	Kaposi sarcoma
+DOID:12895	Keratoconjunctivitis Sicca
+DOID:10126	Keratoconus
+DOID:161	Keratosis
+DOID:263	Kidney cancer
+DOID:557	Kidney disease
+DOID:1074	Kidney failure
+	Kidney tubular necrosis, acute
+DOID:10873	Kuhnt-Junius degeneration
+	Labor, Premature
+DOID:2596	Larynx cancer
+	Late pregnancy
+DOID:8927	Learning disorder
+DOID:3652	Leigh disease
+DOID:1967	Leiomyosarcoma
+DOID:1024	Leprosy
+DOID:1240	Leukemia
+	Leukodystrophy NOS
+	Leukoencephalopathy
+DOID:615	Leukopenia
+DOID:12217	Lewy body disease
+DOID:9201	Lichen planus
+DOID:811	Lipodystrophy
+DOID:9455	Lipoidosis
+DOID:3571	Liver cancer
+DOID:409	Liver disease
+	Liver failure
+	Liver metastases
+	Liver tumor
+DOID:2843	Long QT syndrome
+DOID:1324	Lung cancer
+DOID:850	Lung disease
+DOID:8857	Lupus erythematosus
+	Lupus vulgaris
+DOID:11729	Lyme disease
+	Lymphatic metastasis
+DOID:0060058	Lymphoma
+DOID:614	Lymphopenia
+	Lymphoproliferative disorder
+DOID:3211	Lysosomal storage disease
+DOID:4448	Macular degeneration
+DOID:12365	Malaria
+	Malignant childhood tumor
+DOID:1907	Malignant fibroxanthoma
+DOID:3070	Malignant glioma
+	Malnutrition
+DOID:350	Mastocytosis
+DOID:1909	Melanoma
+DOID:3565	Meningioma
+DOID:1059	Mental retardation
+	Mesothelioma
+DOID:14221	Metabolic syndrome X
+	Metabolism disease
+	Metaplastic polyp
+	Metastasis to lymph nodes
+	Metastatic cancer to brain
+DOID:6364	Migraine
+	Mitochondrial disease
+	Mitochondrial encephalomyopathies
+DOID:61	Mitral valve disease
+	Mixed salivary gland tumor
+	Movement disorder
+DOID:13099	Moyamoya disease
+DOID:13378	Mucocutaneous lymph node syndrome
+DOID:12798	Mucopolysaccharidosis
+	Multiple endocrine neoplasia
+	Multiple malignancy
+DOID:9538	Multiple myeloma
+DOID:2377	Multiple sclerosis
+DOID:4752	Multiple system atrophy
+DOID:767	Muscular atrophy
+	Muscular dystrophies
+DOID:9884	Muscular dystrophy
+DOID:437	Myasthenia Gravis
+	Mycobacterium infection, Atypical
+	Mycoplasma pneumonia
+DOID:1564	Mycoses
+DOID:8691	Mycosis fungoides
+DOID:4971	Myelofibrosis
+	Myeloid metaplasia
+DOID:4960	Myeloproliferative disease
+	Myoclonic epilepsies, Progressive
+	Myoclonic epilepsy, Juvenile
+	Myopathies, Nemaline
+DOID:423	Myopathy
+	Myotonic disorder
+DOID:8986	Narcolepsy
+	Nasopharyngeal cancer
+	Neck cancer
+DOID:8677	Necrotizing enterocolitis
+	Neoplasm metastasis
+DOID:10952	Nephritis
+DOID:2154	Nephroblastoma
+DOID:2527	Nephrosis
+DOID:863	Nervous system disease
+	Nervous system tumor
+DOID:3192	Neurilemmoma
+DOID:1803	Neuritis
+DOID:769	Neuroblastoma
+	Neurodegenerative disorder
+DOID:169	Neuroendocrine tumor
+DOID:8712	Neurofibromatosis
+DOID:870	Neuropathy
+DOID:4964	Neurotic disorder
+DOID:1227	Neutropenia
+	Nevus
+DOID:9970	Obesity
+DOID:10933	Obsessive-compulsive disorder
+DOID:14228	Oligospermia
+DOID:5723	Optic atrophy
+	Oral cancer
+DOID:5408	Osteitis deformans
+DOID:1019	Osteomyelitis
+DOID:11476	Osteoporosis
+DOID:3347	Osteosarcoma
+DOID:10754	Otitis media
+DOID:2394	Ovarian cancer
+DOID:1100	Ovarian disease
+	Ovarian failure
+	Ovary cancer
+DOID:654	Overnutrition
+DOID:2643	PEComa
+DOID:3390	Palmoplantar keratosis
+	Pancreas cancer
+DOID:26	Pancreas disease
+DOID:4989	Pancreatitis
+DOID:594	Panic disorder
+DOID:3112	Papillary adenocarcinoma
+	Papillary cancer
+	Papillomavirus infection
+	Parasitic disease
+DOID:14330	Parkinson disease
+DOID:1003	Pelvic inflammatory disease
+	Pemphigoid, Bullous
+DOID:1529	Penile disease
+DOID:13976	Peptic esophagitis
+	Peptic ulcer
+DOID:3388	Periodontal disease
+DOID:824	Periodontitis
+	Peripheral nerve sheath cancer
+	Peripheral nerve sheath tumor
+DOID:1116	Pertussis
+DOID:0060040	Pervasive development disorder
+	Phobic anxiety disorder
+	Pick disease of the brain
+DOID:5374	Pilomatrixoma
+	Pituitary tumor
+DOID:780	Placenta disease
+	Pleural effusion, Malignant
+DOID:10316	Pneumoconiosis
+	Polyarthritis
+	Polycystic kidney
+DOID:11612	Polycystic ovary syndrome
+DOID:8432	Polycythemia
+	Polymyositis
+DOID:1389	Polyneuropathy
+	Porcine reproductive and respiratory syndrome
+DOID:10591	Pre-Eclampsia
+	Premature birth
+DOID:12236	Primary biliary cirrhosis
+DOID:11202	Primary hyperparathyroidism
+	Primary tumor
+DOID:649	Prion disease
+DOID:10283	Prostate cancer
+	Prostatic hypertrophy, Benign
+	Protein deficiency
+DOID:11801	Protein-energy malnutrition
+DOID:576	Proteinuria
+	Protozoan infection
+DOID:2738	Pseudoxanthoma elasticum
+DOID:8893	Psoriasis
+DOID:2468	Psychotic disorder
+DOID:0060260	Ptosis
+DOID:12120	Pulmonary alveolar proteinosis
+DOID:9477	Pulmonary embolism
+DOID:3770	Pulmonary fibrosis
+DOID:6432	Pulmonary hypertension
+	Purpura, Thrombocytopenic, Idiopathic
+DOID:11400	Pyelonephritis
+DOID:11260	Rabies
+DOID:1984	Rectal tumor
+DOID:1993	Rectum cancer
+	Renal Cell cancer
+DOID:14219	Renal tubular acidosis
+	Respiratory distress syndrome
+DOID:11162	Respiratory failure
+	Respiratory tract disease
+DOID:8538	Reticulosarcoma
+DOID:5679	Retinal disease
+DOID:10584	Retinitis pigmentosa
+DOID:768	Retinoblastoma
+DOID:1206	Rett syndrome
+DOID:3247	Rhabdomyosarcoma
+	Rhabdomyosarcoma, Embryonal
+DOID:1586	Rheumatic fever
+	Rheumatism
+DOID:7148	Rheumatoid arthritis
+	Salmonella infection
+DOID:11335	Sarcoidosis
+DOID:1115	Sarcoma
+	Schistosoma mansonii infection
+DOID:1395	Schistosomiasis
+DOID:5419	Schizophrenia
+DOID:419	Scleroderma
+DOID:418	Scleroderma
+	Sella turcica tumor
+DOID:4440	Seminoma
+	Septicemia
+	Serous cancer
+DOID:2945	Severe acute respiratory syndrome
+	Shigella infection
+DOID:12894	Sicca syndrome
+	Sickle cell disease
+DOID:10325	Silicosis
+DOID:0050127	Sinusitis
+DOID:4159	Skin cancer
+DOID:37	Skin disease
+	Skin disease, Genetic
+	Skin tumor
+	Solid tumor
+	Spastic paraplegia, Hereditary
+DOID:319	Spinal cord disease
+DOID:1089	Spinal dysraphism
+	Spinocerebellar ataxias
+DOID:2529	Splenic disease
+	Spondylarthropathies
+DOID:1749	Squamous cell cancer
+DOID:10534	Stomach cancer
+DOID:76	Stomach disease
+	Stress disorder, post-traumatic
+DOID:6713	Stroke
+DOID:8970	Subacute sclerosing panencephalitis
+	Subarachnoid hemorrhage
+DOID:9007	Sudden infant death syndrome
+	Supranuclear palsy, progressive
+DOID:5485	Synovial sarcoma
+DOID:2703	Synovitis
+	Systemic infection
+DOID:418	Systemic scleroderma
+DOID:2508	Takayasu's arteritis
+DOID:13375	Temporal arteritis
+	Testicular dysfunction
+DOID:2998	Testicular tumor
+DOID:10241	Thalassemia
+DOID:12918	Thromboangiitis obliterans
+	Thrombocythemia, Hemorrhagic
+DOID:1588	Thrombocytopenia
+DOID:2228	Thrombocytosis
+DOID:2452	Thrombophilia
+DOID:3875	Thrombophlebitis
+DOID:3275	Thymoma
+DOID:1781	Thyroid cancer
+DOID:50	Thyroid gland disease
+DOID:7166	Thyroiditis
+DOID:2769	Tic disorder
+DOID:1091	Tooth disease
+	Transient hypertension of pregnancy
+DOID:321	Tropical spastic paraparesis
+DOID:399	Tuberculosis
+DOID:13515	Tuberous sclerosis
+	Tumor virus infection
+	Turner's syndrome
+DOID:8577	Ulcerative colitis
+DOID:13148	Urinary tract infection
+	Urogenital abnormalities
+DOID:363	Uterine cancer
+DOID:345	Uterine disease
+	Uterine fibroids
+DOID:13141	Uveitis
+DOID:12297	Uveomeningoencephalitic syndrome
+DOID:3298	Vaccinia
+	Varicosity
+DOID:8725	Vascular dementia
+DOID:178	Vascular disease
+DOID:865	Vasculitis
+DOID:1884	Viral hepatitis
+	Viremia
+	Virus disease
+	Vitamin B deficiency
+	Vitamin D deficiency
+DOID:12306	Vitiligo
+DOID:14175	Von Hippel-Lindau syndrome
+DOID:2059	Vulvar disease
+DOID:5688	Werner syndrome
+DOID:9169	Wiskott-Aldrich syndrome
+	Yersinia infection
+	Yolk Sac tumor

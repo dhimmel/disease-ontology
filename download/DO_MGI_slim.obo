@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 16:02:2015 16:07
+date: 15:04:2015 15:23
 saved-by: emitraka
 auto-generated-by: OBO-Edit 2.3.1
 subsetdef: DO_cancer_slim "DO cancer slim"
@@ -83,7 +83,7 @@ xref: UMLS_CUI:C0342200
 [Term]
 id: DOID:0050425
 name: restless legs syndrome
-def: "A central nervous system disease characterized_by throbbing, pulling creeping or other unpleasant sensations in the legs and the irresistible urge to move them." [url:http\://en.wikipedia.org/wiki/Restless_legs_syndrome, url:http\://www.ninds.nih.gov/disorders/restless_legs/detail_restless_legs.htm]
+def: "A central nervous system disease characterized by throbbing, pulling creeping or other unpleasant sensations in the legs and the irresistible urge to move them." [url:http\://en.wikipedia.org/wiki/Restless_legs_syndrome, url:http\://www.ninds.nih.gov/disorders/restless_legs/detail_restless_legs.htm]
 comment: Xref MGI.
 subset: DO_MGI_slim
 synonym: "WED" EXACT []
@@ -105,7 +105,7 @@ xref: OMIM:615197
 [Term]
 id: DOID:0050428
 name: nonepidermolytic palmoplantar keratoderma
-def: "A palmoplantar keratosis characterized_by a well-demarcated, symmetric keratoderma located_in palms and located_in soles." [url:http\://en.wikipedia.org/wiki/Palmoplantar_keratoderma]
+def: "A palmoplantar keratosis characterized by a well-demarcated, symmetric keratoderma located_in palms and located_in soles." [url:http\://en.wikipedia.org/wiki/Palmoplantar_keratoderma]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
 subset: DO_MGI_slim
 synonym: "diffuse nonepidermolytic palmomplantar keratoderma" EXACT []
@@ -164,7 +164,7 @@ xref: ORDO:1162
 [Term]
 id: DOID:0050439
 name: Usher syndrome
-def: "A syndrome characterized_by a combination of hearing loss and visual impairment." [url:http\://en.wikipedia.org/wiki/Usher_syndrome]
+def: "A syndrome characterized by a combination of hearing loss and visual impairment." [url:http\://en.wikipedia.org/wiki/Usher_syndrome]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [LS].
 subset: DO_MGI_slim
 xref: ICD10CM:H35.5
@@ -188,7 +188,7 @@ xref: ORDO:886
 [Term]
 id: DOID:0050440
 name: familial partial lipodystrophy
-def: "A lipodystrophy characterized_by abnormal subcutaneous adipose tissue distribution beginning in late childhood or early adult life." [url:http\://en.wikipedia.org/wiki/Familial_partial_lipodystrophy, url:http\://omim.org/entry/608600]
+def: "A lipodystrophy characterized by abnormal subcutaneous adipose tissue distribution beginning in late childhood or early adult life." [url:http\://en.wikipedia.org/wiki/Familial_partial_lipodystrophy, url:http\://omim.org/entry/608600]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
 subset: DO_MGI_slim
 synonym: "Dunnigan Syndrome" EXACT []
@@ -203,7 +203,7 @@ xref: OMIM:615238
 [Term]
 id: DOID:0050448
 name: hereditary mucosal leukokeratosis
-def: "A skin disease characterized_by a defect in the normal process of keratinization of the mucosa." [url:http\://en.wikipedia.org/wiki/White_sponge_nevus, url:http\://omim.org/entry/193900]
+def: "A skin disease characterized by a defect in the normal process of keratinization of the mucosa." [url:http\://en.wikipedia.org/wiki/White_sponge_nevus, url:http\://omim.org/entry/193900]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
 subset: DO_MGI_slim
 synonym: "white sponge nevus" EXACT []
@@ -218,7 +218,7 @@ xref: ORDO:171723
 [Term]
 id: DOID:0050453
 name: lissencephaly
-def: "A congenital nervous system abnormality characterized_by the absence of folds in the cerebral cortex and caused_by defective neuronal migration during the 12th to 24th weeks of gestation." [url:http\://en.wikipedia.org/wiki/Lissencephaly, url:http\://www.ninds.nih.gov/disorders/lissencephaly/lissencephaly.htm]
+def: "A congenital nervous system abnormality characterized by the absence of folds in the cerebral cortex and caused_by defective neuronal migration during the 12th to 24th weeks of gestation." [url:http\://en.wikipedia.org/wiki/Lissencephaly, url:http\://www.ninds.nih.gov/disorders/lissencephaly/lissencephaly.htm]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
 subset: DO_MGI_slim
 xref: ICD10CM:Q04.3
@@ -236,7 +236,7 @@ xref: ORDO:102009
 [Term]
 id: DOID:0050454
 name: periventricular nodular heterotopia
-def: "A congenital nervous system abnormality characterized_by non proper migration of neurons during the early development of the fetal brain." [url:http\://ghr.nlm.nih.gov/condition/periventricular-heterotopia]
+def: "A congenital nervous system abnormality characterized by non proper migration of neurons during the early development of the fetal brain." [url:http\://ghr.nlm.nih.gov/condition/periventricular-heterotopia]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
 subset: DO_MGI_slim
 synonym: "periventricular heterotopia" EXACT []
@@ -268,7 +268,7 @@ xref: ORDO:60030
 [Term]
 id: DOID:0050471
 name: Carney complex
-def: "An autosomal dominant disease characterized_by myxomas, spotty pigmentation of the skin and endocrine overactivity." [url:http\://en.wikipedia.org/wiki/Carney_complex, url:http\://ghr.nlm.nih.gov/condition/carney-complex]
+def: "An autosomal dominant disease characterized by myxomas, spotty pigmentation of the skin and endocrine overactivity." [url:http\://en.wikipedia.org/wiki/Carney_complex, url:http\://ghr.nlm.nih.gov/condition/carney-complex]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
 subset: DO_MGI_slim
 synonym: "Carney Complex, Type 1" EXACT []
@@ -287,7 +287,7 @@ xref: ORDO:1359
 [Term]
 id: DOID:0050475
 name: Weill-Marchesani syndrome
-def: "An autosomal genetic disease characterized_by short stature, bachycephaly and other facial abnormalities, brachydactyly, joint stiffness and distinctive ocular abnormalities." [url:http\://en.wikipedia.org/wiki/Weill-Marchesani_syndrome, url:http\://ghr.nlm.nih.gov/condition/weill-marchesani-syndrome]
+def: "An autosomal genetic disease characterized by short stature, bachycephaly and other facial abnormalities, brachydactyly, joint stiffness and distinctive ocular abnormalities." [url:http\://en.wikipedia.org/wiki/Weill-Marchesani_syndrome, url:http\://ghr.nlm.nih.gov/condition/weill-marchesani-syndrome]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [LS].
 subset: DO_MGI_slim
 synonym: "congenital mesodermal dystrophy" EXACT []
@@ -306,7 +306,7 @@ xref: ORDO:3449
 [Term]
 id: DOID:0050489
 name: multinodular goiter
-def: "A goiter characterized_by a multinodular enlargement of the thyroid gland." [url:http\://en.wikipedia.org/wiki/Multinodular_goitre]
+def: "A goiter characterized by a multinodular enlargement of the thyroid gland." [url:http\://en.wikipedia.org/wiki/Multinodular_goitre]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
 subset: DO_MGI_slim
 xref: OMIM:138800
@@ -360,7 +360,7 @@ xref: ORDO:215
 [Term]
 id: DOID:0050535
 name: exudative vitreoretinopathy
-def: "A retinal vascular disease characterized_by the prevention of blood vessel formation at the edges of the retina and the hemorrhage of the blood vessels in the retina." [url:http\://en.wikipedia.org/wiki/Familial_exudative_vitreoretinopathy, url:http\://ghr.nlm.nih.gov/condition/familial-exudative-vitreoretinopathy]
+def: "A retinal vascular disease characterized by the prevention of blood vessel formation at the edges of the retina and the hemorrhage of the blood vessels in the retina." [url:http\://en.wikipedia.org/wiki/Familial_exudative_vitreoretinopathy, url:http\://ghr.nlm.nih.gov/condition/familial-exudative-vitreoretinopathy]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
 subset: DO_MGI_slim
 synonym: "familial exudative vitreoretinopathy" EXACT []
@@ -466,7 +466,7 @@ xref: ORDO:289290
 [Term]
 id: DOID:0050545
 name: visceral heterotaxy
-def: "A physical disorder characterized_by the abnormal distribution of the major visceral organs within the chest and abdomen." [url:http\://en.wikipedia.org/wiki/Situs_ambiguus]
+def: "A physical disorder characterized by the abnormal distribution of the major visceral organs within the chest and abdomen." [url:http\://en.wikipedia.org/wiki/Situs_ambiguus]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
 subset: DO_MGI_slim
 synonym: "heterotaxia" EXACT []
@@ -524,6 +524,167 @@ xref: OMIM:613205
 xref: ORDO:97242
 
 [Term]
+id: DOID:0050564
+name: autosomal dominant nonsyndromic deafness
+def: "A nonsyndromic deafness characterized by an autosomal dominant inheritance mode." [url:http\://ghr.nlm.nih.gov/condition/nonsyndromic-deafness]
+comment: OMIM mapping confirmed by DO. [SN].
+subset: DO_MGI_slim
+synonym: "autosomal dominant deafness" EXACT []
+xref: ICD10CM:H90.3
+xref: OMIM:124900
+xref: OMIM:600101
+xref: OMIM:600652
+xref: OMIM:600965
+xref: OMIM:600994
+xref: OMIM:601316
+xref: OMIM:601317
+xref: OMIM:601369
+xref: OMIM:601412
+xref: OMIM:601543
+xref: OMIM:601544
+xref: OMIM:601868
+xref: OMIM:602459
+xref: OMIM:603622
+xref: OMIM:603964
+xref: OMIM:604717
+xref: OMIM:605192
+xref: OMIM:605583
+xref: OMIM:605594
+xref: OMIM:606012
+xref: OMIM:606282
+xref: OMIM:606346
+xref: OMIM:606451
+xref: OMIM:606705
+xref: OMIM:607017
+xref: OMIM:607197
+xref: OMIM:607453
+xref: OMIM:607683
+xref: OMIM:607841
+xref: OMIM:608224
+xref: OMIM:608372
+xref: OMIM:608394
+xref: OMIM:608641
+xref: OMIM:608645
+xref: OMIM:608652
+xref: OMIM:609965
+xref: OMIM:612431
+xref: OMIM:612642
+xref: OMIM:612643
+xref: OMIM:612644
+xref: OMIM:613074
+xref: OMIM:613558
+xref: OMIM:614152
+xref: OMIM:614211
+xref: OMIM:614314
+xref: OMIM:615629
+xref: OMIM:615649
+xref: OMIM:615654
+xref: ORDO:90635
+
+[Term]
+id: DOID:0050565
+name: autosomal recessive nonsyndromic deafness
+def: "A nonsyndromic deafness characterized by an autosomal recessive inheritance mode." [url:http\://ghr.nlm.nih.gov/condition/nonsyndromic-deafness]
+comment: OMIM mapping confirmed by DO. [SN].
+subset: DO_MGI_slim
+synonym: "autosomal recessive deafness" EXACT []
+xref: ICD10CM:H90.3
+xref: OMIM:220290
+xref: OMIM:600060
+xref: OMIM:600316
+xref: OMIM:600792
+xref: OMIM:600971
+xref: OMIM:600974
+xref: OMIM:601071
+xref: OMIM:601072
+xref: OMIM:601386
+xref: OMIM:601869
+xref: OMIM:602092
+xref: OMIM:603010
+xref: OMIM:603098
+xref: OMIM:603629
+xref: OMIM:603678
+xref: OMIM:603720
+xref: OMIM:604060
+xref: OMIM:605316
+xref: OMIM:605428
+xref: OMIM:605818
+xref: OMIM:607039
+xref: OMIM:607084
+xref: OMIM:607101
+xref: OMIM:607197
+xref: OMIM:607239
+xref: OMIM:607821
+xref: OMIM:608219
+xref: OMIM:608264
+xref: OMIM:608265
+xref: OMIM:608565
+xref: OMIM:608653
+xref: OMIM:609006
+xref: OMIM:609439
+xref: OMIM:609533
+xref: OMIM:609646
+xref: OMIM:609647
+xref: OMIM:609706
+xref: OMIM:609823
+xref: OMIM:609941
+xref: OMIM:609946
+xref: OMIM:609952
+xref: OMIM:610143
+xref: OMIM:610153
+xref: OMIM:610154
+xref: OMIM:610212
+xref: OMIM:610220
+xref: OMIM:610248
+xref: OMIM:610265
+xref: OMIM:610419
+xref: OMIM:611022
+xref: OMIM:611451
+xref: OMIM:612433
+xref: OMIM:612645
+xref: OMIM:612789
+xref: OMIM:613079
+xref: OMIM:613285
+xref: OMIM:613307
+xref: OMIM:613391
+xref: OMIM:613392
+xref: OMIM:613453
+xref: OMIM:613557
+xref: OMIM:613685
+xref: OMIM:613718
+xref: OMIM:613865
+xref: OMIM:613916
+xref: OMIM:614035
+xref: OMIM:614414
+xref: OMIM:614617
+xref: OMIM:614861
+xref: OMIM:614899
+xref: OMIM:614934
+xref: OMIM:614944
+xref: OMIM:614945
+xref: OMIM:615429
+xref: OMIM:615540
+xref: OMIM:615837
+xref: OMIM:615974
+xref: ORDO:90635
+
+[Term]
+id: DOID:0050566
+name: X-linked nonsyndromic deafness
+def: "A nonsyndromic deafness characterized by an X-linked inheritance mode." [url:http\://ghr.nlm.nih.gov/condition/nonsyndromic-deafness]
+comment: OMIM mapping confirmed by DO. [SN].
+subset: DO_MGI_slim
+synonym: "X-linked deafness" EXACT []
+xref: ICD10CM:H90.3
+xref: OMIM:300030
+xref: OMIM:300066
+xref: OMIM:300614
+xref: OMIM:300914
+xref: OMIM:304400
+xref: OMIM:304500
+xref: ORDO:90625
+
+[Term]
 id: DOID:0050567
 name: orofacial cleft
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
@@ -562,7 +723,7 @@ xref: ORDO:2311
 [Term]
 id: DOID:0050569
 name: Seckel syndrome
-def: "An autosomal recessive disease characterized_by intrauterine growth retardation and postnatal dwarfism with microcephaly and intellectual disability." [url:http\://en.wikipedia.org/wiki/Seckel_syndrome]
+def: "An autosomal recessive disease characterized by intrauterine growth retardation and postnatal dwarfism with microcephaly and intellectual disability." [url:http\://en.wikipedia.org/wiki/Seckel_syndrome]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
 subset: DO_MGI_slim
 synonym: "bird-headed dwarfism" EXACT []
@@ -652,7 +813,7 @@ xref: ORDO:79452
 [Term]
 id: DOID:0050581
 name: brachydactyly
-def: "A bone development disease characterized_by short fingers and toes." [url:http\://en.wikipedia.org/wiki/Brachydactyly]
+def: "A bone development disease characterized by short fingers and toes." [url:http\://en.wikipedia.org/wiki/Brachydactyly]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
 subset: DO_MGI_slim
 xref: OMIM:112440
@@ -739,7 +900,7 @@ xref: OMIM:613148
 [Term]
 id: DOID:0050590
 name: severe congenital neutropenia
-def: "A neutropenia characterized by a maturation arrest of granulopoiesis at the level or promyelocytes and early onset of severe bacterial infections." [PMID:17133096]
+def: "A neutropenia characterized by a maturation arrest of granulopoiesis at the level or promyelocytes and early onset of severe bacterial infections." [url:http\://www.ncbi.nlm.nih.gov/pubmed/17133096]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
 subset: DO_MGI_slim
 xref: ICD10CM:D70
@@ -755,7 +916,7 @@ xref: ORDO:86788
 [Term]
 id: DOID:0050591
 name: tooth agenesis
-def: "A tooth disease characterized_by failure to develop on or more missing teeth." [url:http\://en.wikipedia.org/wiki/Hypodontia]
+def: "A tooth disease characterized by failure to develop on or more missing teeth." [url:http\://en.wikipedia.org/wiki/Hypodontia]
 comment: Xref MGI.
 subset: DO_MGI_slim
 synonym: "familial tooth agenesis" EXACT []
@@ -842,7 +1003,7 @@ xref: ORDO:51
 [Term]
 id: DOID:0050632
 name: oculocutaneous albinism
-def: "An autosomal recessive disease characterized_by abnormal pigmentation of the skin, hair and eyes." [url:en.wikipedia.org/wiki/Oculocutaneous_albinism, url:http\://ghr.nlm.nih.gov/condition/oculocutaneous-albinism]
+def: "An autosomal recessive disease characterized by abnormal pigmentation of the skin, hair and eyes." [url:en.wikipedia.org/wiki/Oculocutaneous_albinism, url:http\://ghr.nlm.nih.gov/condition/oculocutaneous-albinism]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
 subset: DO_MGI_slim
 xref: ICD10CM:E70.3
@@ -858,7 +1019,7 @@ xref: ORDO:55
 [Term]
 id: DOID:0050635
 name: alternating hemiplegia of childhood
-def: "A hemiplegia characterized_by recurrent episodes of temporary weakness or complete paralysis on one or both sides of the body." [url:http\://en.wikipedia.org/wiki/Alternating_hemiplegia_of_childhood, url:http\://ghr.nlm.nih.gov/condition/alternating-hemiplegia-of-childhood]
+def: "A hemiplegia characterized by recurrent episodes of temporary weakness or complete paralysis on one or both sides of the body." [url:http\://en.wikipedia.org/wiki/Alternating_hemiplegia_of_childhood, url:http\://ghr.nlm.nih.gov/condition/alternating-hemiplegia-of-childhood]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
 subset: DO_MGI_slim
 synonym: "AHC" EXACT []
@@ -870,7 +1031,7 @@ xref: ORDO:2131
 [Term]
 id: DOID:0050639
 name: primary cutaneous amyloidosis
-def: "An amyloidosis characterized_by pruritus, skin scratching and by deposits of amyloid in the dermis." [PMID:19663869]
+def: "An amyloidosis characterized by pruritus, skin scratching and by deposits of amyloid in the dermis." [url:http\://www.ncbi.nlm.nih.gov/pubmed/19663869]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
 subset: DO_MGI_slim
 synonym: "familial primary localized cutaneous amyloidosis" EXACT []
@@ -904,7 +1065,7 @@ xref: ORDO:51608
 [Term]
 id: DOID:0050646
 name: distal arthrogryposis
-def: "A muscle tissue disease characterized_by congenital joint contractures of hand and feet." [url:http\://en.wikipedia.org/wiki/Arthrogryposis]
+def: "A muscle tissue disease characterized by congenital joint contractures of hand and feet." [url:http\://en.wikipedia.org/wiki/Arthrogryposis]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
 subset: DO_MGI_slim
 synonym: "Arthrogryposis Multiplex Congenita" EXACT []
@@ -955,7 +1116,7 @@ xref: ORDO:334
 [Term]
 id: DOID:0050651
 name: atrioventricular septal defect
-def: "A congenital heart septal defect characterized_by an abnormal or inadequate fusion of the superior and inferior endocardial cushions with the mid portion of the atrial septum and the muscular portion of the ventricular septum, thus allowing extra blood to circulate the lungs." [url:http\://en.wikipedia.org/wiki/Atrioventricular_septal_defect, url:http\://www.cdc.gov/ncbddd/heartdefects/avsd.html]
+def: "A congenital heart septal defect characterized by an abnormal or inadequate fusion of the superior and inferior endocardial cushions with the mid portion of the atrial septum and the muscular portion of the ventricular septum, thus allowing extra blood to circulate the lungs." [url:http\://en.wikipedia.org/wiki/Atrioventricular_septal_defect, url:http\://www.cdc.gov/ncbddd/heartdefects/avsd.html]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
 subset: DO_MGI_slim
 synonym: "atrioventricular canal defect" EXACT []
@@ -975,7 +1136,7 @@ xref: ORDO:98722
 [Term]
 id: DOID:0050661
 name: vitelliform macular dystrophy
-def: "A macular degeneration that can cause progressive vision loss, it is characterized_by the disruption of cells in a small area near the center of the retina, the macula." [url:http\://en.wikipedia.org/wiki/Vitelliform_macular_dystrophy, url:http\://ghr.nlm.nih.gov/condition/vitelliform-macular-dystrophy]
+def: "A macular degeneration that can cause progressive vision loss, it is characterized by the disruption of cells in a small area near the center of the retina, the macula." [url:http\://en.wikipedia.org/wiki/Vitelliform_macular_dystrophy, url:http\://ghr.nlm.nih.gov/condition/vitelliform-macular-dystrophy]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
 subset: DO_MGI_slim
 synonym: "Best disease" EXACT []
@@ -1012,7 +1173,7 @@ xref: ORDO:79303
 [Term]
 id: DOID:0050690
 name: brachyolmia
-def: "An osteochondrodysplasia characterized_by generalized platyspondyly without significant long bone abnormalities and short stature." [PMID:10968486]
+def: "An osteochondrodysplasia characterized by generalized platyspondyly without significant long bone abnormalities and short stature." [url:http\://www.ncbi.nlm.nih.gov/pubmed/10968486]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
 subset: DO_MGI_slim
 synonym: "brachyrachia" EXACT []
@@ -1073,7 +1234,7 @@ creation_date: 2013-02-21T11:51:57Z
 [Term]
 id: DOID:0050776
 name: non-syndromic X-linked intellectual disability
-def: "A non-syndromic intellectual disability characterized_by a X-linked inheritance pattern." [PMID:7011032]
+def: "A non-syndromic intellectual disability characterized by a X-linked inheritance pattern." [url:http\://www.ncbi.nlm.nih.gov/pubmed/7011032]
 comment: Xref MGI.
 subset: DO_MGI_slim
 synonym: "MENTAL RETARDATION, X-LINKED 95" EXACT []
@@ -1341,7 +1502,7 @@ creation_date: 2011-11-08T02:54:32Z
 [Term]
 id: DOID:0060225
 name: 3MC syndrome
-def: "A syndrome characterized by blepharophimosis, blepharoptosis, highly arched eyebrows hypertelorism, cleft lip and palate, postnatal growth deficiency, cognitive impairment, hearing loss and, in a smaller percentage of cases, craniosynostosis, radioulnar synostosis and genital and vesicorenal anomalies. It encompasses four disorders that were previously designated the Malpuech, Michels, Mingarelli and Carnevale syndromes." [PMID:16096999]
+def: "A syndrome characterized by blepharophimosis, blepharoptosis, highly arched eyebrows hypertelorism, cleft lip and palate, postnatal growth deficiency, cognitive impairment, hearing loss and, in a smaller percentage of cases, craniosynostosis, radioulnar synostosis and genital and vesicorenal anomalies. It encompasses four disorders that were previously designated the Malpuech, Michels, Mingarelli and Carnevale syndromes." [url:http\://www.ncbi.nlm.nih.gov/pubmed/16096999]
 comment: Xref MGI.
 subset: DO_MGI_slim
 synonym: "craniofacial-ulnar-renal syndrome" EXACT []
@@ -1357,7 +1518,7 @@ creation_date: 2015-01-16T15:08:40Z
 [Term]
 id: DOID:0060226
 name: acrofrontofacionasal dysostosis
-def: "A dysostosis characterized by intellectual disability, short stature, hypertelorism, broad notched nasal tip, cleft lip palate, postaxial camptobrachypolysyndactyly, fibular hypoplasia and anomalies of foot structure." [PMID:2986457, url:http\://en.wikipedia.org/wiki/Acrofrontofacionasal_dysostosis]
+def: "A dysostosis characterized by intellectual disability, short stature, hypertelorism, broad notched nasal tip, cleft lip palate, postaxial camptobrachypolysyndactyly, fibular hypoplasia and anomalies of foot structure." [url:http\://en.wikipedia.org/wiki/Acrofrontofacionasal_dysostosis, url:http\://www.ncbi.nlm.nih.gov/pubmed/2986457]
 comment: Xref MGI.
 subset: DO_MGI_slim
 synonym: "AFFN dysostosis" EXACT []
@@ -1429,7 +1590,7 @@ creation_date: 2015-01-16T16:52:25Z
 [Term]
 id: DOID:0060236
 name: xanthinuria
-def: "A purine-pyrimidine metabolic disorder characterized by deficiency of xanthine oxidase, resulting in excretion of large amounts of xanthine in the urine and the formation of xanthine stones." [PMID:4369449, url:http\://en.wikipedia.org/wiki/Xanthinuria]
+def: "A purine-pyrimidine metabolic disorder characterized by deficiency of xanthine oxidase, resulting in excretion of large amounts of xanthine in the urine and the formation of xanthine stones." [url:http\://en.wikipedia.org/wiki/Xanthinuria, url:http\://www.ncbi.nlm.nih.gov/pubmed/4369449]
 comment: NT MGI.
 subset: DO_MGI_slim
 synonym: "xanthine dehydrogenase deficiency" EXACT []
@@ -1448,7 +1609,7 @@ creation_date: 2015-01-27T14:10:42Z
 [Term]
 id: DOID:0060237
 name: Warburg micro syndrome
-def: "An autosomal recessive disease characterized by severe intellectual disability, microcephaly, congenital cataract, microcornea, microphthalmia, agenesis or hypoplasia of the corpus callosum and hypogenitalism." [PMID:22768674, url:http\://en.wikipedia.org/wiki/Micro_syndrome]
+def: "An autosomal recessive disease characterized by severe intellectual disability, microcephaly, congenital cataract, microcornea, microphthalmia, agenesis or hypoplasia of the corpus callosum and hypogenitalism." [url:http\://en.wikipedia.org/wiki/Micro_syndrome, url:http\://www.ncbi.nlm.nih.gov/pubmed/22768674]
 comment: NT MGI.
 subset: DO_MGI_slim
 synonym: "micro syndrome" EXACT []
@@ -1468,7 +1629,7 @@ creation_date: 2015-01-27T14:32:30Z
 [Term]
 id: DOID:0060238
 name: Van Maldergem syndrome
-def: "A syndrome characterized by facial abnormalities such as telecanthus, epicanthus, broad flattened nose, large inverted W-shaped mouth and malformed ears, malformed extremities such as camptodactyly, clinodactyly, interdigital webbing and joint hyperlaxity and mental retardation." [PMID:1633641]
+def: "A syndrome characterized by facial abnormalities such as telecanthus, epicanthus, broad flattened nose, large inverted W-shaped mouth and malformed ears, malformed extremities such as camptodactyly, clinodactyly, interdigital webbing and joint hyperlaxity and mental retardation." [url:http\://www.ncbi.nlm.nih.gov/pubmed/1633641]
 comment: NT MGI.
 subset: DO_MGI_slim
 synonym: "cerebro-facio-articular syndrome" EXACT []
@@ -1512,7 +1673,7 @@ creation_date: 2015-01-27T16:00:50Z
 [Term]
 id: DOID:0060242
 name: synpolydactyly
-def: "A syndactyly characterized by an increased number of digits; often a result of a mutation in the HOX D13 gene." [PMID:18177473, PMID:8817328, url:http\://en.wikipedia.org/wiki/Synpolydactyly]
+def: "A syndactyly characterized by an increased number of digits; often a result of a mutation in the HOX D13 gene." [url:http\://en.wikipedia.org/wiki/Synpolydactyly, url:http\://www.ncbi.nlm.nih.gov/pubmed/18177473, url:http\://www.ncbi.nlm.nih.gov/pubmed/8817328]
 comment: NT MGI.
 subset: DO_MGI_slim
 synonym: "syndactyly type 2" EXACT []
@@ -1547,7 +1708,7 @@ creation_date: 2015-01-28T16:04:54Z
 [Term]
 id: DOID:0060244
 name: specific language impairment
-def: "A language disorder characterized by difficulty in language acquisition despite otherwise normal development and in the absence of any obvious explanatory factors." [PMID:19646677, url:http\://en.wikipedia.org/wiki/Specific_language_impairment]
+def: "A language disorder characterized by difficulty in language acquisition despite otherwise normal development and in the absence of any obvious explanatory factors." [url:http\://en.wikipedia.org/wiki/Specific_language_impairment, url:http\://www.ncbi.nlm.nih.gov/pubmed/19646677]
 comment: NT MGI.
 subset: DO_MGI_slim
 xref: OMIM:606711
@@ -1561,7 +1722,7 @@ creation_date: 2015-01-28T16:29:51Z
 [Term]
 id: DOID:0060247
 name: Smith-McCort dysplasia
-def: "An osteochondrodysplasia characterized_by short limbs and a short trunk with a barrel-shaped chest and caused_by homozygous or compound heterozygous mutation in the DYM gene on chromosome 18q." [PMID:1216821]
+def: "An osteochondrodysplasia characterized by short limbs and a short trunk with a barrel-shaped chest and caused_by homozygous or compound heterozygous mutation in the DYM gene on chromosome 18q." [url:http\://www.ncbi.nlm.nih.gov/pubmed/1216821]
 comment: NT MGI.
 subset: DO_MGI_slim
 xref: ICD10CM:Q77.7
@@ -1575,7 +1736,7 @@ creation_date: 2015-01-29T15:06:25Z
 [Term]
 id: DOID:0060248
 name: Simpson-Golabi-Behmel syndrome
-def: "An X-linked disease characterized_by pre- and postnatal overgrowth and craniofacial, skeletal, cardiac and renal abnormalities." [url:http\://en.wikipedia.org/wiki/Simpson%E2%80%93Golabi%E2%80%93Behmel_syndrome, url:http\://ghr.nlm.nih.gov/condition/simpson-golabi-behmel-syndrome, url:https\://www.rarediseases.org/rare-disease-information/rare-diseases/byID/982/viewAbstract]
+def: "An X-linked disease characterized by pre- and postnatal overgrowth and craniofacial, skeletal, cardiac and renal abnormalities." [url:http\://en.wikipedia.org/wiki/Simpson%E2%80%93Golabi%E2%80%93Behmel_syndrome, url:http\://ghr.nlm.nih.gov/condition/simpson-golabi-behmel-syndrome, url:https\://www.rarediseases.org/rare-disease-information/rare-diseases/byID/982/viewAbstract]
 comment: NT MGI.
 subset: DO_MGI_slim
 synonym: "bulldog syndrome" EXACT []
@@ -1597,7 +1758,7 @@ creation_date: 2015-01-29T15:15:46Z
 [Term]
 id: DOID:0060249
 name: scoliosis
-def: "A bone structure disease characterized_by an appreciable lateral deviation in the normally straight vertical line of the spine." [ASIN:B000UDO4PY, url:http\://en.wikipedia.org/wiki/Scoliosis, url:http\://ghr.nlm.nih.gov/glossary=scoliosis, url:http\://www.mayoclinic.org/diseases-conditions/scoliosis/basics/definition/con-20030140]
+def: "A bone structure disease characterized by an appreciable lateral deviation in the normally straight vertical line of the spine." [url:http\://en.wikipedia.org/wiki/Scoliosis, url:http\://ghr.nlm.nih.gov/glossary=scoliosis, url:http\://www.mayoclinic.org/diseases-conditions/scoliosis/basics/definition/con-20030140]
 comment: NT MGI add.
 subset: DO_MGI_slim
 xref: HP:0002650
@@ -1628,7 +1789,7 @@ creation_date: 2015-01-29T15:52:18Z
 [Term]
 id: DOID:0060251
 name: sclerosteosis
-def: "A hyperostosis characterized_by excessive bone formation most prominent in the skull, mandible, clavicle, ribs and diaphyses of long bones; bone formation occurs throughout life." [PMID:11836356, url:http\://en.wikipedia.org/wiki/Sclerostin#Clinical_significance]
+def: "A hyperostosis characterized by excessive bone formation most prominent in the skull, mandible, clavicle, ribs and diaphyses of long bones; bone formation occurs throughout life." [url:http\://en.wikipedia.org/wiki/Sclerostin#Clinical_significance, url:http\://www.ncbi.nlm.nih.gov/pubmed/11836356]
 comment: NT MGI.
 subset: DO_MGI_slim
 xref: ICD10CM:M85.2
@@ -1643,7 +1804,7 @@ creation_date: 2015-01-29T16:02:45Z
 [Term]
 id: DOID:0060252
 name: sclerocornea
-def: "A corneal disease in which the cornea blends with sclera, resulting in clouding of the cornea." [PMID:3994576, url:http\://en.wikipedia.org/wiki/Sclerocornea]
+def: "A corneal disease in which the cornea blends with sclera, resulting in clouding of the cornea." [url:http\://en.wikipedia.org/wiki/Sclerocornea, url:http\://www.ncbi.nlm.nih.gov/pubmed/3994576]
 comment: NT MGI.
 subset: DO_MGI_slim
 synonym: "isolated congenital sclerocornea" EXACT []
@@ -1658,7 +1819,7 @@ creation_date: 2015-01-29T16:16:57Z
 [Term]
 id: DOID:0060253
 name: scapuloperoneal myopathy
-def: "A muscular dystrophy which begins at the lower legs and affects the shoulder region earlier and more severely than distal arm." [PMID:28179901]
+def: "A muscular dystrophy which begins at the lower legs and affects the shoulder region earlier and more severely than distal arm." [url:http\://www.ncbi.nlm.nih.gov/pubmed/28179901]
 comment: NT MGI.
 subset: DO_MGI_slim
 xref: OMIM:181430
@@ -1669,7 +1830,7 @@ creation_date: 2015-01-29T16:35:26Z
 [Term]
 id: DOID:0060254
 name: Robinow syndrome
-def: "A syndrome characterized_by mild to moderate short stature due to growth delays after birth, distinctive craniofacial abnormalities, skeletal malformations and genital abnormalities." [url:http\://en.wikipedia.org/wiki/Robinow_syndrome, url:http\://ghr.nlm.nih.gov/condition/robinow-syndrome, url:https\://www.rarediseases.org/rare-disease-information/rare-diseases/byID/696/viewAbstract]
+def: "A syndrome characterized by mild to moderate short stature due to growth delays after birth, distinctive craniofacial abnormalities, skeletal malformations and genital abnormalities." [url:http\://en.wikipedia.org/wiki/Robinow_syndrome, url:http\://ghr.nlm.nih.gov/condition/robinow-syndrome, url:https\://www.rarediseases.org/rare-disease-information/rare-diseases/byID/696/viewAbstract]
 comment: NT MGI.
 subset: DO_MGI_slim
 synonym: "acral dysostosis with facial and genital abnormalities" EXACT []
@@ -1687,7 +1848,7 @@ creation_date: 2015-01-29T16:42:52Z
 [Term]
 id: DOID:0060255
 name: rippling muscle disease
-def: "A muscle tissue disease characterized_by muscles unusually sensitive to movement or pressure; the proximal muscles are most affected, especially the thighs." [url:http\://ghr.nlm.nih.gov/condition/rippling-muscle-disease]
+def: "A muscle tissue disease characterized by muscles unusually sensitive to movement or pressure; the proximal muscles are most affected, especially the thighs." [url:http\://ghr.nlm.nih.gov/condition/rippling-muscle-disease]
 comment: NT MGI.
 subset: DO_MGI_slim
 xref: ICD10CM:G71.8
@@ -1702,7 +1863,7 @@ creation_date: 2015-01-29T16:51:43Z
 [Term]
 id: DOID:0060256
 name: Dowling-Degos disease
-def: "A pigmentation disease characterized_by a reticulate pattern of abnormally dark skin coloring, particularly in the body's folds and creases." [url:http\://en.wikipedia.org/wiki/Reticular_pigmented_anomaly_of_the_flexures, url:http\://ghr.nlm.nih.gov/condition/dowling-degos-disease]
+def: "A pigmentation disease characterized by a reticulate pattern of abnormally dark skin coloring, particularly in the body's folds and creases." [url:http\://en.wikipedia.org/wiki/Reticular_pigmented_anomaly_of_the_flexures, url:http\://ghr.nlm.nih.gov/condition/dowling-degos-disease]
 comment: NT MGI.
 subset: DO_MGI_slim
 synonym: "dark dot disease" EXACT []
@@ -1720,7 +1881,7 @@ creation_date: 2015-01-30T11:04:57Z
 [Term]
 id: DOID:0060257
 name: dyschromatosis symmetrica hereditaria
-def: "A pigmentation disease characterized_by progressively pigmented and depigmented macules, often mixed in a reticulate pattern, concentrated on the dorsal extremities." [ISBN:1437703143, PMID:22974014, url:http\://en.wikipedia.org/wiki/Dyschromatosis_symmetrica_hereditaria]
+def: "A pigmentation disease characterized by progressively pigmented and depigmented macules, often mixed in a reticulate pattern, concentrated on the dorsal extremities." [url:http\://en.wikipedia.org/wiki/Dyschromatosis_symmetrica_hereditaria, url:http\://www.alibris.com/Andrews-Diseases-of-the-Skin-Clinical-Dermatology-Expert-Consult-Online-and-Print-William-D-James-Col/book/28312193?qsort=c&matches=15, url:http\://www.ncbi.nlm.nih.gov/pubmed/22974014]
 comment: NT MGI.
 subset: DO_MGI_slim
 synonym: "reticulate acropigmentation of Dohi" EXACT []
@@ -1735,7 +1896,7 @@ creation_date: 2015-01-30T16:08:47Z
 [Term]
 id: DOID:0060258
 name: reticulate acropigmentation of Kitamura
-def: "A pigmentation disease characterized by lesions that initially arise as letiginous, hyperpigmented macules in a reticular pattern on the dorsal aspect of the hands and feet. Over time, lesions may spread proximally and may darken; palmoplantar pitting and dermatoglyphic disruption may also be present." [PMID:22808308]
+def: "A pigmentation disease characterized by lesions that initially arise as letiginous, hyperpigmented macules in a reticular pattern on the dorsal aspect of the hands and feet. Over time, lesions may spread proximally and may darken; palmoplantar pitting and dermatoglyphic disruption may also be present." [url:http\://www.ncbi.nlm.nih.gov/pubmed/22808308]
 comment: NT MGI.
 subset: DO_MGI_slim
 synonym: "RAPK" EXACT []
@@ -1749,7 +1910,7 @@ creation_date: 2015-01-30T16:19:57Z
 [Term]
 id: DOID:0060259
 name: renal-hepatic-pancreatic dysplasia
-def: "A physical disorder characterized_by pancreatic fibrosis, renal dysplasia and hepatic dysgenesis; it is usual fatal soon after birth." [PMID:17605805, url:http\://en.wikipedia.org/wiki/Renal-hepatic-pancreatic_dysplasia]
+def: "A physical disorder characterized by pancreatic fibrosis, renal dysplasia and hepatic dysgenesis; it is usual fatal soon after birth." [url:http\://en.wikipedia.org/wiki/Renal-hepatic-pancreatic_dysplasia, url:http\://www.ncbi.nlm.nih.gov/pubmed/17605805]
 subset: DO_MGI_slim
 synonym: "Ivemark's syndrome" EXACT []
 xref: OMIM:208540
@@ -1761,7 +1922,7 @@ creation_date: 2015-01-30T16:33:37Z
 [Term]
 id: DOID:0060260
 name: ptosis
-def: "An eye disease characterized_by the drooping or falling of the upper or lower eyelid." [url:http\://en.wikipedia.org/wiki/Ptosis_%28eyelid%29]
+def: "An eye disease characterized by the drooping or falling of the upper or lower eyelid." [url:http\://en.wikipedia.org/wiki/Ptosis_%28eyelid%29]
 comment: NT MGI add.
 subset: DO_MGI_slim
 synonym: "blepharoptosis" EXACT []
@@ -1777,7 +1938,7 @@ creation_date: 2015-01-30T16:46:53Z
 [Term]
 id: DOID:0060261
 name: congenital ptosis
-def: "A ptosis characterized_by eyelid drop present at birth." [url:http\://en.wikipedia.org/wiki/Ptosis_%28eyelid%29, url:http\://eyewiki.aao.org/Ptosis\,_Congenital]
+def: "A ptosis characterized by eyelid drop present at birth." [url:http\://en.wikipedia.org/wiki/Ptosis_%28eyelid%29, url:http\://eyewiki.aao.org/Ptosis\,_Congenital]
 comment: NT MGI.
 subset: DO_MGI_slim
 xref: HP:0007970
@@ -2024,7 +2185,7 @@ creation_date: 2015-02-04T14:28:28Z
 [Term]
 id: DOID:0060280
 name: primary pigmented nodular adrenocortical disease
-def: "An adrenal cortex disease characterized_by small to normal sized adrenal glands containing multiple small cortical pigmented nodules." [ORPHA:189439, PMID:2212318]
+def: "An adrenal cortex disease characterized by small to normal sized adrenal glands containing multiple small cortical pigmented nodules." [url:http\://www.ncbi.nlm.nih.gov/pubmed/2212318]
 comment: NT MGI.
 subset: DO_MGI_slim
 xref: ICD10CM:E24.8
@@ -2041,7 +2202,7 @@ creation_date: 2015-02-04T16:01:02Z
 [Term]
 id: DOID:0060281
 name: photosensitive epilepsy
-def: "An epilepsy characterized_by seizures triggered by visual stimuli that form patterns in space or time, such as flashing lights." [url:http\://en.wikipedia.org/wiki/Photosensitive_epilepsy]
+def: "An epilepsy characterized by seizures triggered by visual stimuli that form patterns in space or time, such as flashing lights." [url:http\://en.wikipedia.org/wiki/Photosensitive_epilepsy]
 comment: NT MGI.
 subset: DO_MGI_slim
 synonym: "photogenic epilepsy" EXACT []
@@ -2175,6 +2336,7 @@ name: Ohdo syndrome
 def: "A syndrome that is characterized by blepharophimosis, ptosis, dental hypoplasia, hearing impairment and intellectual disability." [url:http\://www.orpha.net/consor/cgi-bin/Disease_Search.php?lng=EN&data_id=2489&Disease_Disease_Search_diseaseGroup=Ohdo-syndrome&Disease_Disease_Search_diseaseType=Pat&Disease%28s%29/group%20of%20diseases=Blepharophimosis-intellectual-disability-syndrome--Ohdo-type--Ohdo-syndrome-&title=Blepharophimosis-intellectual-disability-syndrome--Ohdo-type--Ohdo-syndrome-&search=Disease_Search_Simple]
 comment: NT MGI.
 subset: DO_MGI_slim
+synonym: "Ohdo blepharophimosis syndrome" EXACT []
 xref: MSH:C536232
 xref: OMIM:249620
 xref: OMIM:300895
@@ -2184,7 +2346,7 @@ creation_date: 2015-02-05T10:03:42Z
 
 [Term]
 id: DOID:0060290
-name: blepharophimosis-intellectual disability syndrome
+name: blepharophimosis-intellectual disability syndrome, SBBYS type
 comment: NT MGI.
 subset: DO_MGI_slim
 synonym: "Ohdo syndrome, SBBYS Variant" EXACT []
@@ -2243,7 +2405,7 @@ creation_date: 2015-02-05T16:49:46Z
 [Term]
 id: DOID:0060294
 name: cold-induced sweating syndrome
-def: "An autosomal dominant disease characterized_by problems with regulating body temperature and other abnormalities affecting many parts of the body; caused_by mutations in the CRLF1 gene." [PMID:12509788, url:http\://ghr.nlm.nih.gov/condition/cold-induced-sweating-syndrome]
+def: "An autosomal dominant disease characterized by problems with regulating body temperature and other abnormalities affecting many parts of the body; caused_by mutations in the CRLF1 gene." [url:http\://ghr.nlm.nih.gov/condition/cold-induced-sweating-syndrome, url:http\://www.ncbi.nlm.nih.gov/pubmed/]
 comment: NT MGI.
 subset: DO_MGI_slim
 synonym: "Crisponi syndrome" EXACT []
@@ -2362,7 +2524,7 @@ creation_date: 2015-02-09T15:32:25Z
 [Term]
 id: DOID:0060304
 name: dyschromatosis universalis hereditaria
-def: "A pigmentation disease characterized_by reticulate hyper- and hypo- pigmentated macules in a generalized distribution." [PMID:12372090, url:http\://en.wikipedia.org/wiki/Dyschromatosis_universalis_hereditaria]
+def: "A pigmentation disease characterized by reticulate hyper- and hypo- pigmentated macules in a generalized distribution." [url:http\://en.wikipedia.org/wiki/Dyschromatosis_universalis_hereditaria, url:http\://www.ncbi.nlm.nih.gov/pubmed/12372090]
 comment: NT MGI.
 subset: DO_MGI_slim
 xref: ICD10CM:L81.8
@@ -2377,7 +2539,7 @@ creation_date: 2015-02-09T16:53:42Z
 [Term]
 id: DOID:0060305
 name: megalocornea
-def: "A corneal disease characterized_by a bilaterally enlarged corneal diameter without an increase in intraocular pressure; caused_by mutation in the CHRDL1 gene." [PMID:6849653, url:http\://en.wikipedia.org/wiki/Megalocornea, url:http\://ghr.nlm.nih.gov/gene/CHRDL1]
+def: "A corneal disease characterized by a bilaterally enlarged corneal diameter without an increase in intraocular pressure; caused_by mutation in the CHRDL1 gene." [url:http\://en.wikipedia.org/wiki/Megalocornea, url:http\://ghr.nlm.nih.gov/gene/CHRDL1, url:http\://www.ncbi.nlm.nih.gov/pubmed/6849653]
 comment: NT MGI.
 subset: DO_MGI_slim
 synonym: "anterior megalophthalmos" EXACT []
@@ -2394,7 +2556,7 @@ creation_date: 2015-02-10T12:29:54Z
 [Term]
 id: DOID:0060306
 name: Meier-Gorlin syndrome
-def: "An autosomal recessive disorder characterized_by severe intrauterine and postnatal growth retardation, microcephaly, bilateral microtia and hypoplastic patellae." [PMID:14564153, url:http\://en.wikipedia.org/wiki/Pre-replication_complex#Meier-Gorlin_syndrome, url:http\://ghr.nlm.nih.gov/condition/meier-gorlin-syndrome]
+def: "An autosomal recessive disorder characterized by severe intrauterine and postnatal growth retardation, microcephaly, bilateral microtia and hypoplastic patellae." [url:http\://en.wikipedia.org/wiki/Pre-replication_complex#Meier-Gorlin_syndrome, url:http\://ghr.nlm.nih.gov/condition/meier-gorlin-syndrome, url:http\://www.ncbi.nlm.nih.gov/pubmed/14564153]
 comment: NT MGI.
 subset: DO_MGI_slim
 synonym: "ear-patella-short stature syndrome" EXACT []
@@ -2412,7 +2574,7 @@ creation_date: 2015-02-10T12:40:39Z
 [Term]
 id: DOID:0060307
 name: autosomal dominant non-syndromic intellectual disability
-def: "A non-syndromic intellectual disability characterized_by an autosomal dominant inheritance pattern." [PMID:21124998]
+def: "A non-syndromic intellectual disability characterized by an autosomal dominant inheritance pattern." [url:http\://www.ncbi.nlm.nih.gov/pubmed/21124998]
 comment: NT MGI.
 subset: DO_MGI_slim
 synonym: "autosomal dominant mental retardation" EXACT []
@@ -2451,7 +2613,7 @@ creation_date: 2015-02-10T16:47:55Z
 [Term]
 id: DOID:0060308
 name: autosomal recessive non-syndromic intellectual disability
-def: "A non-syndromic intellectual disability characterized_by an autosomal recessive inheritance pattern." [PMID:21124998]
+def: "A non-syndromic intellectual disability characterized by an autosomal recessive inheritance pattern." [url:http\://www.ncbi.nlm.nih.gov/pubmed/21124998]
 comment: NT MGI.
 subset: DO_MGI_slim
 synonym: "autosomal recessive mental retardation" EXACT []
@@ -2500,7 +2662,7 @@ creation_date: 2015-02-11T10:32:11Z
 [Term]
 id: DOID:0060309
 name: syndromic X-linked intellectual disability
-def: "A syndromic intellectual characterized_by an X-linked inheritance pattern." [url:http\://en.wikipedia.org/wiki/X-linked_intellectual_disability]
+def: "A syndromic intellectual characterized by an X-linked inheritance pattern." [url:http\://en.wikipedia.org/wiki/X-linked_intellectual_disability]
 comment: NT MGI.
 subset: DO_MGI_slim
 synonym: "syndromic X-linked mental retardation" EXACT []
@@ -2516,6 +2678,63 @@ xref: OMIM:304340
 xref: OMIM:309545
 created_by: emitraka
 creation_date: 2015-02-11T16:14:46Z
+
+[Term]
+id: DOID:0060330
+name: Rapp-Hodgkin syndrome
+def: "An autosomal dominant disease characterized by abnormal development of ectodermal tissues including the skin, hair, nails, teeth and sweat glands and anhidrotic ectodermal dysplasia with cleft lip/palate." [url:http\://rarediseases.info.nih.gov/gard/5690/rapp-hodgkin-syndrome/resources/1]
+comment: Part of AEC spectrum. Research more.
+subset: DO_MGI_slim
+synonym: "anhidrotic ectodermal dysplasia with cleft lip/palate" EXACT []
+xref: OMIM:129400
+xref: ORDO:3022
+created_by: emitraka
+creation_date: 2015-03-12T13:47:30Z
+
+[Term]
+id: DOID:0060331
+name: mitochondrial complex V (ATP synthase) deficiency nuclear type 2
+def: "A mitochondrial metabolism disease that has material basis in mutation in the TMEM70 gene on chromosome 8q21." [url:http\://omim.org/entry/614052]
+subset: DO_MGI_slim
+synonym: "MC5DN2" EXACT []
+synonym: "neonatal mitochondrial encephalocardiomyopathy due to ATP synthase deficiency" EXACT []
+xref: ICD10CM:G71.3
+xref: OMIM:614052
+xref: ORDO:1194
+created_by: emitraka
+creation_date: 2015-03-12T16:04:59Z
+
+[Term]
+id: DOID:0060332
+name: mitochondrial complex V (ATP synthase) deficiency nuclear type 3
+def: "A mitochondrial metabolism disease that has material basis in mutation in the ATP5E gene on chromosome 20q13." [url:http\://omim.org/entry/614053]
+subset: DO_MGI_slim
+synonym: "MC5DN3" EXACT []
+xref: IDC10CM:E88.8
+xref: OMIM:614053
+xref: ORDO:254913
+created_by: emitraka
+creation_date: 2015-03-12T16:04:59Z
+
+[Term]
+id: DOID:0060333
+name: mitochondrial complex V (ATP synthase) deficiency nuclear type 4
+def: "A mitochondrial metabolism disease that has material basis in mutation in the ATP5A1 gene on chromosome 18q." [url:http\://omim.org/entry/615228]
+subset: DO_MGI_slim
+synonym: "MC5DN4" EXACT []
+xref: ICD10CM:E88.8
+xref: OMIM:615228
+xref: ORDO:254913
+created_by: emitraka
+creation_date: 2015-03-12T16:04:59Z
+
+[Term]
+id: DOID:0060334
+name: transient neonatal diabetes mellitus
+subset: DO_MGI_slim
+xref: OMIM:601410
+created_by: emitraka
+creation_date: 2015-03-12T16:59:58Z
 
 [Term]
 id: DOID:0080033
@@ -2535,7 +2754,7 @@ xref: ORDO:1522
 id: DOID:10024
 name: migraine with aura
 alt_id: DOID:10025
-def: "A migraine characterized_by migraine headache which is preceded or accompanied by a transient focal neurological phenomenon." [url:http\://en.wikipedia.org/wiki/Migraine, url:http\://www.mayoclinic.org/diseases-conditions/migraine-with-aura/basics/definition/con-20030404]
+def: "A migraine characterized by migraine headache which is preceded or accompanied by a transient focal neurological phenomenon." [url:http\://en.wikipedia.org/wiki/Migraine, url:http\://www.mayoclinic.org/diseases-conditions/migraine-with-aura/basics/definition/con-20030404]
 comment: Xref MGI.
 subset: DO_MGI_slim
 synonym: "classic migraine" EXACT []
@@ -2552,7 +2771,7 @@ is_a: DOID:6364 ! migraine
 [Term]
 id: DOID:10126
 name: keratoconus
-def: "A corneal disease characterized_by structural changes within the cornea causing it to thin and change, leading to a protruding conical shape." [url:http\://en.wikipedia.org/wiki/Keratoconus, url:http\://ghr.nlm.nih.gov/glossary=keratoconus]
+def: "A corneal disease characterized by structural changes within the cornea causing it to thin and change, leading to a protruding conical shape." [url:http\://en.wikipedia.org/wiki/Keratoconus, url:http\://ghr.nlm.nih.gov/glossary=keratoconus]
 comment: Xref MGI.
 subset: DO_MGI_slim
 synonym: "conical cornea" EXACT []
@@ -2652,7 +2871,7 @@ xref: UMLS_CUI:C0376358
 [Term]
 id: DOID:1040
 name: chronic lymphocytic leukemia
-def: "A lymphoblastic leukemia characterized_by over production of B-cells and their accumulation in bone marrow and blood." [url:http\://en.wikipedia.org/wiki/B-cell_chronic_lymphocytic_leukemia, url:http\://www.cancer.gov/dictionary?cdrid=346545]
+def: "A lymphoblastic leukemia characterized by over production of B-cells and their accumulation in bone marrow and blood." [url:http\://en.wikipedia.org/wiki/B-cell_chronic_lymphocytic_leukemia, url:http\://www.cancer.gov/dictionary?cdrid=346545]
 comment: Xref MGI.
 subset: DO_MGI_slim
 synonym: "B-cell chronic lymphocytic leukemia" EXACT []
@@ -2741,7 +2960,7 @@ xref: UMLS_CUI:C0019569
 [Term]
 id: DOID:10581
 name: metachromatic leukodystrophy
-def: "A sphingolipidosis characterized_by the accumulation of sulfatides in cells, especially the myelin producing cells of the nervous system." [url:http\://en.wikipedia.org/wiki/Metachromatic_leukodystrophy, url:http\://ghr.nlm.nih.gov/condition/metachromatic-leukodystrophy]
+def: "A sphingolipidosis characterized by the accumulation of sulfatides in cells, especially the myelin producing cells of the nervous system." [url:http\://en.wikipedia.org/wiki/Metachromatic_leukodystrophy, url:http\://ghr.nlm.nih.gov/condition/metachromatic-leukodystrophy]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
 subset: DO_MGI_slim
 synonym: "arylsulfatase A deficiency" EXACT []
@@ -2766,9 +2985,10 @@ xref: UMLS_CUI:C0023522
 id: DOID:10584
 name: retinitis pigmentosa
 alt_id: DOID:14742
-def: "A retinal degeneration characterized_by the gradual deterioration of the photoreceptors or the retinal pigment epithelium of the retina leading to progressive sight loss." [url:http\://en.wikipedia.org/wiki/Retinitis_pigmentosa, url:http\://ghr.nlm.nih.gov/condition/retinitis-pigmentosa]
+def: "A retinal degeneration characterized by the gradual deterioration of the photoreceptors or the retinal pigment epithelium of the retina leading to progressive sight loss." [url:http\://en.wikipedia.org/wiki/Retinitis_pigmentosa, url:http\://ghr.nlm.nih.gov/condition/retinitis-pigmentosa, url:http\://www.ncbi.nlm.nih.gov/pmc/articles/PMC4043609/]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [LS].
 subset: DO_MGI_slim
+synonym: "pericentral pigmentary retinopathy" EXACT []
 synonym: "retinitis pigmentosa type 53 " EXACT []
 synonym: "retinitis pigmentosa type 59" EXACT []
 synonym: "retinitis pigmentosa-1" EXACT []
@@ -2781,8 +3001,10 @@ xref: OMIM:120970
 xref: OMIM:180100
 xref: OMIM:180104
 xref: OMIM:180105
+xref: OMIM:180210
 xref: OMIM:268000
 xref: OMIM:268025
+xref: OMIM:268060
 xref: OMIM:300029
 xref: OMIM:300424
 xref: OMIM:300605
@@ -2853,7 +3075,7 @@ xref: UMLS_CUI:C0220701
 id: DOID:10591
 name: pre-eclampsia
 alt_id: DOID:12684
-def: "A hypertension occurring during pregnancy also characterized_by large amounts of protein in the urine." [url:http\://en.wikipedia.org/wiki/Pre-eclampsia, url:http\://ghr.nlm.nih.gov/condition/preeclampsia]
+def: "A hypertension occurring during pregnancy also characterized by large amounts of protein in the urine." [url:http\://en.wikipedia.org/wiki/Pre-eclampsia, url:http\://ghr.nlm.nih.gov/condition/preeclampsia]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
 subset: DO_MGI_slim
 synonym: "gestational hypertension" EXACT [MTHICD9_2006:642.3, SNOMEDCT_2005_07_31:30354006]
@@ -2966,7 +3188,7 @@ xref: UMLS_CUI:C0221468
 id: DOID:1062
 name: Fanconi syndrome
 alt_id: DOID:5956
-def: "A renal tubular transport disease of the proximal renal tubes characterized_by glucosuria, phosphaturia, generalized aminoaciduria and HCO3 wasting." [url:http\://en.wikipedia.org/wiki/Fanconi_syndrome, url:http\://www.merckmanuals.com/professional/genitourinary_disorders/renal_transport_abnormalities/fanconi_syndrome.html, url:http\://www.nlm.nih.gov/medlineplus/ency/article/000333.htm]
+def: "A renal tubular transport disease of the proximal renal tubes characterized by glucosuria, phosphaturia, generalized aminoaciduria and HCO3 wasting." [url:http\://en.wikipedia.org/wiki/Fanconi_syndrome, url:http\://www.merckmanuals.com/professional/genitourinary_disorders/renal_transport_abnormalities/fanconi_syndrome.html, url:http\://www.nlm.nih.gov/medlineplus/ency/article/000333.htm]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
 subset: DO_MGI_slim
 synonym: "adult Fanconi Anemia" EXACT [NCI2004_11_17:C4377]
@@ -3043,7 +3265,7 @@ xref: UMLS_CUI:C0158544
 [Term]
 id: DOID:10652
 name: Alzheimer's disease
-def: "A dementia and a tauopathy that results in progressive memory loss, impaired thinking, disorientation, and changes in personality and mood starting and leads in advanced cases to a profound decline in cognitive and physical functioning and is marked histologically by the degeneration of brain neurons especially in the cerebral cortex and by the presence of neurofibrillary tangles and plaques containing beta-amyloid. It is characterized by memory lapses, confusion, emotional instability and progressive loss of mental ability." [ls:IEDB, url:http\://en.wikipedia.org/wiki/Alzheimer%27s_disease, url:http\://www.merriam-webster.com/medical/alzheimer%27s%20disease, url:http\://www.nia.nih.gov/alzheimers/publication/alzheimers-disease-fact-sheet]
+def: "A tauopathy that results in progressive memory loss, impaired thinking, disorientation, and changes in personality and mood starting and leads in advanced cases to a profound decline in cognitive and physical functioning and is marked histologically by the degeneration of brain neurons especially in the cerebral cortex and by the presence of neurofibrillary tangles and plaques containing beta-amyloid. It is characterized by memory lapses, confusion, emotional instability and progressive loss of mental ability." [ls:IEDB, url:http\://en.wikipedia.org/wiki/Alzheimer%27s_disease, url:http\://www.merriam-webster.com/medical/alzheimer%27s%20disease, url:http\://www.nia.nih.gov/alzheimers/publication/alzheimers-disease-fact-sheet]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
 subset: DO_MGI_slim
 synonym: "AD" EXACT [CSP2005:0485-6737]
@@ -3090,7 +3312,7 @@ xref: UMLS_CUI:C0002395
 [Term]
 id: DOID:1067
 name: open-angle glaucoma
-def: "A glaucoma characterized_by optic nerve damage resulting in progressive loss of visual field and characterized_by increased pressure in the eye due to trabecular blockage." [url:http\://en.wikipedia.org/wiki/Glaucoma, url:http\://www.merckmanuals.com/professional/eye_disorders/glaucoma/primary_open-angle_glaucoma.html]
+def: "A glaucoma characterized by optic nerve damage resulting in progressive loss of visual field and increased pressure in the eye due to trabecular blockage." [url:http\://en.wikipedia.org/wiki/Glaucoma, url:http\://www.merckmanuals.com/professional/eye_disorders/glaucoma/primary_open-angle_glaucoma.html]
 comment: Xref MGI.
 subset: DO_MGI_slim
 synonym: "glaucoma simplex" EXACT [SNOMEDCT_2005_07_31:111513000]
@@ -3158,7 +3380,7 @@ xref: UMLS_CUI:C0085580
 [Term]
 id: DOID:10892
 name: hypospadias
-def: "A physical disorder characterized_by an abnormally placed urethral opening on the underside of the penis or on the perineum." [url:http\://en.wikipedia.org/wiki/Hypospadias, url:http\://ghr.nlm.nih.gov/glossary=hypospadias]
+def: "A physical disorder characterized by an abnormally placed urethral opening on the underside of the penis or on the perineum." [url:http\://en.wikipedia.org/wiki/Hypospadias, url:http\://ghr.nlm.nih.gov/glossary=hypospadias]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
 subset: DO_MGI_slim
 synonym: "familial hypospadias" EXACT []
@@ -3176,7 +3398,7 @@ xref: UMLS_CUI:C0020646
 [Term]
 id: DOID:10908
 name: hydrocephalus
-def: "A cerebral degeneration characterized_by an abnormal accumulation of cerebrospinal fluid in the ventricles of the brain, leading to progressive enlargement of the head." [url:http\://en.wikipedia.org/wiki/Hydrocephalus, url:http\://ghr.nlm.nih.gov/glossary=hydrocephalus, url:http\://www.mayoclinic.org/diseases-conditions/hydrocephalus/basics/definition/con-20030706?_ga=1.124310025.2017809229.1415219956]
+def: "A cerebral degeneration characterized by an abnormal accumulation of cerebrospinal fluid in the ventricles of the brain, leading to progressive enlargement of the head." [url:http\://en.wikipedia.org/wiki/Hydrocephalus, url:http\://ghr.nlm.nih.gov/glossary=hydrocephalus, url:http\://www.mayoclinic.org/diseases-conditions/hydrocephalus/basics/definition/con-20030706?_ga=1.124310025.2017809229.1415219956]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
 subset: DO_MGI_slim
 synonym: "hydrocephalus, nonsyndromic, autosomal recessive" EXACT [OMIM:236600]
@@ -3286,7 +3508,7 @@ xref: UMLS_CUI:C0039075
 [Term]
 id: DOID:11199
 name: hypoparathyroidism
-def: "A parathyroid gland disease characterized_by decreased function of parathyroid glands with underproduction of parathyroid hormone (PTH), leading to abnormally low ionized calcium levels in the blood." [url:http\://en.wikipedia.org/wiki/Hypoparathyroidism, url:http\://ghr.nlm.nih.gov/glossary=hypoparathyroidism, url:http\://www.mayoclinic.org/diseases-conditions/hypoparathyroidism/basics/definition/con-20030780?_ga=1.221847067.2017809229.1415219956]
+def: "A parathyroid gland disease characterized by decreased function of parathyroid glands with underproduction of parathyroid hormone (PTH), leading to abnormally low ionized calcium levels in the blood." [url:http\://en.wikipedia.org/wiki/Hypoparathyroidism, url:http\://ghr.nlm.nih.gov/glossary=hypoparathyroidism, url:http\://www.mayoclinic.org/diseases-conditions/hypoparathyroidism/basics/definition/con-20030780?_ga=1.221847067.2017809229.1415219956]
 comment: Xref MGI.
 subset: DO_MGI_slim
 xref: ICD10CM:E20
@@ -3329,7 +3551,7 @@ is_a: DOID:13543 ! hyperparathyroidism
 [Term]
 id: DOID:11335
 name: sarcoidosis
-def: "A hypersensitivity reaction type IV disease characterized_by the growth of collections of inflammatory cells (granulomas) in multiple organs." [url:http\://en.wikipedia.org/wiki/Sarcoidosis, url:http\://ghr.nlm.nih.gov/glossary=sarcoidosis, url:http\://www.mayoclinic.org/diseases-conditions/sarcoidosis/basics/definition/con-20022569?_ga=1.188430891.2017809229.1415219956]
+def: "A hypersensitivity reaction type IV disease characterized by the growth of collections of inflammatory cells (granulomas) in multiple organs." [url:http\://en.wikipedia.org/wiki/Sarcoidosis, url:http\://ghr.nlm.nih.gov/glossary=sarcoidosis, url:http\://www.mayoclinic.org/diseases-conditions/sarcoidosis/basics/definition/con-20022569?_ga=1.188430891.2017809229.1415219956]
 comment: Xref MGI.
 subset: DO_MGI_slim
 synonym: "Boeck sarcoid" EXACT []
@@ -3368,7 +3590,7 @@ xref: UMLS_CUI:C0029456
 [Term]
 id: DOID:11555
 name: Fuchs' endothelial dystrophy
-def: "A corneal dystrophy characterized_by accumulation of focal outgrowths (guttae) and thickening of Descemet's membrane, leading to corneal edema and loss of vision." [url:http\://en.wikipedia.org/wiki/Fuchs%27_dystrophy, url:http\://ghr.nlm.nih.gov/condition/fuchs-endothelial-dystrophy, url:http\://rarediseases.info.nih.gov/gard/10018/corneal-dystrophy-fuchs-endothelial-1/resources/1, url:http\://www.mayoclinic.org/diseases-conditions/fuchs-dystrophy/basics/definition/con-20023893?_ga=1.163328703.2017809229.1415219956]
+def: "A corneal dystrophy characterized by accumulation of focal outgrowths (guttae) and thickening of Descemet's membrane, leading to corneal edema and loss of vision." [url:http\://en.wikipedia.org/wiki/Fuchs%27_dystrophy, url:http\://ghr.nlm.nih.gov/condition/fuchs-endothelial-dystrophy, url:http\://rarediseases.info.nih.gov/gard/10018/corneal-dystrophy-fuchs-endothelial-1/resources/1, url:http\://www.mayoclinic.org/diseases-conditions/fuchs-dystrophy/basics/definition/con-20023893?_ga=1.163328703.2017809229.1415219956]
 comment: Xref MGI.
 subset: DO_MGI_slim
 synonym: "FCED" EXACT []
@@ -3557,7 +3779,7 @@ xref: UMLS_CUI:C0410189
 [Term]
 id: DOID:11830
 name: myopia
-def: "A refractive error characterized_by the inability to see farther objects clearly." [url:http\://en.wikipedia.org/wiki/Myopia, url:http\://ghr.nlm.nih.gov/glossary=myopia, url:http\://www.mayoclinic.org/diseases-conditions/nearsightedness/basics/definition/con-20027548]
+def: "A refractive error characterized by the inability to see farther objects clearly." [url:http\://en.wikipedia.org/wiki/Myopia, url:http\://ghr.nlm.nih.gov/glossary=myopia, url:http\://www.mayoclinic.org/diseases-conditions/nearsightedness/basics/definition/con-20027548]
 comment: Xref MGI.
 subset: DO_MGI_slim
 synonym: "near vision" EXACT [CSP2005:1116-2455]
@@ -3735,7 +3957,7 @@ xref: UMLS_CUI:C0009447
 [Term]
 id: DOID:12185
 name: otosclerosis
-def: "A labyrinthine disease characterized_by an abnormal bone growth in the middle ear." [url:http\://en.wikipedia.org/wiki/Otosclerosis, url:http\://www.merckmanuals.com/professional/ear_nose_and_throat_disorders/middle_ear_and_tympanic_membrane_disorders/otosclerosis.html?qt=otosclerosis&alt=sh]
+def: "A labyrinthine disease characterized by an abnormal bone growth in the middle ear." [url:http\://en.wikipedia.org/wiki/Otosclerosis, url:http\://www.merckmanuals.com/professional/ear_nose_and_throat_disorders/middle_ear_and_tympanic_membrane_disorders/otosclerosis.html?qt=otosclerosis&alt=sh]
 comment: Xref MGI.
 subset: DO_MGI_slim
 xref: EFO:0004213
@@ -3759,7 +3981,7 @@ xref: UMLS_CUI:C0029696
 id: DOID:12236
 name: primary biliary cirrhosis
 alt_id: DOID:1851
-def: "A liver cirrhosis characterized_by chronic and slow progressive destruction of intrahepatic bile ducts." [url:http\://en.wikipedia.org/wiki/Primary_biliary_cirrhosis, url:http\://www.merckmanuals.com/professional/hepatic_and_biliary_disorders/fibrosis_and_cirrhosis/primary_biliary_cirrhosis_pbc.html?qt=primary%20biliary%20cirrhosis&alt=sh]
+def: "A liver cirrhosis characterized by chronic and slow progressive destruction of intrahepatic bile ducts." [url:http\://en.wikipedia.org/wiki/Primary_biliary_cirrhosis, url:http\://www.merckmanuals.com/professional/hepatic_and_biliary_disorders/fibrosis_and_cirrhosis/primary_biliary_cirrhosis_pbc.html?qt=primary%20biliary%20cirrhosis&alt=sh]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
 subset: DO_MGI_slim
 synonym: "biliary liver cirrhosis" EXACT []
@@ -3787,7 +4009,7 @@ xref: UMLS_CUI:C0023892
 [Term]
 id: DOID:12241
 name: beta thalassemia
-def: "A thalassemia characterized_by the reduced or absent synthesis of the beta globin chains of hemoglobin." [url:http\://en.wikipedia.org/wiki/Beta_thalassemia]
+def: "A thalassemia characterized by the reduced or absent synthesis of the beta globin chains of hemoglobin." [url:http\://en.wikipedia.org/wiki/Beta_thalassemia]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
 subset: DO_MGI_slim
 xref: ICD10CM:D56.1
@@ -3806,7 +4028,7 @@ xref: UMLS_CUI:C0005283
 [Term]
 id: DOID:12270
 name: coloboma
-def: "An eye disease characterized_by missing pieces of tissue in structures that form the eye, such as the iris, retina, choroid or optic disc." [url:http\://en.wikipedia.org/wiki/Coloboma, url:http\://ghr.nlm.nih.gov/condition/coloboma]
+def: "An eye disease characterized by missing pieces of tissue in structures that form the eye, such as the iris, retina, choroid or optic disc." [url:http\://en.wikipedia.org/wiki/Coloboma, url:http\://ghr.nlm.nih.gov/condition/coloboma]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
 subset: DO_MGI_slim
 synonym: "coloboma of eye" EXACT []
@@ -3969,7 +4191,7 @@ xref: UMLS_CUI:C0019061
 [Term]
 id: DOID:12638
 name: hypertrophic pyloric stenosis
-def: "A pyloric stenosis characterized_by the enlargement of the muscle surrounding the pylorus, causing severe projectile non-bilious vomiting." [url:http\://en.wikipedia.org/wiki/Pyloric_stenosis]
+def: "A pyloric stenosis characterized by the enlargement of the muscle surrounding the pylorus, causing severe projectile non-bilious vomiting." [url:http\://en.wikipedia.org/wiki/Pyloric_stenosis]
 comment: Xref MGI.
 subset: DO_MGI_slim
 synonym: "congenital hypertrophic pyloric stenosis" EXACT []
@@ -3987,7 +4209,7 @@ xref: UMLS_CUI:C0700639
 [Term]
 id: DOID:1270
 name: hereditary hemorrhagic telangiectasia
-def: "An autosomal dominant disease characterized_by the presence of multiple arteriovenous malformations that lack intervening capillaries and result in direct connections between arteries and veins." [url:http\://en.wikipedia.org/wiki/Hereditary_hemorrhagic_telangiectasia, url:http\://ghr.nlm.nih.gov/condition/hereditary-hemorrhagic-telangiectasia, url:http\://www.ncbi.nlm.nih.gov/books/NBK1351/]
+def: "An autosomal dominant disease characterized by the presence of multiple arteriovenous malformations that lack intervening capillaries and result in direct connections between arteries and veins." [url:http\://en.wikipedia.org/wiki/Hereditary_hemorrhagic_telangiectasia, url:http\://ghr.nlm.nih.gov/condition/hereditary-hemorrhagic-telangiectasia, url:http\://www.ncbi.nlm.nih.gov/books/NBK1351/]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
 subset: DO_MGI_slim
 synonym: "Osler hemorrhagic telangiectasia syndrome" EXACT []
@@ -4168,7 +4390,7 @@ xref: UMLS_CUI:C0004352
 [Term]
 id: DOID:12859
 name: choreatic disease
-def: "A movement disease characterized_by brief, semi-directed, irregular movements that not repetitive or rhythmic, but appear to flow from one muscle to the next." [url:htpp\://en.wikipedia.org/wiki/Chorea, url:http\://www.ncbi.nlm.nih.gov/mesh?term=Choreatic%20Disorders]
+def: "A movement disease characterized by brief, semi-directed, irregular movements that not repetitive or rhythmic, but appear to flow from one muscle to the next." [url:http\://en.wikipedia.org/wiki/Chorea, url:http\://www.ncbi.nlm.nih.gov/mesh?term=Choreatic%20Disorders]
 comment: Xref MGI.
 subset: DO_MGI_slim
 synonym: "chorea" EXACT []
@@ -4246,7 +4468,7 @@ xref: UMLS_CUI:C0007193
 [Term]
 id: DOID:12971
 name: hereditary spherocytosis
-def: "A congenital hemolytic anemia characterized_by the production of red blood cells with a sphere shape, rather than the normal biconcave disk shape." [url:http\://en.wikipedia.org/wiki/Hereditary_spherocytosis]
+def: "A congenital hemolytic anemia characterized by the production of red blood cells with a sphere shape, rather than the normal biconcave disk shape." [url:http\://en.wikipedia.org/wiki/Hereditary_spherocytosis]
 comment: Xref MGI.
 subset: DO_MGI_slim
 synonym: "Congenital spherocytic hemolytic anemia" EXACT [MTHICD9_2006:282.0]
@@ -4267,7 +4489,7 @@ xref: UMLS_CUI:C0037889
 [Term]
 id: DOID:13099
 name: Moyamoya disease
-def: "A cerebral arterial disease characterized_by constriction of certain arteries at the base of the brain. Blood flow is blocked by the constriction and also by blood clots." [url:http\://en.wikipedia.org/wiki/Moyamoya_disease, url:http\://rarediseases.info.nih.gov/gard/7064/moyamoya-disease/resources/1]
+def: "A cerebral arterial disease characterized by constriction of certain arteries at the base of the brain. Blood flow is blocked by the constriction and also by blood clots." [url:http\://en.wikipedia.org/wiki/Moyamoya_disease, url:http\://rarediseases.info.nih.gov/gard/7064/moyamoya-disease/resources/1]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
 subset: DO_MGI_slim
 synonym: "progressive intracranial arterial occlusion" EXACT []
@@ -4316,7 +4538,7 @@ xref: UMLS_CUI:C0403425
 [Term]
 id: DOID:13270
 name: erythropoietic protoporphyria
-def: "An acute porphyria characterized_by a deficiency in the enzyme ferrochelatase, leading to abnormally high levels of protoporphyrin in the tissue." [url:http\://en.wikipedia.org/wiki/Erythropoietic_protoporphyria]
+def: "An acute porphyria characterized by a deficiency in the enzyme ferrochelatase, leading to abnormally high levels of protoporphyrin in the tissue." [url:http\://en.wikipedia.org/wiki/Erythropoietic_protoporphyria]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
 subset: DO_MGI_slim
 synonym: "EPP (erythropoietic protoporphyria porphyria)" EXACT [CSP2005:1849-7560]
@@ -4468,7 +4690,7 @@ xref: UMLS_CUI:C0029454
 [Term]
 id: DOID:13543
 name: hyperparathyroidism
-def: "A parathyroid gland disease characterized_by an overactivity of the parathyroid glands, leading to an excess of parathyroid hormone in the body." [url:http\://en.wikipedia.org/wiki/Hyperparathyroidism, url:http\://ghr.nlm.nih.gov/glossary=hyperparathyroidism]
+def: "A parathyroid gland disease characterized by an overactivity of the parathyroid glands, leading to an excess of parathyroid hormone in the body." [url:http\://en.wikipedia.org/wiki/Hyperparathyroidism, url:http\://ghr.nlm.nih.gov/glossary=hyperparathyroidism]
 comment: Xref MGI.
 subset: DO_MGI_slim
 xref: ICD10CM:E21
@@ -4488,7 +4710,7 @@ xref: UMLS_CUI:C0020502
 [Term]
 id: DOID:13636
 name: Fanconi's anemia
-def: "A congenital hypoplastic anemia characterized_by progressive pancytopenia with bone marrow failure, variable congenital malformations and predisposition to develop hematological or solid tumors. It is a result of a genetic defect in a cluster of proteins responsible for DNA repair." [ORDO:84, url:http\://en.wikipedia.org/wiki/Fanconi_anemia, url:http\://ghr.nlm.nih.gov/condition/fanconi-anemia, url:http\://rarediseases.info.nih.gov/gard/6425/fanconi-anemia/resources/1]
+def: "A congenital hypoplastic anemia characterized by progressive pancytopenia with bone marrow failure, variable congenital malformations and predisposition to develop hematological or solid tumors. It is a result of a genetic defect in a cluster of proteins responsible for DNA repair." [url:http\://en.wikipedia.org/wiki/Fanconi_anemia, url:http\://ghr.nlm.nih.gov/condition/fanconi-anemia, url:http\://rarediseases.info.nih.gov/gard/6425/fanconi-anemia/resources/1]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].\nOMIM mapping by NeuroDevNet. [LS].
 subset: DO_MGI_slim
 synonym: "Fanconi anemia" EXACT []
@@ -4521,7 +4743,7 @@ xref: UMLS_CUI:C0015625
 [Term]
 id: DOID:13810
 name: familial hypercholesterolemia
-def: "A familial hyperlipidemia characterized_by very high levels of low-density lipoprotein (LDL) and early cardiovascular disease." [url:http\://en.wikipedia.org/wiki/Familial_hypercholesterolemia]
+def: "A familial hyperlipidemia characterized by very high levels of low-density lipoprotein (LDL) and early cardiovascular disease." [url:http\://en.wikipedia.org/wiki/Familial_hypercholesterolemia]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
 subset: DO_MGI_slim
 synonym: "familial hyperbetalipoproteinaemia" EXACT [SNOMEDCT_2005_07_31:190776000]
@@ -4583,7 +4805,7 @@ xref: UMLS_CUI:C0155016
 [Term]
 id: DOID:13922
 name: eosinophilic esophagitis
-def: "An esophagitis characterized_by inflammation involving eosinophils located_in esophagus." [url:http\://en.wikipedia.org/wiki/Eosinophilic_esophagitis]
+def: "An esophagitis characterized by inflammation involving eosinophils located_in esophagus." [url:http\://en.wikipedia.org/wiki/Eosinophilic_esophagitis]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
 subset: DO_MGI_slim
 xref: EFO:0004232
@@ -4659,7 +4881,7 @@ xref: UMLS_CUI:C0162872
 [Term]
 id: DOID:14219
 name: renal tubular acidosis
-def: "A renal tubular transport disease characterized_by excess levels of acid in the blood, due to a failure of the kidneys to appropriately acidify the urine." [url:http\://en.wikipedia.org/wiki/Renal_tubular_acidosis, url:http\://www.merckmanuals.com/professional/genitourinary_disorders/renal_transport_abnormalities/renal_tubular_acidosis_rta.html]
+def: "A renal tubular transport disease characterized by excess levels of acid in the blood, due to a failure of the kidneys to appropriately acidify the urine." [url:http\://en.wikipedia.org/wiki/Renal_tubular_acidosis, url:http\://www.merckmanuals.com/professional/genitourinary_disorders/renal_transport_abnormalities/renal_tubular_acidosis_rta.html]
 comment: Xref MGI.
 subset: DO_MGI_slim
 xref: ICD10CM:N25.8
@@ -4733,7 +4955,6 @@ name: Parkinson's disease
 def: "A synucleinopathy that has_material_basis_in degeneration of the central nervous system that often impairs motor skills, speech, and other functions." [url:http\://en.wikipedia.org/wiki/Parkinson%27s_disease]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
 subset: DO_MGI_slim
-synonym: "Kufor-Rakeb Syndrome" EXACT []
 synonym: "paralysis agitans" EXACT [CSP2005:2057-3689]
 synonym: "Parkinson disease" EXACT []
 xref: EFO:0002508
@@ -6390,9 +6611,7 @@ name: orofaciodigital syndrome
 def: "A genetic disease that is characterized by malformations of the face, oral cavity, and digits with polycystic kidney disease and variable involvement of the central nervous system and has_material_basis_in X-linked inheritance of an OFD gene." [url:http\://en.wikipedia.org/wiki/Orofaciodigital_syndrome]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
 subset: DO_MGI_slim
-synonym: "Papillon-Leage and Psaume syndrome" EXACT []
 xref: MSH:D009958
-xref: OMIM:311200
 xref: UMLS_CUI:C0029294
 
 [Term]
@@ -6651,8 +6870,6 @@ name: hereditary breast ovarian cancer
 def: "An autosomal dominant disease characterized by the higher than normal tendency to develop breast and ovarian cancers in genetically related families." [url:http\://en.wikipedia.org/wiki/Hereditary_breast%E2%80%93ovarian_cancer_syndrome, url:http\://www.cancer.gov/cancertopics/pdq/genetics/breast-and-ovarian/HealthProfessional/page1]
 comment: Xref MGI.
 subset: DO_MGI_slim
-synonym: "BRCA1" EXACT []
-synonym: "BRCA2" EXACT []
 xref: ICD10CM:C50
 xref: NCI:C8493
 xref: OMIM:604370
@@ -6974,7 +7191,7 @@ xref: UMLS_CUI:C0020550
 [Term]
 id: DOID:83
 name: cataract
-def: "A lens disease characterized_by clouding of the lens inside the eye which leads to a decrease in vision." [PMID:10414631, url:http\://en.wikipedia.org/wiki/Cataract, url:http\://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0001996/]
+def: "A lens disease characterized by clouding of the lens inside the eye which leads to a decrease in vision." [url:http\://en.wikipedia.org/wiki/Cataract, url:http\://www.ncbi.nlm.nih.gov/pubmed/10414631, url:http\://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0001996/]
 comment: Xref MGI.
 subset: DO_MGI_slim
 xref: ICD10CM:Q12.0
@@ -7411,7 +7628,7 @@ xref: UMLS_CUI:C0268394
 [Term]
 id: DOID:9255
 name: frontotemporal dementia
-def: "A basal ganglia disease characterized by  progressive neuronal loss predominantly involving the frontal and/or temporal lobes of the brain resulting in a gradual and progressive decline in behavior or language." [PMID:21121521, url:http\://en.wikipedia.org/wiki/Frontotemporal_dementia, url:https\://www.rarediseases.org/rare-disease-information/rare-diseases/byID/673/viewAbstract]
+def: "A basal ganglia disease characterized by  progressive neuronal loss predominantly involving the frontal and/or temporal lobes of the brain resulting in a gradual and progressive decline in behavior or language." [url:http\://en.wikipedia.org/wiki/Frontotemporal_dementia, url:http\://www.ncbi.nlm.nih.gov/pubmed/21121521, url:https\://www.rarediseases.org/rare-disease-information/rare-diseases/byID/673/viewAbstract]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
 subset: DO_MGI_slim
 synonym: "frontotemporal lobar degeneration" EXACT []
@@ -7603,6 +7820,20 @@ xref: SNOMEDCT_2010_1_31:398680004
 xref: UMLS_CUI:C0175683
 
 [Term]
+id: DOID:9274
+name: hyperlysinemia
+def: "An amino acid metabolic disorder that involves an abnormal increase of lysine in the blood." [url:http\://en.wikipedia.org/wiki/Hyperlysinemia]
+comment: OMIM mapping confirmed by DO. [SN].
+subset: DO_MGI_slim
+xref: ICD10CM:E72.3
+xref: MSH:D020167
+xref: OMIM:238700
+xref: OMIM:238710
+xref: ORDO:2203
+xref: SNOMEDCT_2010_1_31:58558003
+xref: UMLS_CUI:C0268553
+
+[Term]
 id: DOID:9352
 name: type 2 diabetes mellitus
 def: "A diabetes mellitus that involves high blood glucose resulting from cells fail to use insulin properly." [url:http\://en.wikipedia.org/wiki/Diabetes, url:http\://en.wikipedia.org/wiki/Diabetes_mellitus_type_2]
@@ -7630,7 +7861,7 @@ xref: UMLS_CUI:C0011860
 [Term]
 id: DOID:9406
 name: hypopituitarism
-def: "A pituitary gland disease characterized_by the decreased secretion of one or more of the eight hormones normally produced by the pituitary gland." [url:http\://en.wikipedia.org/wiki/Hypopituitarism]
+def: "A pituitary gland disease characterized by the decreased secretion of one or more of the eight hormones normally produced by the pituitary gland." [url:http\://en.wikipedia.org/wiki/Hypopituitarism]
 comment: Xref MGI.
 subset: DO_MGI_slim
 synonym: "pituitary hormone deficiency" EXACT []

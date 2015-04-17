@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 27:03:2015 16:58
+date: 16:04:2015 17:02
 saved-by: emitraka
 auto-generated-by: OBO-Edit 2.3.1
 subsetdef: DO_cancer_slim "DO cancer slim"
@@ -7078,7 +7078,7 @@ creation_date: 2013-12-11T01:49:54Z
 [Term]
 id: DOID:0050818
 name: transcobalamin II deficiency
-def: "A vitamin B12 deficiency that is characterized by a lack of vitamin B12 intestinal absorption resulting from a deficiency in the B12 transport protein TCII." [url:http\://omim.org/entry/275350, url:https\://www.orpha.net/data/patho/GB/uk-TCII.pdf‎]
+def: "A vitamin B12 deficiency that is characterized by a lack of vitamin B12 intestinal absorption resulting from a deficiency in the B12 transport protein TCII." [url:http\://omim.org/entry/275350, url:https\://www.orpha.net/data/patho/GB/uk-TCII.pdf]
 synonym: "TCN2 deficiency" EXACT []
 xref: OMIM:275350
 is_a: DOID:0050731 ! vitamin B12 deficiency
@@ -11913,11 +11913,34 @@ creation_date: 2015-03-12T16:04:59Z
 [Term]
 id: DOID:0060334
 name: transient neonatal diabetes mellitus
+def: "A neonatal diabetes mellitus characterized by hyperglycemia during the neonatal period that remits during infancy but recurs in later life in most patients." [PMID:17349054, url:http\://en.wikipedia.org/wiki/Transient_neonatal_diabetes_mellitus]
 subset: DO_MGI_slim
+xref: ICD10CM:P70.2
 xref: OMIM:601410
+xref: OMIM:610374
+xref: OMIM:610582
+xref: ORDO:99886
 is_a: DOID:11717 ! neonatal diabetes mellitus
 created_by: emitraka
 creation_date: 2015-03-12T16:59:58Z
+
+[Term]
+id: DOID:0060335
+name: autosomal dominant sideroblastic anemia
+def: "A sideroblastic anemia characterized by an autosomal dominant inheritance pattern." [url:http\://en.wikipedia.org/wiki/Sideroblastic_anemia]
+subset: DO_MGI_slim
+xref: OMIM:182170
+is_a: DOID:8955 ! sideroblastic anemia
+created_by: emitraka
+creation_date: 2015-04-16T10:44:34Z
+
+[Term]
+id: DOID:0060336
+name: 3-methylglutaconic aciduria
+subset: DO_MGI_slim
+is_a: DOID:0060159 ! organic acidemia
+created_by: emitraka
+creation_date: 2015-04-16T10:50:48Z
 
 [Term]
 id: DOID:0070001
@@ -71646,10 +71669,13 @@ is_obsolete: true
 [Term]
 id: DOID:4644
 name: epidermolysis bullosa simplex
+subset: DO_MGI_slim
 synonym: "Epidermolysis bullosa simplex" EXACT [SNOMEDCT_2005_07_31:205585003]
 synonym: "Epidermolysis bullosa simplex (disorder)" EXACT [SNOMEDCT_2005_07_31:67144006]
 xref: MSH:D016110
 xref: NCI:C84692
+xref: OMIM:601001
+xref: OMIM:615425
 xref: SNOMEDCT_2010_1_31:205585003
 xref: SNOMEDCT_2010_1_31:67144006
 xref: UMLS_CUI:C0079298
@@ -86593,14 +86619,20 @@ is_a: DOID:956 ! peripheral nerve schwannoma
 [Term]
 id: DOID:674
 name: cleft palate
+def: "An orofacial cleft characterized by a fissure of the soft and/or hard palate, due to faulty fusion of the two plates of the skull that form the hard palate." [url:http\://en.wikipedia.org/wiki/Cleft_lip_and_palate#Cleft_palate, url:http\://ghr.nlm.nih.gov/glossary=cleftpalate]
 comment: OMIM mapping confirmed by DO. [SN].
+subset: DO_MGI_slim
+synonym: "cleft velum" EXACT []
 synonym: "Palatoschisis" EXACT [SNOMEDCT_2005_07_31:253986002]
 synonym: "Uranostaphyloschisis (disorder)" EXACT [SNOMEDCT_2005_07_31:63567004]
+xref: ICD10CM:Q35.3
 xref: ICD9CM:749.0
 xref: ICD9CM:749.00
 xref: MSH:D002972
 xref: NCI:C87069
 xref: OMIM:119540
+xref: OMIM:119570
+xref: ORDO:99772
 xref: SNOMEDCT_2010_1_31:156940009
 xref: SNOMEDCT_2010_1_31:204593009
 xref: SNOMEDCT_2010_1_31:204605001

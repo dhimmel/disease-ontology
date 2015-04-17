@@ -1,0 +1,138 @@
+doid	name	source	pathophysiology
+DOID:2531	Hematologic cancer	DOcancerslim	neoplastic
+DOID:1319	Brain cancer	DOcancerslim	neoplastic
+DOID:1324	Lung cancer	DOcancerslim	neoplastic
+DOID:263	Kidney cancer	DOcancerslim	neoplastic
+DOID:1793	Pancreatic cancer	DOcancerslim	neoplastic
+DOID:4159	Skin cancer	DOcancerslim	neoplastic
+DOID:184	Bone cancer	DOcancerslim	neoplastic
+DOID:0060119	Pharynx cancer	DOcancerslim	neoplastic
+DOID:2394	Ovarian cancer	DOcancerslim	neoplastic
+DOID:1612	Breast cancer	DOcancerslim	neoplastic
+DOID:3070	Malignant glioma	DOcancerslim	neoplastic
+DOID:363	Uterine cancer	DOcancerslim	neoplastic
+DOID:3953	Adrenal gland cancer	DOcancerslim	neoplastic
+DOID:5041	Esophageal cancer	DOcancerslim	neoplastic
+DOID:8850	Salivary gland cancer	DOcancerslim	neoplastic
+DOID:10283	Prostate cancer	DOcancerslim	neoplastic
+DOID:10534	Stomach cancer	DOcancerslim	neoplastic
+DOID:11054	Urinary bladder cancer	DOcancerslim	neoplastic
+DOID:1192	Peripheral nervous system neoplasm	DOcancerslim	neoplastic
+DOID:1781	Thyroid cancer	DOcancerslim	neoplastic
+DOID:3571	Liver cancer	DOcancerslim	neoplastic
+DOID:4362	Cervical cancer	DOcancerslim	neoplastic
+DOID:119	Vaginal cancer	DOcancerslim	neoplastic
+DOID:11934	Head and neck cancer	DOcancerslim	neoplastic
+DOID:1993	Rectum cancer	DOcancerslim	neoplastic
+DOID:2174	Ocular cancer	DOcancerslim	neoplastic
+DOID:219	Colon cancer	DOcancerslim	neoplastic
+DOID:2596	Larynx cancer	DOcancerslim	neoplastic
+DOID:2994	Germ cell cancer	DOcancerslim	neoplastic
+DOID:3277	Thymus cancer	DOcancerslim	neoplastic
+DOID:4045	Muscle cancer	DOcancerslim	neoplastic
+DOID:0060073	Lymphatic system cancer	DOcancerslim	neoplastic
+DOID:10021	Duodenum cancer	DOcancerslim	neoplastic
+DOID:10153	Ileum cancer	DOcancerslim	neoplastic
+DOID:10811	Nasal cavity cancer	DOcancerslim	neoplastic
+DOID:1115	Sarcoma	DOcancerslim	neoplastic
+DOID:11239	Appendix cancer	DOcancerslim	neoplastic
+DOID:11615	Penile cancer	DOcancerslim	neoplastic
+DOID:11819	Ureter cancer	DOcancerslim	neoplastic
+DOID:11920	Tracheal cancer	DOcancerslim	neoplastic
+DOID:1245	Vulva cancer	DOcancerslim	neoplastic
+DOID:13499	Jejunal cancer	DOcancerslim	neoplastic
+DOID:1725	Peritoneum cancer	DOcancerslim	neoplastic
+DOID:175	Vascular cancer	DOcancerslim	neoplastic
+DOID:1790	Malignant mesothelioma	DOcancerslim	neoplastic
+DOID:1909	Melanoma	DOcancerslim	neoplastic
+DOID:1964	Fallopian tube cancer	DOcancerslim	neoplastic
+DOID:2998	Testicular cancer	DOcancerslim	neoplastic
+DOID:3121	Gallbladder cancer	DOcancerslim	neoplastic
+DOID:3565	Meningioma	DOcancerslim	neoplastic
+DOID:4606	Bile duct cancer	DOcancerslim	neoplastic
+DOID:5099	Middle ear cancer	DOcancerslim	neoplastic
+DOID:5559	Mediastinal cancer	DOcancerslim	neoplastic
+DOID:5612	Spinal cancer	DOcancerslim	neoplastic
+DOID:5875	Retroperitoneal cancer	DOcancerslim	neoplastic
+DOID:9917	Pleural cancer	DOcancerslim	neoplastic
+DOID:8778	Crohn's disease	hetio	immunologic
+DOID:2377	multiple sclerosis	hetio	immunologic
+DOID:9352	type 2 diabetes mellitus	hetio	metabolic
+DOID:8577	ulcerative colitis	hetio	immunologic
+DOID:9744	type 1 diabetes mellitus	hetio	immunologic
+DOID:7148	rheumatoid arthritis	hetio	immunologic
+DOID:3393	coronary artery disease	hetio	metabolic
+DOID:9970	obesity	hetio	metabolic
+DOID:10608	celiac disease	hetio	immunologic
+DOID:9074	systemic lupus erythematosus	hetio	immunologic
+DOID:9835	refractive error	hetio	degenerative
+DOID:12236	primary biliary cirrhosis	hetio	immunologic
+DOID:12306	vitiligo	hetio	immunologic
+DOID:10871	age related macular degeneration	hetio	degenerative
+DOID:14221	metabolic syndrome X	hetio	metabolic
+DOID:2841	asthma	hetio	immunologic
+DOID:8893	psoriasis	hetio	immunologic
+DOID:5419	schizophrenia	hetio	psychiatric
+DOID:6364	migraine	hetio	unspecific
+DOID:10652	Alzheimer's disease	hetio	degenerative
+DOID:12361	Graves' disease	hetio	immunologic
+DOID:14330	Parkinson's disease	hetio	degenerative
+DOID:3310	atopic dermatitis	hetio	immunologic
+DOID:3312	bipolar disorder	hetio	psychiatric
+DOID:7147	ankylosing spondylitis	hetio	immunologic
+DOID:11612	polycystic ovary syndrome	hetio	metabolic
+DOID:10763	hypertension	hetio	idiopathic
+DOID:418	systemic scleroderma	hetio	immunologic
+DOID:13241	Behcet's disease	hetio	immunologic
+DOID:5408	Paget's disease of bone	hetio	immunologic
+DOID:1024	leprosy	hetio	infectious
+DOID:10941	intracranial aneurysm	hetio	unspecific
+DOID:1686	glaucoma	hetio	degenerative
+DOID:332	amyotrophic lateral sclerosis	hetio	degenerative
+DOID:0050425	restless legs syndrome	hetio	unspecific
+DOID:13378	Kawasaki disease	hetio	immunologic
+DOID:1936	atherosclerosis	hetio	metabolic
+DOID:986	alopecia areata	hetio	immunologic
+DOID:11476	osteoporosis	hetio	metabolic
+DOID:1459	hypothyroidism	hetio	immunologic
+DOID:2986	IgA glomerulonephritis	hetio	immunologic
+DOID:0050741	alcohol dependence	hetio	psychiatric
+DOID:11949	Creutzfeldt-Jakob syndrome	hetio	idiopathic
+DOID:14227	azoospermia	hetio	unspecific
+DOID:1826	epilepsy syndrome	hetio	unspecific
+DOID:2043	hepatitis B	hetio	infectious
+DOID:3083	chronic obstructive pulmonary disease	hetio	toxic
+DOID:7693	abdominal aortic aneurysm	hetio	unspecific
+DOID:784	chronic kidney failure	hetio	unspecific
+DOID:8398	osteoarthritis	hetio	degenerative
+DOID:9008	psoriatic arthritis	hetio	immunologic
+DOID:0050742	nicotine dependence	hetio	psychiatric
+DOID:10976	membranous glomerulonephritis	hetio	immunologic
+DOID:11714	gestational diabetes	hetio	metabolic
+DOID:12365	malaria	hetio	infectious
+DOID:12849	autistic disorder	hetio	idiopathic
+DOID:12930	dilated cardiomyopathy	hetio	unspecific
+DOID:13189	gout	hetio	metabolic
+DOID:13223	uterine fibroid	hetio	neoplastic
+DOID:14268	sclerosing cholangitis	hetio	immunologic
+DOID:8986	narcolepsy	hetio	unspecific
+DOID:90	degenerative disc disease	hetio	degenerative
+DOID:9296	cleft lip	hetio	congenital
+DOID:0050156	idiopathic pulmonary fibrosis	hetio	degenerative
+DOID:1094	attention deficit hyperactivity disorder	hetio	psychiatric
+DOID:11119	Gilles de la Tourette syndrome	hetio	psychiatric
+DOID:14004	thoracic aortic aneurysm	hetio	unspecific
+DOID:1595	endogenous depression	hetio	psychiatric
+DOID:4481	allergic rhinitis	hetio	immunologic
+DOID:4989	pancreatitis	hetio	unspecific
+DOID:585	nephrolithiasis	hetio	metabolic
+DOID:824	periodontitis	hetio	infectious
+DOID:9206	Barrett's esophagus	hetio	neoplastic
+DOID:11555	Fuchs' endothelial dystrophy	hetio	degenerative
+DOID:12185	otosclerosis	hetio	idiopathic
+DOID:12995	conduct disorder	hetio	psychiatric
+DOID:1312	focal segmental glomerulosclerosis	hetio	unspecific
+DOID:216	dental caries	hetio	infectious
+DOID:2355	anemia	hetio	unspecific
+DOID:594	panic disorder	hetio	psychiatric
+DOID:635	acquired immunodeficiency syndrome	hetio	infectious

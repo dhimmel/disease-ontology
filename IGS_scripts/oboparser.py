@@ -8,8 +8,8 @@
 import re
 
 from itertools import groupby
-from ontology import Ontology
-from term import Term
+from .ontology import Ontology
+from .term import Term
 
 __author__ = "Cesar Arze"      
 __copyyright__ = "Institute for Genome Science - University of Maryland School of Medicine"    

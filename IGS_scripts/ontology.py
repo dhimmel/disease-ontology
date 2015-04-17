@@ -5,7 +5,6 @@
 # objects that represent the individual terms in an ontology
 #
 
-import term
 
 __author__ = "Cesar Arze"      
 __copyyright__ = "Institute for Genome Science - University of Maryland School of Medicine"    

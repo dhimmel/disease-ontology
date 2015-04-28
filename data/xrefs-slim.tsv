@@ -1,0 +1,1797 @@
+doid_code	doid_name	resource	resource_id
+DOID:2531	hematologic cancer	MSH	D019337
+DOID:2531	hematologic cancer	NCI	C27134
+DOID:2531	hematologic cancer	SNOMEDCT	414388001
+DOID:2531	hematologic cancer	SNOMEDCT	414644002
+DOID:2531	hematologic cancer	UMLS	C0376544
+DOID:1319	brain cancer	CSP	2006-2736
+DOID:1319	brain cancer	ICD9	239.6
+DOID:1319	brain cancer	MSH	D001932
+DOID:1319	brain cancer	NCI	C2907
+DOID:1319	brain cancer	SNOMEDCT	126952004
+DOID:1319	brain cancer	SNOMEDCT	154550004
+DOID:1319	brain cancer	SNOMEDCT	188279009
+DOID:1319	brain cancer	SNOMEDCT	188305001
+DOID:1319	brain cancer	SNOMEDCT	189537005
+DOID:1319	brain cancer	SNOMEDCT	254935002
+DOID:1319	brain cancer	SNOMEDCT	269610005
+DOID:1319	brain cancer	SNOMEDCT	275464006
+DOID:1319	brain cancer	SNOMEDCT	363356001
+DOID:1319	brain cancer	SNOMEDCT	428061005
+DOID:1319	brain cancer	SNOMEDCT	93727008
+DOID:1319	brain cancer	UMLS	C0006118
+DOID:1319	brain cancer	UMLS	C0153633
+DOID:1319	brain cancer	UMLS	C0220624
+DOID:1319	brain cancer	UMLS	C0750974
+DOID:1319	brain cancer	UMLS	C0750979
+DOID:1319	brain cancer	UMLS	C1334557
+DOID:1324	lung cancer	ICD9	162.3
+DOID:1324	lung cancer	OMIM	211980
+DOID:1324	lung cancer	OMIM	608935
+DOID:1324	lung cancer	OMIM	612593
+DOID:1324	lung cancer	OMIM	614210
+DOID:1324	lung cancer	SNOMEDCT	187860004
+DOID:1324	lung cancer	SNOMEDCT	187863002
+DOID:1324	lung cancer	SNOMEDCT	187864008
+DOID:1324	lung cancer	SNOMEDCT	187867001
+DOID:1324	lung cancer	SNOMEDCT	187868006
+DOID:1324	lung cancer	SNOMEDCT	187871003
+DOID:1324	lung cancer	SNOMEDCT	187874006
+DOID:1324	lung cancer	SNOMEDCT	269464000
+DOID:1324	lung cancer	UMLS	C0024624
+DOID:1324	lung cancer	UMLS	C0153491
+DOID:1324	lung cancer	UMLS	C0153492
+DOID:1324	lung cancer	UMLS	C0153493
+DOID:263	kidney cancer	MSH	D007680
+DOID:263	kidney cancer	NCI	C3150
+DOID:263	kidney cancer	SNOMEDCT	126880001
+DOID:263	kidney cancer	SNOMEDCT	154542008
+DOID:263	kidney cancer	SNOMEDCT	188249002
+DOID:263	kidney cancer	SNOMEDCT	363518003
+DOID:263	kidney cancer	SNOMEDCT	93849006
+DOID:263	kidney cancer	UMLS	C0022665
+DOID:263	kidney cancer	UMLS	C0494158
+DOID:263	kidney cancer	UMLS	C0740457
+DOID:1793	pancreatic cancer	ICD10	C25
+DOID:1793	pancreatic cancer	ICD9	157
+DOID:1793	pancreatic cancer	KEGG	05212
+DOID:1793	pancreatic cancer	MSH	D010190
+DOID:1793	pancreatic cancer	NCI	C3305
+DOID:1793	pancreatic cancer	OMIM	606856
+DOID:1793	pancreatic cancer	OMIM	613347
+DOID:1793	pancreatic cancer	OMIM	613348
+DOID:1793	pancreatic cancer	OMIM	614320
+DOID:1793	pancreatic cancer	ORDO	1333
+DOID:1793	pancreatic cancer	ORDO	217074
+DOID:1793	pancreatic cancer	SNOMEDCT	126859007
+DOID:1793	pancreatic cancer	SNOMEDCT	154476001
+DOID:1793	pancreatic cancer	SNOMEDCT	154477005
+DOID:1793	pancreatic cancer	SNOMEDCT	154478000
+DOID:1793	pancreatic cancer	SNOMEDCT	187791002
+DOID:1793	pancreatic cancer	SNOMEDCT	187792009
+DOID:1793	pancreatic cancer	SNOMEDCT	187796007
+DOID:1793	pancreatic cancer	SNOMEDCT	269553001
+DOID:1793	pancreatic cancer	SNOMEDCT	269554007
+DOID:1793	pancreatic cancer	SNOMEDCT	269555008
+DOID:1793	pancreatic cancer	SNOMEDCT	363419009
+DOID:1793	pancreatic cancer	SNOMEDCT	93715005
+DOID:1793	pancreatic cancer	SNOMEDCT	93823001
+DOID:1793	pancreatic cancer	SNOMEDCT	94082003
+DOID:1793	pancreatic cancer	UMLS	C0030297
+DOID:1793	pancreatic cancer	UMLS	C0153458
+DOID:1793	pancreatic cancer	UMLS	C0153459
+DOID:1793	pancreatic cancer	UMLS	C0153460
+DOID:1793	pancreatic cancer	UMLS	C0153463
+DOID:4159	skin cancer	MSH	D012878
+DOID:4159	skin cancer	NCI	C2920
+DOID:4159	skin cancer	SNOMEDCT	188143008
+DOID:4159	skin cancer	SNOMEDCT	190107001
+DOID:4159	skin cancer	SNOMEDCT	363511009
+DOID:4159	skin cancer	SNOMEDCT	372130007
+DOID:4159	skin cancer	UMLS	C0007114
+DOID:184	bone cancer	CSP	2019-1041
+DOID:184	bone cancer	MSH	D001859
+DOID:184	bone cancer	NCI	C9343
+DOID:184	bone cancer	SNOMEDCT	115239009
+DOID:184	bone cancer	SNOMEDCT	126537000
+DOID:184	bone cancer	SNOMEDCT	240201007
+DOID:184	bone cancer	UMLS	C0005967
+DOID:2394	ovarian cancer	MSH	D010051
+DOID:2394	ovarian cancer	NCI	C4984
+DOID:2394	ovarian cancer	OMIM	167000
+DOID:2394	ovarian cancer	OMIM	607893
+DOID:2394	ovarian cancer	ORDO	213517
+DOID:2394	ovarian cancer	SNOMEDCT	123843001
+DOID:2394	ovarian cancer	SNOMEDCT	154528000
+DOID:2394	ovarian cancer	SNOMEDCT	363443007
+DOID:2394	ovarian cancer	SNOMEDCT	372117006
+DOID:2394	ovarian cancer	SNOMEDCT	93934004
+DOID:2394	ovarian cancer	UMLS	C0919267
+DOID:2394	ovarian cancer	UMLS	C1140680
+DOID:2394	ovarian cancer	UMLS	C1299247
+DOID:1612	breast cancer	MSH	D001943
+DOID:1612	breast cancer	NCI	C9335
+DOID:1612	breast cancer	OMIM	114480
+DOID:1612	breast cancer	OMIM	600048
+DOID:1612	breast cancer	OMIM	605365
+DOID:1612	breast cancer	ORDO	227535
+DOID:1612	breast cancer	SNOMEDCT	126926005
+DOID:1612	breast cancer	SNOMEDCT	154521006
+DOID:1612	breast cancer	SNOMEDCT	190121004
+DOID:1612	breast cancer	SNOMEDCT	254837009
+DOID:1612	breast cancer	SNOMEDCT	269595005
+DOID:1612	breast cancer	UMLS	C0006142
+DOID:1612	breast cancer	UMLS	C0153555
+DOID:1612	breast cancer	UMLS	C1458155
+DOID:3070	malignant glioma	ICD10	C71
+DOID:3070	malignant glioma	ICD9	191
+DOID:3070	malignant glioma	KEGG	05214
+DOID:3070	malignant glioma	MSH	D005910
+DOID:3070	malignant glioma	NCI	C3059
+DOID:3070	malignant glioma	OMIM	137800
+DOID:3070	malignant glioma	OMIM	607248
+DOID:3070	malignant glioma	OMIM	613028
+DOID:3070	malignant glioma	OMIM	613029
+DOID:3070	malignant glioma	OMIM	613030
+DOID:3070	malignant glioma	OMIM	613031
+DOID:3070	malignant glioma	OMIM	613032
+DOID:3070	malignant glioma	OMIM	613033
+DOID:3070	malignant glioma	ORDO	182067
+DOID:3070	malignant glioma	SNOMEDCT	115240006
+DOID:3070	malignant glioma	SNOMEDCT	189908003
+DOID:3070	malignant glioma	SNOMEDCT	189909006
+DOID:3070	malignant glioma	SNOMEDCT	189926000
+DOID:3070	malignant glioma	SNOMEDCT	269505000
+DOID:3070	malignant glioma	SNOMEDCT	393564001
+DOID:3070	malignant glioma	SNOMEDCT	416500007
+DOID:3070	malignant glioma	SNOMEDCT	74532006
+DOID:3070	malignant glioma	UMLS	C0017638
+DOID:3070	malignant glioma	UMLS	C0555198
+DOID:363	uterine cancer	MSH	D014594
+DOID:363	uterine cancer	NCI	C3435
+DOID:363	uterine cancer	SNOMEDCT	126908007
+DOID:363	uterine cancer	SNOMEDCT	156169001
+DOID:363	uterine cancer	SNOMEDCT	188173004
+DOID:363	uterine cancer	SNOMEDCT	269613007
+DOID:363	uterine cancer	SNOMEDCT	371973000
+DOID:363	uterine cancer	SNOMEDCT	93718007
+DOID:363	uterine cancer	SNOMEDCT	94127009
+DOID:363	uterine cancer	UMLS	C0042138
+DOID:363	uterine cancer	UMLS	C0153567
+DOID:3953	adrenal gland cancer	MSH	D000310
+DOID:3953	adrenal gland cancer	NCI	C2859
+DOID:3953	adrenal gland cancer	SNOMEDCT	127021009
+DOID:3953	adrenal gland cancer	SNOMEDCT	188337000
+DOID:3953	adrenal gland cancer	SNOMEDCT	188338005
+DOID:3953	adrenal gland cancer	SNOMEDCT	363355002
+DOID:3953	adrenal gland cancer	SNOMEDCT	93665005
+DOID:3953	adrenal gland cancer	UMLS	C0001624
+DOID:3953	adrenal gland cancer	UMLS	C0750887
+DOID:5041	esophageal cancer	MSH	D004938
+DOID:5041	esophageal cancer	NCI	C3028
+DOID:5041	esophageal cancer	SNOMEDCT	126817006
+DOID:5041	esophageal cancer	SNOMEDCT	154443000
+DOID:5041	esophageal cancer	SNOMEDCT	154444006
+DOID:5041	esophageal cancer	SNOMEDCT	187724003
+DOID:5041	esophageal cancer	SNOMEDCT	187725002
+DOID:5041	esophageal cancer	SNOMEDCT	187726001
+DOID:5041	esophageal cancer	SNOMEDCT	187727005
+DOID:5041	esophageal cancer	SNOMEDCT	187729008
+DOID:5041	esophageal cancer	SNOMEDCT	269523008
+DOID:5041	esophageal cancer	SNOMEDCT	269524002
+DOID:5041	esophageal cancer	SNOMEDCT	93656003
+DOID:5041	esophageal cancer	SNOMEDCT	93877002
+DOID:5041	esophageal cancer	SNOMEDCT	93895004
+DOID:5041	esophageal cancer	SNOMEDCT	94119000
+DOID:5041	esophageal cancer	UMLS	C0014859
+DOID:5041	esophageal cancer	UMLS	C0153413
+DOID:5041	esophageal cancer	UMLS	C0153414
+DOID:5041	esophageal cancer	UMLS	C0153415
+DOID:5041	esophageal cancer	UMLS	C0153416
+DOID:5041	esophageal cancer	UMLS	C0496775
+DOID:8850	salivary gland cancer	ICD9	142.8
+DOID:8850	salivary gland cancer	MSH	D012468
+DOID:8850	salivary gland cancer	SNOMEDCT	187648003
+DOID:8850	salivary gland cancer	UMLS	C0153362
+DOID:10283	prostate cancer	KEGG	05215
+DOID:10283	prostate cancer	MSH	C537243
+DOID:10283	prostate cancer	MSH	D011471
+DOID:10283	prostate cancer	NCI	C3343
+DOID:10283	prostate cancer	OMIM	176807
+DOID:10283	prostate cancer	OMIM	300147
+DOID:10283	prostate cancer	OMIM	300704
+DOID:10283	prostate cancer	OMIM	601518
+DOID:10283	prostate cancer	OMIM	602759
+DOID:10283	prostate cancer	OMIM	608656
+DOID:10283	prostate cancer	OMIM	608658
+DOID:10283	prostate cancer	OMIM	609299
+DOID:10283	prostate cancer	OMIM	609558
+DOID:10283	prostate cancer	OMIM	610321
+DOID:10283	prostate cancer	OMIM	610997
+DOID:10283	prostate cancer	OMIM	611100
+DOID:10283	prostate cancer	OMIM	611868
+DOID:10283	prostate cancer	OMIM	611928
+DOID:10283	prostate cancer	OMIM	611955
+DOID:10283	prostate cancer	OMIM	611958
+DOID:10283	prostate cancer	OMIM	611959
+DOID:10283	prostate cancer	OMIM	614761
+DOID:10283	prostate cancer	ORDO	1331
+DOID:10283	prostate cancer	SNOMEDCT	126906006
+DOID:10283	prostate cancer	SNOMEDCT	363448003
+DOID:10283	prostate cancer	SNOMEDCT	399068003
+DOID:10283	prostate cancer	SNOMEDCT	93974005
+DOID:10283	prostate cancer	UMLS	C0033578
+DOID:10283	prostate cancer	UMLS	C0376358
+DOID:10534	stomach cancer	ICD9	151
+DOID:10534	stomach cancer	ICD9	151.9
+DOID:10534	stomach cancer	MSH	D013274
+DOID:10534	stomach cancer	NCI	C9331
+DOID:10534	stomach cancer	OMIM	137215
+DOID:10534	stomach cancer	OMIM	613659
+DOID:10534	stomach cancer	SNOMEDCT	126824007
+DOID:10534	stomach cancer	SNOMEDCT	154450001
+DOID:10534	stomach cancer	SNOMEDCT	154451002
+DOID:10534	stomach cancer	SNOMEDCT	154452009
+DOID:10534	stomach cancer	SNOMEDCT	154453004
+DOID:10534	stomach cancer	SNOMEDCT	187731004
+DOID:10534	stomach cancer	SNOMEDCT	187742008
+DOID:10534	stomach cancer	SNOMEDCT	187743003
+DOID:10534	stomach cancer	SNOMEDCT	187744009
+DOID:10534	stomach cancer	SNOMEDCT	187750004
+DOID:10534	stomach cancer	SNOMEDCT	255080008
+DOID:10534	stomach cancer	SNOMEDCT	269458007
+DOID:10534	stomach cancer	SNOMEDCT	269459004
+DOID:10534	stomach cancer	SNOMEDCT	269460009
+DOID:10534	stomach cancer	SNOMEDCT	269529007
+DOID:10534	stomach cancer	SNOMEDCT	269530002
+DOID:10534	stomach cancer	SNOMEDCT	269531003
+DOID:10534	stomach cancer	SNOMEDCT	269532005
+DOID:10534	stomach cancer	SNOMEDCT	363349007
+DOID:10534	stomach cancer	SNOMEDCT	93717002
+DOID:10534	stomach cancer	SNOMEDCT	93818001
+DOID:10534	stomach cancer	SNOMEDCT	93867004
+DOID:10534	stomach cancer	SNOMEDCT	94074003
+DOID:10534	stomach cancer	UMLS	C0024623
+DOID:10534	stomach cancer	UMLS	C0038356
+DOID:10534	stomach cancer	UMLS	C0153421
+DOID:10534	stomach cancer	UMLS	C0153422
+DOID:10534	stomach cancer	UMLS	C0153423
+DOID:11054	urinary bladder cancer	ICD9	188
+DOID:11054	urinary bladder cancer	ICD9	188.9
+DOID:11054	urinary bladder cancer	KEGG	05219
+DOID:11054	urinary bladder cancer	MSH	D001749
+DOID:11054	urinary bladder cancer	NCI	C9334
+DOID:11054	urinary bladder cancer	OMIM	109800
+DOID:11054	urinary bladder cancer	SNOMEDCT	126885006
+DOID:11054	urinary bladder cancer	SNOMEDCT	154540000
+DOID:11054	urinary bladder cancer	SNOMEDCT	188248005
+DOID:11054	urinary bladder cancer	SNOMEDCT	269607003
+DOID:11054	urinary bladder cancer	SNOMEDCT	363455001
+DOID:11054	urinary bladder cancer	SNOMEDCT	399326009
+DOID:11054	urinary bladder cancer	SNOMEDCT	93689003
+DOID:11054	urinary bladder cancer	UMLS	C0005684
+DOID:11054	urinary bladder cancer	UMLS	C0005695
+DOID:1192	peripheral nervous system neoplasm	MSH	D010524
+DOID:1192	peripheral nervous system neoplasm	NCI	C3321
+DOID:1192	peripheral nervous system neoplasm	SNOMEDCT	115242003
+DOID:1192	peripheral nervous system neoplasm	SNOMEDCT	126980002
+DOID:1192	peripheral nervous system neoplasm	SNOMEDCT	134214003
+DOID:1192	peripheral nervous system neoplasm	SNOMEDCT	189946005
+DOID:1192	peripheral nervous system neoplasm	SNOMEDCT	189953001
+DOID:1192	peripheral nervous system neoplasm	UMLS	C0031118
+DOID:1192	peripheral nervous system neoplasm	UMLS	C0206727
+DOID:1781	thyroid cancer	ICD9	193
+DOID:1781	thyroid cancer	KEGG	05216
+DOID:1781	thyroid cancer	NCI	C7510
+DOID:1781	thyroid cancer	SNOMEDCT	127018007
+DOID:1781	thyroid cancer	SNOMEDCT	154554008
+DOID:1781	thyroid cancer	SNOMEDCT	363478007
+DOID:1781	thyroid cancer	SNOMEDCT	94098005
+DOID:1781	thyroid cancer	UMLS	C0007115
+DOID:1781	thyroid cancer	UMLS	C0040136
+DOID:3571	liver cancer	MSH	D008113
+DOID:3571	liver cancer	SNOMEDCT	126851005
+DOID:3571	liver cancer	SNOMEDCT	154470007
+DOID:3571	liver cancer	SNOMEDCT	187768001
+DOID:3571	liver cancer	SNOMEDCT	187771009
+DOID:3571	liver cancer	SNOMEDCT	187779006
+DOID:3571	liver cancer	SNOMEDCT	269548006
+DOID:3571	liver cancer	SNOMEDCT	363361004
+DOID:3571	liver cancer	SNOMEDCT	93870000
+DOID:3571	liver cancer	SNOMEDCT	95214007
+DOID:3571	liver cancer	UMLS	C0023903
+DOID:3571	liver cancer	UMLS	C0024620
+DOID:3571	liver cancer	UMLS	C0345904
+DOID:3571	liver cancer	UMLS	C0854795
+DOID:3571	liver cancer	UMLS	C0861869
+DOID:3571	liver cancer	UMLS	C1334590
+DOID:4362	cervical cancer	ICD9	180
+DOID:4362	cervical cancer	ICD9	180.9
+DOID:4362	cervical cancer	NCI	C9311
+DOID:4362	cervical cancer	SNOMEDCT	123841004
+DOID:4362	cervical cancer	SNOMEDCT	188174005
+DOID:4362	cervical cancer	SNOMEDCT	188186008
+DOID:4362	cervical cancer	SNOMEDCT	254885005
+DOID:4362	cervical cancer	SNOMEDCT	363354003
+DOID:4362	cervical cancer	SNOMEDCT	93752005
+DOID:4362	cervical cancer	UMLS	C0007847
+DOID:4362	cervical cancer	UMLS	C0007873
+DOID:119	vaginal cancer	ICD9	184.0
+DOID:119	vaginal cancer	MSH	D014625
+DOID:119	vaginal cancer	NCI	C7410
+DOID:119	vaginal cancer	SNOMEDCT	126921000
+DOID:119	vaginal cancer	SNOMEDCT	154534007
+DOID:119	vaginal cancer	SNOMEDCT	188210000
+DOID:119	vaginal cancer	SNOMEDCT	363445000
+DOID:119	vaginal cancer	UMLS	C0042237
+DOID:119	vaginal cancer	UMLS	C0042258
+DOID:11934	head and neck cancer	MSH	D006258
+DOID:11934	head and neck cancer	NCI	C3077
+DOID:11934	head and neck cancer	SNOMEDCT	255055008
+DOID:11934	head and neck cancer	UMLS	C0018671
+DOID:1993	rectum cancer	MSH	D012004
+DOID:1993	rectum cancer	NCI	C9382
+DOID:1993	rectum cancer	SNOMEDCT	154466004
+DOID:1993	rectum cancer	SNOMEDCT	187761007
+DOID:1993	rectum cancer	SNOMEDCT	254582000
+DOID:1993	rectum cancer	SNOMEDCT	269545009
+DOID:1993	rectum cancer	SNOMEDCT	363351006
+DOID:1993	rectum cancer	SNOMEDCT	93984006
+DOID:1993	rectum cancer	UMLS	C0007113
+DOID:1993	rectum cancer	UMLS	C0949022
+DOID:2174	ocular cancer	MSH	D005134
+DOID:2174	ocular cancer	NCI	C3030
+DOID:2174	ocular cancer	SNOMEDCT	126995000
+DOID:2174	ocular cancer	SNOMEDCT	188277006
+DOID:2174	ocular cancer	SNOMEDCT	371486001
+DOID:2174	ocular cancer	UMLS	C0015414
+DOID:2174	ocular cancer	UMLS	C0153632
+DOID:219	colon cancer	ICD9	153
+DOID:219	colon cancer	ICD9	153.9
+DOID:219	colon cancer	MSH	D003110
+DOID:219	colon cancer	NCI	C9242
+DOID:219	colon cancer	SNOMEDCT	154463007
+DOID:219	colon cancer	SNOMEDCT	187759003
+DOID:219	colon cancer	SNOMEDCT	269461008
+DOID:219	colon cancer	SNOMEDCT	269542007
+DOID:219	colon cancer	SNOMEDCT	363406005
+DOID:219	colon cancer	SNOMEDCT	93761005
+DOID:219	colon cancer	UMLS	C0007102
+DOID:2596	larynx cancer	ICD9	161
+DOID:2596	larynx cancer	ICD9	161.9
+DOID:2596	larynx cancer	MSH	D007822
+DOID:2596	larynx cancer	NCI	C7484
+DOID:2596	larynx cancer	SNOMEDCT	154484002
+DOID:2596	larynx cancer	SNOMEDCT	187851007
+DOID:2596	larynx cancer	SNOMEDCT	269560007
+DOID:2596	larynx cancer	SNOMEDCT	363429002
+DOID:2596	larynx cancer	SNOMEDCT	93859007
+DOID:2596	larynx cancer	UMLS	C0007107
+DOID:2994	germ cell cancer	MSH	D009373
+DOID:2994	germ cell cancer	NCI	C3708
+DOID:2994	germ cell cancer	SNOMEDCT	115233005
+DOID:2994	germ cell cancer	SNOMEDCT	189839002
+DOID:2994	germ cell cancer	SNOMEDCT	189854008
+DOID:2994	germ cell cancer	SNOMEDCT	28307001
+DOID:2994	germ cell cancer	SNOMEDCT	302853003
+DOID:2994	germ cell cancer	SNOMEDCT	402878003
+DOID:2994	germ cell cancer	UMLS	C0205851
+DOID:3277	thymus cancer	MSH	D013953
+DOID:3277	thymus cancer	NCI	C3412
+DOID:3277	thymus cancer	SNOMEDCT	127231009
+DOID:3277	thymus cancer	SNOMEDCT	363434003
+DOID:3277	thymus cancer	SNOMEDCT	94096009
+DOID:3277	thymus cancer	UMLS	C0040116
+DOID:3277	thymus cancer	UMLS	C0751552
+DOID:4045	muscle cancer	MSH	D009217
+DOID:4045	muscle cancer	SNOMEDCT	20667008
+DOID:4045	muscle cancer	SNOMEDCT	363495004
+DOID:4045	muscle cancer	SNOMEDCT	93913006
+DOID:4045	muscle cancer	UMLS	C0027095
+DOID:4045	muscle cancer	UMLS	C0684743
+DOID:10021	duodenum cancer	ICD9	152.0
+DOID:10021	duodenum cancer	NCI	C9328
+DOID:10021	duodenum cancer	SNOMEDCT	154555009
+DOID:10021	duodenum cancer	SNOMEDCT	269615000
+DOID:10021	duodenum cancer	SNOMEDCT	363403002
+DOID:10021	duodenum cancer	SNOMEDCT	93775003
+DOID:10021	duodenum cancer	UMLS	C0153426
+DOID:10021	duodenum cancer	UMLS	C0541912
+DOID:10153	ileum cancer	ICD9	152.2
+DOID:10153	ileum cancer	SNOMEDCT	363405009
+DOID:10153	ileum cancer	SNOMEDCT	93832004
+DOID:10153	ileum cancer	UMLS	C0153428
+DOID:10811	nasal cavity cancer	ICD9	160.0
+DOID:10811	nasal cavity cancer	NCI	C4918
+DOID:10811	nasal cavity cancer	SNOMEDCT	187832001
+DOID:10811	nasal cavity cancer	SNOMEDCT	363422006
+DOID:10811	nasal cavity cancer	SNOMEDCT	93917007
+DOID:10811	nasal cavity cancer	UMLS	C0728864
+DOID:1115	sarcoma	ICD9	171
+DOID:1115	sarcoma	ICD9	171.9
+DOID:1115	sarcoma	SNOMEDCT	187985009
+DOID:1115	sarcoma	SNOMEDCT	93765001
+DOID:1115	sarcoma	UMLS	C0153519
+DOID:11239	appendix cancer	ICD9	153.5
+DOID:11239	appendix cancer	MSH	D001063
+DOID:11239	appendix cancer	NCI	C9330
+DOID:11239	appendix cancer	NCI	C9333
+DOID:11239	appendix cancer	SNOMEDCT	363411007
+DOID:11239	appendix cancer	SNOMEDCT	93679002
+DOID:11239	appendix cancer	UMLS	C0496779
+DOID:11615	penile cancer	ICD9	187.3
+DOID:11615	penile cancer	SNOMEDCT	154536009
+DOID:11615	penile cancer	SNOMEDCT	188230001
+DOID:11615	penile cancer	SNOMEDCT	188231002
+DOID:11615	penile cancer	SNOMEDCT	269605006
+DOID:11615	penile cancer	SNOMEDCT	363516004
+DOID:11615	penile cancer	SNOMEDCT	93716006
+DOID:11615	penile cancer	SNOMEDCT	93954003
+DOID:11615	penile cancer	UMLS	C0153600
+DOID:11615	penile cancer	UMLS	C0153601
+DOID:11819	ureter cancer	ICD9	189.2
+DOID:11819	ureter cancer	MSH	D014516
+DOID:11819	ureter cancer	NCI	C7543
+DOID:11819	ureter cancer	OMIM	191600
+DOID:11819	ureter cancer	SNOMEDCT	154543003
+DOID:11819	ureter cancer	SNOMEDCT	363458004
+DOID:11819	ureter cancer	SNOMEDCT	94121005
+DOID:11819	ureter cancer	UMLS	C0153619
+DOID:11920	tracheal cancer	ICD9	162.0
+DOID:11920	tracheal cancer	NCI	C9346
+DOID:11920	tracheal cancer	SNOMEDCT	187855003
+DOID:11920	tracheal cancer	SNOMEDCT	269562004
+DOID:11920	tracheal cancer	SNOMEDCT	363432004
+DOID:11920	tracheal cancer	UMLS	C0153489
+DOID:1245	vulva cancer	MSH	D014846
+DOID:1245	vulva cancer	NCI	C3443
+DOID:1245	vulva cancer	SNOMEDCT	126922007
+DOID:1245	vulva cancer	SNOMEDCT	154535008
+DOID:1245	vulva cancer	SNOMEDCT	188214009
+DOID:1245	vulva cancer	SNOMEDCT	269471005
+DOID:1245	vulva cancer	SNOMEDCT	269604005
+DOID:1245	vulva cancer	SNOMEDCT	363367000
+DOID:1245	vulva cancer	SNOMEDCT	94143002
+DOID:1245	vulva cancer	UMLS	C0042995
+DOID:1245	vulva cancer	UMLS	C0375071
+DOID:13499	jejunal cancer	ICD9	152.1
+DOID:13499	jejunal cancer	MSH	D007580
+DOID:13499	jejunal cancer	SNOMEDCT	363404008
+DOID:13499	jejunal cancer	SNOMEDCT	93846004
+DOID:13499	jejunal cancer	UMLS	C0153427
+DOID:1725	peritoneum cancer	ICD9	158.8
+DOID:1725	peritoneum cancer	SNOMEDCT	187808008
+DOID:1725	peritoneum cancer	SNOMEDCT	187816004
+DOID:1725	peritoneum cancer	UMLS	C0153466
+DOID:175	vascular cancer	MSH	D019043
+DOID:175	vascular cancer	NCI	C7387
+DOID:175	vascular cancer	NCI	C7388
+DOID:175	vascular cancer	SNOMEDCT	115235003
+DOID:175	vascular cancer	SNOMEDCT	126736007
+DOID:175	vascular cancer	SNOMEDCT	126737003
+DOID:175	vascular cancer	SNOMEDCT	188012003
+DOID:175	vascular cancer	SNOMEDCT	189862000
+DOID:175	vascular cancer	SNOMEDCT	189874001
+DOID:175	vascular cancer	SNOMEDCT	93817006
+DOID:175	vascular cancer	UMLS	C0282607
+DOID:175	vascular cancer	UMLS	C0346845
+DOID:175	vascular cancer	UMLS	C1290407
+DOID:175	vascular cancer	UMLS	C1334616
+DOID:175	vascular cancer	UMLS	C1334617
+DOID:175	vascular cancer	UMLS	C1334630
+DOID:175	vascular cancer	UMLS	C1335753
+DOID:1790	malignant mesothelioma	ICD10	C45
+DOID:1790	malignant mesothelioma	ICD9	163
+DOID:1790	malignant mesothelioma	MSH	D008654
+DOID:1790	malignant mesothelioma	NCI	C7865
+DOID:1790	malignant mesothelioma	OMIM	156240
+DOID:1790	malignant mesothelioma	SNOMEDCT	62064005
+DOID:1790	malignant mesothelioma	UMLS	C0278752
+DOID:1790	malignant mesothelioma	UMLS	C0345967
+DOID:1790	malignant mesothelioma	UMLS	C0392400
+DOID:1790	malignant mesothelioma	UMLS	C1332338
+DOID:1909	melanoma	EFO	0000756
+DOID:1909	melanoma	KEGG	05218
+DOID:1909	melanoma	MSH	D008545
+DOID:1909	melanoma	NCI	C3224
+DOID:1909	melanoma	OMIM	155600
+DOID:1909	melanoma	SNOMEDCT	154501005
+DOID:1909	melanoma	SNOMEDCT	189749008
+DOID:1909	melanoma	SNOMEDCT	2092003
+DOID:1909	melanoma	SNOMEDCT	269503007
+DOID:1909	melanoma	SNOMEDCT	269577007
+DOID:1909	melanoma	SNOMEDCT	372244006
+DOID:1909	melanoma	UMLS	C0025202
+DOID:1964	fallopian tube cancer	MSH	D005185
+DOID:1964	fallopian tube cancer	NCI	C3032
+DOID:1964	fallopian tube cancer	SNOMEDCT	126916003
+DOID:1964	fallopian tube cancer	SNOMEDCT	363444001
+DOID:1964	fallopian tube cancer	SNOMEDCT	93794008
+DOID:1964	fallopian tube cancer	UMLS	C0015558
+DOID:1964	fallopian tube cancer	UMLS	C0153579
+DOID:2998	testicular cancer	MSH	D013736
+DOID:2998	testicular cancer	NCI	C3404
+DOID:2998	testicular cancer	OMIM	273300
+DOID:2998	testicular cancer	SNOMEDCT	126900000
+DOID:2998	testicular cancer	SNOMEDCT	188228003
+DOID:2998	testicular cancer	SNOMEDCT	236778008
+DOID:2998	testicular cancer	SNOMEDCT	269472003
+DOID:2998	testicular cancer	SNOMEDCT	363449006
+DOID:2998	testicular cancer	SNOMEDCT	94087009
+DOID:2998	testicular cancer	UMLS	C0039590
+DOID:2998	testicular cancer	UMLS	C0153594
+DOID:3121	gallbladder cancer	MSH	D005706
+DOID:3121	gallbladder cancer	NCI	C3048
+DOID:3121	gallbladder cancer	SNOMEDCT	126854002
+DOID:3121	gallbladder cancer	SNOMEDCT	154472004
+DOID:3121	gallbladder cancer	SNOMEDCT	187782001
+DOID:3121	gallbladder cancer	SNOMEDCT	254602009
+DOID:3121	gallbladder cancer	SNOMEDCT	269550003
+DOID:3121	gallbladder cancer	SNOMEDCT	363353009
+DOID:3121	gallbladder cancer	SNOMEDCT	93810008
+DOID:3121	gallbladder cancer	UMLS	C0016978
+DOID:3121	gallbladder cancer	UMLS	C0153452
+DOID:3121	gallbladder cancer	UMLS	C0278806
+DOID:3565	meningioma	MSH	D008577
+DOID:3565	meningioma	NCI	C3229
+DOID:3565	meningioma	SNOMEDCT	126965008
+DOID:3565	meningioma	SNOMEDCT	127579001
+DOID:3565	meningioma	SNOMEDCT	134307003
+DOID:3565	meningioma	SNOMEDCT	154621002
+DOID:3565	meningioma	SNOMEDCT	189940004
+DOID:3565	meningioma	SNOMEDCT	189941000
+DOID:3565	meningioma	SNOMEDCT	189945009
+DOID:3565	meningioma	SNOMEDCT	269643009
+DOID:3565	meningioma	SNOMEDCT	302820008
+DOID:3565	meningioma	SNOMEDCT	393566004
+DOID:3565	meningioma	UMLS	C0025284
+DOID:3565	meningioma	UMLS	C0025286
+DOID:3565	meningioma	UMLS	C0349604
+DOID:3565	meningioma	UMLS	C1334698
+DOID:3565	meningioma	UMLS	C1336537
+DOID:4606	bile duct cancer	MSH	D001650
+DOID:4606	bile duct cancer	NCI	C2898
+DOID:4606	bile duct cancer	SNOMEDCT	154473009
+DOID:4606	bile duct cancer	SNOMEDCT	187787007
+DOID:4606	bile duct cancer	SNOMEDCT	363416002
+DOID:4606	bile duct cancer	SNOMEDCT	93790004
+DOID:4606	bile duct cancer	UMLS	C0005396
+DOID:4606	bile duct cancer	UMLS	C0153453
+DOID:5099	middle ear cancer	NCI	C4412
+DOID:5099	middle ear cancer	SNOMEDCT	127006003
+DOID:5099	middle ear cancer	UMLS	C0345617
+DOID:5559	mediastinal cancer	MSH	D008479
+DOID:5559	mediastinal cancer	NCI	C3221
+DOID:5559	mediastinal cancer	SNOMEDCT	126725000
+DOID:5559	mediastinal cancer	SNOMEDCT	187889002
+DOID:5559	mediastinal cancer	SNOMEDCT	190097009
+DOID:5559	mediastinal cancer	SNOMEDCT	363494000
+DOID:5559	mediastinal cancer	SNOMEDCT	93891008
+DOID:5559	mediastinal cancer	SNOMEDCT	94147001
+DOID:5559	mediastinal cancer	UMLS	C0025063
+DOID:5559	mediastinal cancer	UMLS	C0153504
+DOID:5612	spinal cancer	MSH	D013120
+DOID:5612	spinal cancer	NCI	C3381
+DOID:5612	spinal cancer	SNOMEDCT	126962006
+DOID:5612	spinal cancer	SNOMEDCT	363475005
+DOID:5612	spinal cancer	SNOMEDCT	94068003
+DOID:5612	spinal cancer	UMLS	C0037930
+DOID:5612	spinal cancer	UMLS	C0037939
+DOID:5612	spinal cancer	UMLS	C0153646
+DOID:5875	retroperitoneal cancer	MSH	D012186
+DOID:5875	retroperitoneal cancer	NCI	C3357
+DOID:5875	retroperitoneal cancer	SNOMEDCT	126872008
+DOID:5875	retroperitoneal cancer	SNOMEDCT	187801002
+DOID:5875	retroperitoneal cancer	SNOMEDCT	187805006
+DOID:5875	retroperitoneal cancer	SNOMEDCT	187817008
+DOID:5875	retroperitoneal cancer	SNOMEDCT	254617008
+DOID:5875	retroperitoneal cancer	SNOMEDCT	359767009
+DOID:5875	retroperitoneal cancer	SNOMEDCT	359770008
+DOID:5875	retroperitoneal cancer	SNOMEDCT	363420003
+DOID:5875	retroperitoneal cancer	SNOMEDCT	94092006
+DOID:5875	retroperitoneal cancer	UMLS	C0035358
+DOID:5875	retroperitoneal cancer	UMLS	C0153464
+DOID:5875	retroperitoneal cancer	UMLS	C0153465
+DOID:8778	Crohn's disease	EFO	0000384
+DOID:8778	Crohn's disease	ICD10	K50
+DOID:8778	Crohn's disease	ICD9	555.0
+DOID:8778	Crohn's disease	MSH	C536215
+DOID:8778	Crohn's disease	MSH	D003424
+DOID:8778	Crohn's disease	NCI	C35210
+DOID:8778	Crohn's disease	SNOMEDCT	155761004
+DOID:8778	Crohn's disease	SNOMEDCT	196980005
+DOID:8778	Crohn's disease	SNOMEDCT	56689002
+DOID:8778	Crohn's disease	UMLS	C0156146
+DOID:2377	multiple sclerosis	EFO	0003885
+DOID:2377	multiple sclerosis	ICD9	340
+DOID:2377	multiple sclerosis	MSH	D009103
+DOID:2377	multiple sclerosis	NCI	C3243
+DOID:2377	multiple sclerosis	OMIM	126200
+DOID:2377	multiple sclerosis	OMIM	612594
+DOID:2377	multiple sclerosis	OMIM	612595
+DOID:2377	multiple sclerosis	OMIM	612596
+DOID:2377	multiple sclerosis	OMIM	614810
+DOID:2377	multiple sclerosis	SNOMEDCT	155023009
+DOID:2377	multiple sclerosis	SNOMEDCT	192928003
+DOID:2377	multiple sclerosis	SNOMEDCT	192930001
+DOID:2377	multiple sclerosis	SNOMEDCT	24700007
+DOID:2377	multiple sclerosis	UMLS	C0026769
+DOID:9352	type 2 diabetes mellitus	EFO	0001360
+DOID:9352	type 2 diabetes mellitus	KEGG	04930
+DOID:9352	type 2 diabetes mellitus	MSH	D003924
+DOID:9352	type 2 diabetes mellitus	NCI	C26747
+DOID:9352	type 2 diabetes mellitus	OMIM	125853
+DOID:9352	type 2 diabetes mellitus	OMIM	601283
+DOID:9352	type 2 diabetes mellitus	OMIM	601407
+DOID:9352	type 2 diabetes mellitus	OMIM	603694
+DOID:9352	type 2 diabetes mellitus	OMIM	608036
+DOID:9352	type 2 diabetes mellitus	SNOMEDCT	154672006
+DOID:9352	type 2 diabetes mellitus	SNOMEDCT	190323008
+DOID:9352	type 2 diabetes mellitus	SNOMEDCT	190384004
+DOID:9352	type 2 diabetes mellitus	SNOMEDCT	267468009
+DOID:9352	type 2 diabetes mellitus	SNOMEDCT	44054006
+DOID:9352	type 2 diabetes mellitus	UMLS	C0011860
+DOID:8577	ulcerative colitis	EFO	0000729
+DOID:8577	ulcerative colitis	ICD9	556
+DOID:8577	ulcerative colitis	ICD9	556.9
+DOID:8577	ulcerative colitis	MSH	D003093
+DOID:8577	ulcerative colitis	NCI	C2952
+DOID:8577	ulcerative colitis	OMIM	266600
+DOID:8577	ulcerative colitis	SNOMEDCT	155764007
+DOID:8577	ulcerative colitis	SNOMEDCT	196988003
+DOID:8577	ulcerative colitis	SNOMEDCT	266447004
+DOID:8577	ulcerative colitis	SNOMEDCT	27701000
+DOID:8577	ulcerative colitis	SNOMEDCT	441971007
+DOID:8577	ulcerative colitis	SNOMEDCT	64766004
+DOID:8577	ulcerative colitis	UMLS	C0009324
+DOID:8577	ulcerative colitis	UMLS	C0375359
+DOID:9744	type 1 diabetes mellitus	EFO	0001359
+DOID:9744	type 1 diabetes mellitus	KEGG	04940
+DOID:9744	type 1 diabetes mellitus	MSH	D003922
+DOID:9744	type 1 diabetes mellitus	NCI	C2986
+DOID:9744	type 1 diabetes mellitus	OMIM	125852
+DOID:9744	type 1 diabetes mellitus	OMIM	222100
+DOID:9744	type 1 diabetes mellitus	OMIM	300136
+DOID:9744	type 1 diabetes mellitus	OMIM	600318
+DOID:9744	type 1 diabetes mellitus	OMIM	600319
+DOID:9744	type 1 diabetes mellitus	OMIM	600320
+DOID:9744	type 1 diabetes mellitus	OMIM	600321
+DOID:9744	type 1 diabetes mellitus	OMIM	600883
+DOID:9744	type 1 diabetes mellitus	OMIM	601208
+DOID:9744	type 1 diabetes mellitus	OMIM	601318
+DOID:9744	type 1 diabetes mellitus	OMIM	601388
+DOID:9744	type 1 diabetes mellitus	OMIM	601666
+DOID:9744	type 1 diabetes mellitus	OMIM	601941
+DOID:9744	type 1 diabetes mellitus	OMIM	601942
+DOID:9744	type 1 diabetes mellitus	OMIM	603266
+DOID:9744	type 1 diabetes mellitus	OMIM	605598
+DOID:9744	type 1 diabetes mellitus	OMIM	610155
+DOID:9744	type 1 diabetes mellitus	OMIM	612520
+DOID:9744	type 1 diabetes mellitus	OMIM	612521
+DOID:9744	type 1 diabetes mellitus	OMIM	612522
+DOID:9744	type 1 diabetes mellitus	OMIM	612622
+DOID:9744	type 1 diabetes mellitus	OMIM	613006
+DOID:9744	type 1 diabetes mellitus	SNOMEDCT	154673001
+DOID:9744	type 1 diabetes mellitus	SNOMEDCT	190322003
+DOID:9744	type 1 diabetes mellitus	SNOMEDCT	190362004
+DOID:9744	type 1 diabetes mellitus	SNOMEDCT	267469001
+DOID:9744	type 1 diabetes mellitus	SNOMEDCT	46635009
+DOID:9744	type 1 diabetes mellitus	UMLS	C0011854
+DOID:7148	rheumatoid arthritis	EFO	0000685
+DOID:7148	rheumatoid arthritis	ICD9	714.0
+DOID:7148	rheumatoid arthritis	KEGG	05323
+DOID:7148	rheumatoid arthritis	MSH	D001172
+DOID:7148	rheumatoid arthritis	NCI	C27206
+DOID:7148	rheumatoid arthritis	NCI	C2884
+DOID:7148	rheumatoid arthritis	OMIM	180300
+DOID:7148	rheumatoid arthritis	SNOMEDCT	156471009
+DOID:7148	rheumatoid arthritis	SNOMEDCT	156481008
+DOID:7148	rheumatoid arthritis	SNOMEDCT	287010008
+DOID:7148	rheumatoid arthritis	SNOMEDCT	69896004
+DOID:7148	rheumatoid arthritis	UMLS	C0003873
+DOID:3393	coronary artery disease	EFO	0001645
+DOID:3393	coronary artery disease	ICD9	410-414.99
+DOID:3393	coronary artery disease	ICD9	414.0
+DOID:3393	coronary artery disease	ICD9	414.9
+DOID:3393	coronary artery disease	MSH	D003324
+DOID:3393	coronary artery disease	MSH	D003327
+DOID:3393	coronary artery disease	MSH	D017202
+DOID:3393	coronary artery disease	NCI	C26732
+DOID:3393	coronary artery disease	NCI	C35505
+DOID:3393	coronary artery disease	NCI	C50625
+DOID:3393	coronary artery disease	OMIM	300464
+DOID:3393	coronary artery disease	OMIM	607339
+DOID:3393	coronary artery disease	OMIM	608316
+DOID:3393	coronary artery disease	OMIM	608318
+DOID:3393	coronary artery disease	OMIM	608320
+DOID:3393	coronary artery disease	OMIM	608901
+DOID:3393	coronary artery disease	OMIM	610938
+DOID:3393	coronary artery disease	OMIM	610947
+DOID:3393	coronary artery disease	OMIM	611139
+DOID:3393	coronary artery disease	OMIM	612030
+DOID:3393	coronary artery disease	OMIM	614293
+DOID:3393	coronary artery disease	OMIM	614466
+DOID:3393	coronary artery disease	SNOMEDCT	155303000
+DOID:3393	coronary artery disease	SNOMEDCT	155315001
+DOID:3393	coronary artery disease	SNOMEDCT	155316000
+DOID:3393	coronary artery disease	SNOMEDCT	155318004
+DOID:3393	coronary artery disease	SNOMEDCT	155322009
+DOID:3393	coronary artery disease	SNOMEDCT	194795001
+DOID:3393	coronary artery disease	SNOMEDCT	194841001
+DOID:3393	coronary artery disease	SNOMEDCT	194852007
+DOID:3393	coronary artery disease	SNOMEDCT	194878003
+DOID:3393	coronary artery disease	SNOMEDCT	195540001
+DOID:3393	coronary artery disease	SNOMEDCT	233822007
+DOID:3393	coronary artery disease	SNOMEDCT	2610009
+DOID:3393	coronary artery disease	SNOMEDCT	266231003
+DOID:3393	coronary artery disease	SNOMEDCT	266290000
+DOID:3393	coronary artery disease	SNOMEDCT	266291001
+DOID:3393	coronary artery disease	SNOMEDCT	271430002
+DOID:3393	coronary artery disease	SNOMEDCT	32598000
+DOID:3393	coronary artery disease	SNOMEDCT	413838009
+DOID:3393	coronary artery disease	SNOMEDCT	413844008
+DOID:3393	coronary artery disease	SNOMEDCT	414545008
+DOID:3393	coronary artery disease	SNOMEDCT	414795007
+DOID:3393	coronary artery disease	SNOMEDCT	41702007
+DOID:3393	coronary artery disease	SNOMEDCT	53741008
+DOID:3393	coronary artery disease	SNOMEDCT	84537008
+DOID:3393	coronary artery disease	UMLS	C0010054
+DOID:3393	coronary artery disease	UMLS	C0010068
+DOID:3393	coronary artery disease	UMLS	C0151744
+DOID:3393	coronary artery disease	UMLS	C0264694
+DOID:9970	obesity	EFO	0001073
+DOID:9970	obesity	ICD9	278.00
+DOID:9970	obesity	MSH	D009765
+DOID:9970	obesity	NCI	C3283
+DOID:9970	obesity	OMIM	601665
+DOID:9970	obesity	SNOMEDCT	154776002
+DOID:9970	obesity	SNOMEDCT	190963004
+DOID:9970	obesity	SNOMEDCT	414915002
+DOID:9970	obesity	SNOMEDCT	414916001
+DOID:9970	obesity	SNOMEDCT	5476005
+DOID:9970	obesity	UMLS	C0028754
+DOID:10608	celiac disease	EFO	0001060
+DOID:10608	celiac disease	ICD10	K90.0
+DOID:10608	celiac disease	ICD9	579.0
+DOID:10608	celiac disease	MSH	D002446
+DOID:10608	celiac disease	NCI	C26714
+DOID:10608	celiac disease	OMIM	212750
+DOID:10608	celiac disease	OMIM	607202
+DOID:10608	celiac disease	OMIM	609753
+DOID:10608	celiac disease	OMIM	609754
+DOID:10608	celiac disease	OMIM	609755
+DOID:10608	celiac disease	OMIM	611598
+DOID:10608	celiac disease	OMIM	612005
+DOID:10608	celiac disease	OMIM	612006
+DOID:10608	celiac disease	OMIM	612007
+DOID:10608	celiac disease	OMIM	612008
+DOID:10608	celiac disease	OMIM	612009
+DOID:10608	celiac disease	OMIM	612011
+DOID:10608	celiac disease	OMIM	612110
+DOID:10608	celiac disease	ORDO	555
+DOID:10608	celiac disease	SNOMEDCT	155842007
+DOID:10608	celiac disease	SNOMEDCT	197477005
+DOID:10608	celiac disease	SNOMEDCT	197481005
+DOID:10608	celiac disease	SNOMEDCT	23829007
+DOID:10608	celiac disease	SNOMEDCT	266478000
+DOID:10608	celiac disease	SNOMEDCT	275404008
+DOID:10608	celiac disease	SNOMEDCT	396331005
+DOID:10608	celiac disease	SNOMEDCT	45259000
+DOID:10608	celiac disease	UMLS	C0007570
+DOID:9074	systemic lupus erythematosus	EFO	0002690
+DOID:9074	systemic lupus erythematosus	ICD10	M32.0
+DOID:9074	systemic lupus erythematosus	ICD9	710.0
+DOID:9074	systemic lupus erythematosus	KEGG	05322
+DOID:9074	systemic lupus erythematosus	MSH	D008180
+DOID:9074	systemic lupus erythematosus	NCI	C3201
+DOID:9074	systemic lupus erythematosus	OMIM	152700
+DOID:9074	systemic lupus erythematosus	OMIM	300809
+DOID:9074	systemic lupus erythematosus	OMIM	601744
+DOID:9074	systemic lupus erythematosus	OMIM	605218
+DOID:9074	systemic lupus erythematosus	OMIM	605480
+DOID:9074	systemic lupus erythematosus	OMIM	608437
+DOID:9074	systemic lupus erythematosus	OMIM	609903
+DOID:9074	systemic lupus erythematosus	OMIM	609939
+DOID:9074	systemic lupus erythematosus	OMIM	610065
+DOID:9074	systemic lupus erythematosus	OMIM	610066
+DOID:9074	systemic lupus erythematosus	OMIM	610927
+DOID:9074	systemic lupus erythematosus	OMIM	612251
+DOID:9074	systemic lupus erythematosus	OMIM	612253
+DOID:9074	systemic lupus erythematosus	OMIM	612254
+DOID:9074	systemic lupus erythematosus	OMIM	612378
+DOID:9074	systemic lupus erythematosus	OMIM	613145
+DOID:9074	systemic lupus erythematosus	OMIM	614420
+DOID:9074	systemic lupus erythematosus	ORDO	536
+DOID:9074	systemic lupus erythematosus	SNOMEDCT	156450004
+DOID:9074	systemic lupus erythematosus	SNOMEDCT	201435004
+DOID:9074	systemic lupus erythematosus	SNOMEDCT	201439005
+DOID:9074	systemic lupus erythematosus	SNOMEDCT	55464009
+DOID:9074	systemic lupus erythematosus	UMLS	C0024141
+DOID:9835	refractive error	EFO	0003908
+DOID:9835	refractive error	MSH	D012030
+DOID:9835	refractive error	NCI	C87145
+DOID:9835	refractive error	SNOMEDCT	21324001
+DOID:9835	refractive error	SNOMEDCT	267723000
+DOID:9835	refractive error	SNOMEDCT	314027003
+DOID:9835	refractive error	SNOMEDCT	39021009
+DOID:9835	refractive error	UMLS	C0034951
+DOID:12236	primary biliary cirrhosis	EFO	0004267
+DOID:12236	primary biliary cirrhosis	ICD10	K74.3
+DOID:12236	primary biliary cirrhosis	ICD9	571.6
+DOID:12236	primary biliary cirrhosis	MSH	D008105
+DOID:12236	primary biliary cirrhosis	NCI	C27167
+DOID:12236	primary biliary cirrhosis	OMIM	109720
+DOID:12236	primary biliary cirrhosis	OMIM	613007
+DOID:12236	primary biliary cirrhosis	OMIM	613008
+DOID:12236	primary biliary cirrhosis	OMIM	614220
+DOID:12236	primary biliary cirrhosis	OMIM	614221
+DOID:12236	primary biliary cirrhosis	ORDO	186
+DOID:12236	primary biliary cirrhosis	SNOMEDCT	155815006
+DOID:12236	primary biliary cirrhosis	SNOMEDCT	1761006
+DOID:12236	primary biliary cirrhosis	SNOMEDCT	197311004
+DOID:12236	primary biliary cirrhosis	SNOMEDCT	266540000
+DOID:12236	primary biliary cirrhosis	SNOMEDCT	31712002
+DOID:12236	primary biliary cirrhosis	UMLS	C0008312
+DOID:12236	primary biliary cirrhosis	UMLS	C0023892
+DOID:12306	vitiligo	EFO	0004208
+DOID:12306	vitiligo	ICD9	709.01
+DOID:12306	vitiligo	MSH	D014820
+DOID:12306	vitiligo	NCI	C26915
+DOID:12306	vitiligo	OMIM	193200
+DOID:12306	vitiligo	SNOMEDCT	156437000
+DOID:12306	vitiligo	SNOMEDCT	56727007
+DOID:12306	vitiligo	UMLS	C0042900
+DOID:10871	age related macular degeneration	EFO	0001365
+DOID:10871	age related macular degeneration	ICD9	362.50
+DOID:10871	age related macular degeneration	MSH	D008268
+DOID:10871	age related macular degeneration	NCI	C84391
+DOID:10871	age related macular degeneration	OMIM	153800
+DOID:10871	age related macular degeneration	OMIM	603075
+DOID:10871	age related macular degeneration	OMIM	608895
+DOID:10871	age related macular degeneration	OMIM	610149
+DOID:10871	age related macular degeneration	OMIM	610698
+DOID:10871	age related macular degeneration	OMIM	611378
+DOID:10871	age related macular degeneration	OMIM	611488
+DOID:10871	age related macular degeneration	OMIM	611953
+DOID:10871	age related macular degeneration	OMIM	613757
+DOID:10871	age related macular degeneration	OMIM	613761
+DOID:10871	age related macular degeneration	OMIM	613778
+DOID:10871	age related macular degeneration	OMIM	613784
+DOID:10871	age related macular degeneration	OMIM	615439
+DOID:10871	age related macular degeneration	OMIM	615489
+DOID:10871	age related macular degeneration	OMIM	615591
+DOID:10871	age related macular degeneration	SNOMEDCT	155112007
+DOID:10871	age related macular degeneration	SNOMEDCT	18222007
+DOID:10871	age related macular degeneration	SNOMEDCT	193384000
+DOID:10871	age related macular degeneration	SNOMEDCT	193385004
+DOID:10871	age related macular degeneration	SNOMEDCT	267718000
+DOID:10871	age related macular degeneration	UMLS	C0242383
+DOID:14221	metabolic syndrome X	EFO	0000195
+DOID:14221	metabolic syndrome X	ICD9	277.7
+DOID:14221	metabolic syndrome X	MSH	D024821
+DOID:14221	metabolic syndrome X	NCI	C84442
+DOID:14221	metabolic syndrome X	OMIM	605552
+DOID:14221	metabolic syndrome X	SNOMEDCT	190394009
+DOID:14221	metabolic syndrome X	SNOMEDCT	237602007
+DOID:14221	metabolic syndrome X	UMLS	C0524620
+DOID:2841	asthma	EFO	0000270
+DOID:2841	asthma	ICD10	J45
+DOID:2841	asthma	ICD9	493
+DOID:2841	asthma	ICD9	493.9
+DOID:2841	asthma	KEGG	05310
+DOID:2841	asthma	MSH	D001249
+DOID:2841	asthma	NCI	C28397
+DOID:2841	asthma	OMIM	600807
+DOID:2841	asthma	SNOMEDCT	155574008
+DOID:2841	asthma	SNOMEDCT	155579003
+DOID:2841	asthma	SNOMEDCT	187687003
+DOID:2841	asthma	SNOMEDCT	195967001
+DOID:2841	asthma	SNOMEDCT	195979001
+DOID:2841	asthma	SNOMEDCT	195983001
+DOID:2841	asthma	SNOMEDCT	21341004
+DOID:2841	asthma	SNOMEDCT	266365004
+DOID:2841	asthma	SNOMEDCT	266398009
+DOID:2841	asthma	SNOMEDCT	278517007
+DOID:2841	asthma	UMLS	C0004096
+DOID:8893	psoriasis	EFO	0000676
+DOID:8893	psoriasis	ICD10	L40
+DOID:8893	psoriasis	ICD9	696.5
+DOID:8893	psoriasis	OMIM	177900
+DOID:8893	psoriasis	OMIM	601454
+DOID:8893	psoriasis	OMIM	602723
+DOID:8893	psoriasis	OMIM	603935
+DOID:8893	psoriasis	OMIM	604316
+DOID:8893	psoriasis	OMIM	605364
+DOID:8893	psoriasis	OMIM	605606
+DOID:8893	psoriasis	OMIM	607857
+DOID:8893	psoriasis	OMIM	610707
+DOID:8893	psoriasis	OMIM	612410
+DOID:8893	psoriasis	OMIM	612599
+DOID:8893	psoriasis	OMIM	612950
+DOID:8893	psoriasis	OMIM	614070
+DOID:8893	psoriasis	UMLS	C0033860
+DOID:5419	schizophrenia	EFO	0000692
+DOID:5419	schizophrenia	HP	0100753
+DOID:5419	schizophrenia	ICD9	295.80
+DOID:5419	schizophrenia	MSH	D012559
+DOID:5419	schizophrenia	OMIM	181500
+DOID:5419	schizophrenia	OMIM	181510
+DOID:5419	schizophrenia	OMIM	600511
+DOID:5419	schizophrenia	OMIM	600850
+DOID:5419	schizophrenia	OMIM	603013
+DOID:5419	schizophrenia	OMIM	603175
+DOID:5419	schizophrenia	OMIM	603176
+DOID:5419	schizophrenia	OMIM	603206
+DOID:5419	schizophrenia	OMIM	603342
+DOID:5419	schizophrenia	OMIM	604906
+DOID:5419	schizophrenia	OMIM	605419
+DOID:5419	schizophrenia	OMIM	608078
+DOID:5419	schizophrenia	OMIM	608543
+DOID:5419	schizophrenia	OMIM	612361
+DOID:5419	schizophrenia	OMIM	613025
+DOID:5419	schizophrenia	OMIM	613950
+DOID:5419	schizophrenia	OMIM	613959
+DOID:5419	schizophrenia	OMIM	615232
+DOID:5419	schizophrenia	UMLS	C0029838
+DOID:5419	schizophrenia	UMLS	C0220702
+DOID:6364	migraine	EFO	0003821
+DOID:6364	migraine	ICD10	G43
+DOID:6364	migraine	ICD9	346
+DOID:6364	migraine	MSH	D008881
+DOID:6364	migraine	OMIM	157300
+DOID:6364	migraine	OMIM	613656
+DOID:6364	migraine	SNOMEDCT	155046006
+DOID:6364	migraine	SNOMEDCT	155048007
+DOID:6364	migraine	SNOMEDCT	193030005
+DOID:6364	migraine	SNOMEDCT	193036004
+DOID:6364	migraine	SNOMEDCT	193041007
+DOID:6364	migraine	SNOMEDCT	267699004
+DOID:6364	migraine	SNOMEDCT	37796009
+DOID:6364	migraine	UMLS	C0042331
+DOID:6364	migraine	UMLS	C0149931
+DOID:10652	Alzheimer's disease	EFO	0000249
+DOID:10652	Alzheimer's disease	ICD10	G30
+DOID:10652	Alzheimer's disease	ICD9	331.0
+DOID:10652	Alzheimer's disease	KEGG	05010
+DOID:10652	Alzheimer's disease	MSH	C536597
+DOID:10652	Alzheimer's disease	MSH	D000544
+DOID:10652	Alzheimer's disease	NCI	C2866
+DOID:10652	Alzheimer's disease	NCI	C38778
+DOID:10652	Alzheimer's disease	OMIM	104300
+DOID:10652	Alzheimer's disease	OMIM	104310
+DOID:10652	Alzheimer's disease	OMIM	300756
+DOID:10652	Alzheimer's disease	OMIM	502500
+DOID:10652	Alzheimer's disease	OMIM	602096
+DOID:10652	Alzheimer's disease	OMIM	604154
+DOID:10652	Alzheimer's disease	OMIM	605526
+DOID:10652	Alzheimer's disease	OMIM	606187
+DOID:10652	Alzheimer's disease	OMIM	606889
+DOID:10652	Alzheimer's disease	OMIM	607116
+DOID:10652	Alzheimer's disease	OMIM	607822
+DOID:10652	Alzheimer's disease	OMIM	608907
+DOID:10652	Alzheimer's disease	OMIM	609636
+DOID:10652	Alzheimer's disease	OMIM	609790
+DOID:10652	Alzheimer's disease	OMIM	611073
+DOID:10652	Alzheimer's disease	OMIM	611152
+DOID:10652	Alzheimer's disease	OMIM	611154
+DOID:10652	Alzheimer's disease	OMIM	611155
+DOID:10652	Alzheimer's disease	OMIM	615080
+DOID:10652	Alzheimer's disease	OMIM	615590
+DOID:10652	Alzheimer's disease	OMIM	615711
+DOID:10652	Alzheimer's disease	SNOMEDCT	154998003
+DOID:10652	Alzheimer's disease	SNOMEDCT	192160005
+DOID:10652	Alzheimer's disease	SNOMEDCT	192164001
+DOID:10652	Alzheimer's disease	SNOMEDCT	267688001
+DOID:10652	Alzheimer's disease	SNOMEDCT	26929004
+DOID:10652	Alzheimer's disease	SNOMEDCT	73768007
+DOID:10652	Alzheimer's disease	UMLS	C0002395
+DOID:12361	Graves' disease	EFO	0004237
+DOID:12361	Graves' disease	MSH	D006111
+DOID:12361	Graves' disease	NCI	C3071
+DOID:12361	Graves' disease	OMIM	275000
+DOID:12361	Graves' disease	OMIM	300351
+DOID:12361	Graves' disease	OMIM	603388
+DOID:12361	Graves' disease	SNOMEDCT	154655004
+DOID:12361	Graves' disease	SNOMEDCT	190240002
+DOID:12361	Graves' disease	SNOMEDCT	237510004
+DOID:12361	Graves' disease	SNOMEDCT	237823003
+DOID:12361	Graves' disease	SNOMEDCT	267464006
+DOID:12361	Graves' disease	SNOMEDCT	353295004
+DOID:12361	Graves' disease	SNOMEDCT	367367004
+DOID:12361	Graves' disease	SNOMEDCT	367449005
+DOID:12361	Graves' disease	SNOMEDCT	38591003
+DOID:12361	Graves' disease	SNOMEDCT	55807009
+DOID:12361	Graves' disease	UMLS	C0018213
+DOID:14330	Parkinson's disease	EFO	0002508
+DOID:14330	Parkinson's disease	ICD10	G20
+DOID:14330	Parkinson's disease	ICD9	332
+DOID:14330	Parkinson's disease	ICD9	332.0
+DOID:14330	Parkinson's disease	KEGG	05012
+DOID:14330	Parkinson's disease	MSH	D010300
+DOID:14330	Parkinson's disease	NCI	C26845
+DOID:14330	Parkinson's disease	OMIM	168600
+DOID:14330	Parkinson's disease	OMIM	168601
+DOID:14330	Parkinson's disease	OMIM	260300
+DOID:14330	Parkinson's disease	OMIM	300557
+DOID:14330	Parkinson's disease	OMIM	556500
+DOID:14330	Parkinson's disease	OMIM	600116
+DOID:14330	Parkinson's disease	OMIM	602404
+DOID:14330	Parkinson's disease	OMIM	605543
+DOID:14330	Parkinson's disease	OMIM	605909
+DOID:14330	Parkinson's disease	OMIM	606324
+DOID:14330	Parkinson's disease	OMIM	606693
+DOID:14330	Parkinson's disease	OMIM	606852
+DOID:14330	Parkinson's disease	OMIM	607060
+DOID:14330	Parkinson's disease	OMIM	607688
+DOID:14330	Parkinson's disease	OMIM	610297
+DOID:14330	Parkinson's disease	OMIM	612953
+DOID:14330	Parkinson's disease	OMIM	613164
+DOID:14330	Parkinson's disease	OMIM	613643
+DOID:14330	Parkinson's disease	OMIM	614203
+DOID:14330	Parkinson's disease	OMIM	614251
+DOID:14330	Parkinson's disease	OMIM	615528
+DOID:14330	Parkinson's disease	OMIM	615530
+DOID:14330	Parkinson's disease	ORDO	2828
+DOID:14330	Parkinson's disease	SNOMEDCT	154999006
+DOID:14330	Parkinson's disease	SNOMEDCT	155000006
+DOID:14330	Parkinson's disease	SNOMEDCT	155002003
+DOID:14330	Parkinson's disease	SNOMEDCT	192825001
+DOID:14330	Parkinson's disease	SNOMEDCT	192831003
+DOID:14330	Parkinson's disease	SNOMEDCT	49049000
+DOID:14330	Parkinson's disease	UMLS	C0030567
+DOID:3310	atopic dermatitis	EFO	0000274
+DOID:3310	atopic dermatitis	ICD10	L20
+DOID:3310	atopic dermatitis	ICD9	691.8
+DOID:3310	atopic dermatitis	MSH	D003876
+DOID:3310	atopic dermatitis	OMIM	603165
+DOID:3310	atopic dermatitis	OMIM	605803
+DOID:3310	atopic dermatitis	OMIM	605804
+DOID:3310	atopic dermatitis	OMIM	605805
+DOID:3310	atopic dermatitis	OMIM	605844
+DOID:3310	atopic dermatitis	OMIM	605845
+DOID:3310	atopic dermatitis	OMIM	613064
+DOID:3310	atopic dermatitis	OMIM	613518
+DOID:3310	atopic dermatitis	OMIM	613519
+DOID:3310	atopic dermatitis	SNOMEDCT	156331003
+DOID:3310	atopic dermatitis	SNOMEDCT	200772001
+DOID:3310	atopic dermatitis	SNOMEDCT	200775004
+DOID:3310	atopic dermatitis	SNOMEDCT	200779005
+DOID:3310	atopic dermatitis	SNOMEDCT	24079001
+DOID:3310	atopic dermatitis	UMLS	C0011615
+DOID:3312	bipolar disorder	EFO	0000289
+DOID:3312	bipolar disorder	ICD9	296.80
+DOID:3312	bipolar disorder	MSH	D001714
+DOID:3312	bipolar disorder	NCI	C34423
+DOID:3312	bipolar disorder	SNOMEDCT	13746004
+DOID:3312	bipolar disorder	SNOMEDCT	154871001
+DOID:3312	bipolar disorder	SNOMEDCT	16506000
+DOID:3312	bipolar disorder	SNOMEDCT	191627008
+DOID:3312	bipolar disorder	SNOMEDCT	191636007
+DOID:3312	bipolar disorder	SNOMEDCT	191644007
+DOID:3312	bipolar disorder	SNOMEDCT	191646009
+DOID:3312	bipolar disorder	SNOMEDCT	191647000
+DOID:3312	bipolar disorder	SNOMEDCT	191654006
+DOID:3312	bipolar disorder	SNOMEDCT	192355004
+DOID:3312	bipolar disorder	SNOMEDCT	192362008
+DOID:3312	bipolar disorder	SNOMEDCT	192365005
+DOID:3312	bipolar disorder	SNOMEDCT	268749008
+DOID:3312	bipolar disorder	SNOMEDCT	68569003
+DOID:3312	bipolar disorder	UMLS	C0005586
+DOID:3312	bipolar disorder	UMLS	C0005587
+DOID:3312	bipolar disorder	UMLS	C0024713
+DOID:3312	bipolar disorder	UMLS	C0236780
+DOID:7147	ankylosing spondylitis	EFO	0003898
+DOID:7147	ankylosing spondylitis	ICD10	M45
+DOID:7147	ankylosing spondylitis	ICD9	720.0
+DOID:7147	ankylosing spondylitis	MSH	D013167
+DOID:7147	ankylosing spondylitis	NCI	C84564
+DOID:7147	ankylosing spondylitis	ORDO	825
+DOID:7147	ankylosing spondylitis	SNOMEDCT	156619005
+DOID:7147	ankylosing spondylitis	SNOMEDCT	9631008
+DOID:7147	ankylosing spondylitis	UMLS	C0038013
+DOID:11612	polycystic ovary syndrome	EFO	0000660
+DOID:11612	polycystic ovary syndrome	ICD9	256.4
+DOID:11612	polycystic ovary syndrome	MSH	D011085
+DOID:11612	polycystic ovary syndrome	NCI	C26862
+DOID:11612	polycystic ovary syndrome	OMIM	184700
+DOID:11612	polycystic ovary syndrome	SNOMEDCT	154714009
+DOID:11612	polycystic ovary syndrome	SNOMEDCT	190549002
+DOID:11612	polycystic ovary syndrome	SNOMEDCT	237055002
+DOID:11612	polycystic ovary syndrome	SNOMEDCT	237792009
+DOID:11612	polycystic ovary syndrome	SNOMEDCT	271199009
+DOID:11612	polycystic ovary syndrome	SNOMEDCT	69878008
+DOID:11612	polycystic ovary syndrome	UMLS	C0032460
+DOID:10763	hypertension	EFO	0000537
+DOID:10763	hypertension	ICD9	401-405.99
+DOID:10763	hypertension	ICD9	997.91
+DOID:10763	hypertension	MSH	D006973
+DOID:10763	hypertension	NCI	C3117
+DOID:10763	hypertension	SNOMEDCT	155295004
+DOID:10763	hypertension	SNOMEDCT	155302005
+DOID:10763	hypertension	SNOMEDCT	194756002
+DOID:10763	hypertension	SNOMEDCT	194757006
+DOID:10763	hypertension	SNOMEDCT	194760004
+DOID:10763	hypertension	SNOMEDCT	194794002
+DOID:10763	hypertension	SNOMEDCT	195537001
+DOID:10763	hypertension	SNOMEDCT	266287006
+DOID:10763	hypertension	SNOMEDCT	38341003
+DOID:10763	hypertension	UMLS	C0020538
+DOID:418	systemic scleroderma	EFO	0000717
+DOID:418	systemic scleroderma	ICD9	710.1
+DOID:418	systemic scleroderma	MSH	D012595
+DOID:418	systemic scleroderma	NCI	C72070
+DOID:418	systemic scleroderma	SNOMEDCT	128457007
+DOID:418	systemic scleroderma	SNOMEDCT	156451000
+DOID:418	systemic scleroderma	SNOMEDCT	201440007
+DOID:418	systemic scleroderma	SNOMEDCT	268049000
+DOID:418	systemic scleroderma	SNOMEDCT	89155008
+DOID:418	systemic scleroderma	UMLS	C0036421
+DOID:13241	Behcet's disease	EFO	0003780
+DOID:13241	Behcet's disease	ICD10	M35.2
+DOID:13241	Behcet's disease	ICD9	136.1
+DOID:13241	Behcet's disease	MSH	D001528
+DOID:13241	Behcet's disease	NCI	C34416
+DOID:13241	Behcet's disease	OMIM	109650
+DOID:13241	Behcet's disease	SNOMEDCT	154424000
+DOID:13241	Behcet's disease	SNOMEDCT	310701003
+DOID:13241	Behcet's disease	SNOMEDCT	41225007
+DOID:13241	Behcet's disease	UMLS	C0004943
+DOID:5408	Paget's disease of bone	EFO	0004261
+DOID:5408	Paget's disease of bone	ICD10	M88
+DOID:5408	Paget's disease of bone	ICD9	731.0
+DOID:5408	Paget's disease of bone	MSH	C538098
+DOID:5408	Paget's disease of bone	MSH	D010001
+DOID:5408	Paget's disease of bone	NCI	C3292
+DOID:5408	Paget's disease of bone	OMIM	167250
+DOID:5408	Paget's disease of bone	OMIM	602080
+DOID:5408	Paget's disease of bone	OMIM	606263
+DOID:5408	Paget's disease of bone	ORDO	280110
+DOID:5408	Paget's disease of bone	SNOMEDCT	156811005
+DOID:5408	Paget's disease of bone	SNOMEDCT	156812003
+DOID:5408	Paget's disease of bone	SNOMEDCT	203353000
+DOID:5408	Paget's disease of bone	SNOMEDCT	203354006
+DOID:5408	Paget's disease of bone	SNOMEDCT	2089002
+DOID:5408	Paget's disease of bone	UMLS	C0029401
+DOID:1024	leprosy	EFO	0001054
+DOID:1024	leprosy	ICD10	A30
+DOID:1024	leprosy	ICD9	030
+DOID:1024	leprosy	ICD9	030.9
+DOID:1024	leprosy	MSH	D007918
+DOID:1024	leprosy	NCI	C84824
+DOID:1024	leprosy	OMIM	246300
+DOID:1024	leprosy	OMIM	607572
+DOID:1024	leprosy	OMIM	609888
+DOID:1024	leprosy	OMIM	610988
+DOID:1024	leprosy	OMIM	613223
+DOID:1024	leprosy	OMIM	613407
+DOID:1024	leprosy	ORDO	548
+DOID:1024	leprosy	SNOMEDCT	154298007
+DOID:1024	leprosy	SNOMEDCT	186339006
+DOID:1024	leprosy	SNOMEDCT	187316006
+DOID:1024	leprosy	SNOMEDCT	266184007
+DOID:1024	leprosy	SNOMEDCT	81004002
+DOID:1024	leprosy	UMLS	C0023343
+DOID:10941	intracranial aneurysm	EFO	0003870
+DOID:10941	intracranial aneurysm	MSH	D002532
+DOID:10941	intracranial aneurysm	NCI	C34458
+DOID:10941	intracranial aneurysm	SNOMEDCT	128609009
+DOID:10941	intracranial aneurysm	SNOMEDCT	42994005
+DOID:10941	intracranial aneurysm	UMLS	C0007766
+DOID:1686	glaucoma	EFO	0000516
+DOID:1686	glaucoma	ICD9	365
+DOID:1686	glaucoma	ICD9	365.9
+DOID:1686	glaucoma	MSH	D005901
+DOID:1686	glaucoma	NCI	C26782
+DOID:1686	glaucoma	SNOMEDCT	155120009
+DOID:1686	glaucoma	SNOMEDCT	193569008
+DOID:1686	glaucoma	SNOMEDCT	194631001
+DOID:1686	glaucoma	SNOMEDCT	23986001
+DOID:1686	glaucoma	UMLS	C0017601
+DOID:332	amyotrophic lateral sclerosis	EFO	0000253
+DOID:332	amyotrophic lateral sclerosis	ICD10	G12.21
+DOID:332	amyotrophic lateral sclerosis	ICD9	335.20
+DOID:332	amyotrophic lateral sclerosis	KEGG	05014
+DOID:332	amyotrophic lateral sclerosis	MSH	D000690
+DOID:332	amyotrophic lateral sclerosis	NCI	C34373
+DOID:332	amyotrophic lateral sclerosis	OMIM	105400
+DOID:332	amyotrophic lateral sclerosis	OMIM	205100
+DOID:332	amyotrophic lateral sclerosis	OMIM	602433
+DOID:332	amyotrophic lateral sclerosis	OMIM	608030
+DOID:332	amyotrophic lateral sclerosis	OMIM	611895
+DOID:332	amyotrophic lateral sclerosis	OMIM	612069
+DOID:332	amyotrophic lateral sclerosis	OMIM	612577
+DOID:332	amyotrophic lateral sclerosis	OMIM	613435
+DOID:332	amyotrophic lateral sclerosis	SNOMEDCT	86044005
+DOID:332	amyotrophic lateral sclerosis	UMLS	C0002736
+DOID:0050425	restless legs syndrome	EFO	0004270
+DOID:0050425	restless legs syndrome	ICD10	G25.8
+DOID:0050425	restless legs syndrome	ICD9	333.94
+DOID:0050425	restless legs syndrome	MSH	D012148
+DOID:0050425	restless legs syndrome	OMIM	102300
+DOID:0050425	restless legs syndrome	OMIM	608830
+DOID:0050425	restless legs syndrome	OMIM	610438
+DOID:0050425	restless legs syndrome	OMIM	610439
+DOID:0050425	restless legs syndrome	OMIM	611185
+DOID:0050425	restless legs syndrome	OMIM	611242
+DOID:0050425	restless legs syndrome	OMIM	612853
+DOID:0050425	restless legs syndrome	OMIM	615197
+DOID:13378	Kawasaki disease	EFO	0004246
+DOID:13378	Kawasaki disease	ICD10	M30.3
+DOID:13378	Kawasaki disease	ICD9	446.1
+DOID:13378	Kawasaki disease	MSH	D009080
+DOID:13378	Kawasaki disease	NCI	C34825
+DOID:13378	Kawasaki disease	OMIM	611775
+DOID:13378	Kawasaki disease	SNOMEDCT	155444003
+DOID:13378	Kawasaki disease	SNOMEDCT	195348009
+DOID:13378	Kawasaki disease	SNOMEDCT	195349001
+DOID:13378	Kawasaki disease	SNOMEDCT	75053002
+DOID:13378	Kawasaki disease	UMLS	C0026691
+DOID:1936	atherosclerosis	EFO	0003914
+DOID:1936	atherosclerosis	ICD9	440
+DOID:1936	atherosclerosis	MSH	D050197
+DOID:1936	atherosclerosis	NCI	C35768
+DOID:1936	atherosclerosis	SNOMEDCT	155382007
+DOID:1936	atherosclerosis	SNOMEDCT	155414001
+DOID:1936	atherosclerosis	SNOMEDCT	194848007
+DOID:1936	atherosclerosis	SNOMEDCT	195251000
+DOID:1936	atherosclerosis	SNOMEDCT	266318005
+DOID:1936	atherosclerosis	SNOMEDCT	38716007
+DOID:1936	atherosclerosis	UMLS	C0004153
+DOID:986	alopecia areata	EFO	0004192
+DOID:986	alopecia areata	ICD10	L63
+DOID:986	alopecia areata	ICD9	704.01
+DOID:986	alopecia areata	MSH	C531609
+DOID:986	alopecia areata	MSH	D000506
+DOID:986	alopecia areata	OMIM	104000
+DOID:986	alopecia areata	OMIM	610753
+DOID:986	alopecia areata	SNOMEDCT	201131001
+DOID:986	alopecia areata	SNOMEDCT	238727007
+DOID:986	alopecia areata	SNOMEDCT	68225006
+DOID:986	alopecia areata	UMLS	C0002171
+DOID:11476	osteoporosis	EFO	0003882
+DOID:11476	osteoporosis	ICD9	733.0
+DOID:11476	osteoporosis	ICD9	733.00
+DOID:11476	osteoporosis	MSH	D010024
+DOID:11476	osteoporosis	NCI	C3298
+DOID:11476	osteoporosis	OMIM	166710
+DOID:11476	osteoporosis	SNOMEDCT	156825006
+DOID:11476	osteoporosis	SNOMEDCT	203428004
+DOID:11476	osteoporosis	SNOMEDCT	203440004
+DOID:11476	osteoporosis	SNOMEDCT	64859006
+DOID:11476	osteoporosis	UMLS	C0029456
+DOID:1459	hypothyroidism	EFO	0004705
+DOID:1459	hypothyroidism	ICD9	244.9
+DOID:1459	hypothyroidism	MSH	D007037
+DOID:1459	hypothyroidism	NCI	C26800
+DOID:1459	hypothyroidism	SNOMEDCT	154660000
+DOID:1459	hypothyroidism	SNOMEDCT	190274003
+DOID:1459	hypothyroidism	SNOMEDCT	190290003
+DOID:1459	hypothyroidism	SNOMEDCT	237572004
+DOID:1459	hypothyroidism	SNOMEDCT	267377003
+DOID:1459	hypothyroidism	SNOMEDCT	267465007
+DOID:1459	hypothyroidism	SNOMEDCT	40930008
+DOID:1459	hypothyroidism	UMLS	C002067
+DOID:2986	IgA glomerulonephritis	EFO	0004194
+DOID:2986	IgA glomerulonephritis	ICD10	N02.8
+DOID:2986	IgA glomerulonephritis	ICD9	583.9
+DOID:2986	IgA glomerulonephritis	MSH	C538412
+DOID:2986	IgA glomerulonephritis	MSH	D005922
+DOID:2986	IgA glomerulonephritis	NCI	C34643
+DOID:2986	IgA glomerulonephritis	NCI	C35280
+DOID:2986	IgA glomerulonephritis	OMIM	161950
+DOID:2986	IgA glomerulonephritis	SNOMEDCT	197632002
+DOID:2986	IgA glomerulonephritis	SNOMEDCT	236407003
+DOID:2986	IgA glomerulonephritis	SNOMEDCT	68779003
+DOID:2986	IgA glomerulonephritis	UMLS	C0017661
+DOID:0050741	alcohol dependence	EFO	0003829
+DOID:0050741	alcohol dependence	KEGG	05034
+DOID:0050741	alcohol dependence	OMIM	103780
+DOID:11949	Creutzfeldt-Jakob disease	EFO	0004226
+DOID:11949	Creutzfeldt-Jakob disease	ICD9	046.1
+DOID:11949	Creutzfeldt-Jakob disease	MSH	D007562
+DOID:11949	Creutzfeldt-Jakob disease	NCI	C26802
+DOID:11949	Creutzfeldt-Jakob disease	OMIM	123400
+DOID:11949	Creutzfeldt-Jakob disease	SNOMEDCT	155061007
+DOID:11949	Creutzfeldt-Jakob disease	SNOMEDCT	792004
+DOID:11949	Creutzfeldt-Jakob disease	SNOMEDCT	79358009
+DOID:11949	Creutzfeldt-Jakob disease	UMLS	C0022336
+DOID:14227	azoospermia	EFO	0000279
+DOID:14227	azoospermia	ICD9	606.0
+DOID:14227	azoospermia	MSH	D053713
+DOID:14227	azoospermia	OMIM	102530
+DOID:14227	azoospermia	OMIM	108420
+DOID:14227	azoospermia	OMIM	243060
+DOID:14227	azoospermia	OMIM	258150
+DOID:14227	azoospermia	OMIM	270960
+DOID:14227	azoospermia	OMIM	309120
+DOID:14227	azoospermia	OMIM	415000
+DOID:14227	azoospermia	OMIM	606766
+DOID:14227	azoospermia	OMIM	612997
+DOID:14227	azoospermia	OMIM	613957
+DOID:14227	azoospermia	OMIM	613958
+DOID:14227	azoospermia	OMIM	614822
+DOID:14227	azoospermia	OMIM	615081
+DOID:14227	azoospermia	OMIM	615413
+DOID:14227	azoospermia	OMIM	615841
+DOID:14227	azoospermia	OMIM	615842
+DOID:14227	azoospermia	ORDO	217034
+DOID:14227	azoospermia	SNOMEDCT	145008007
+DOID:14227	azoospermia	SNOMEDCT	155925000
+DOID:14227	azoospermia	SNOMEDCT	167781002
+DOID:14227	azoospermia	SNOMEDCT	198010009
+DOID:14227	azoospermia	SNOMEDCT	425558002
+DOID:14227	azoospermia	SNOMEDCT	48188009
+DOID:14227	azoospermia	UMLS	C0004509
+DOID:1826	epilepsy syndrome	EFO	0000474
+DOID:1826	epilepsy syndrome	ICD9	345.9
+DOID:1826	epilepsy syndrome	MSH	D004827
+DOID:1826	epilepsy syndrome	NCI	C3020
+DOID:1826	epilepsy syndrome	SNOMEDCT	128613002
+DOID:1826	epilepsy syndrome	SNOMEDCT	155036009
+DOID:1826	epilepsy syndrome	SNOMEDCT	155045005
+DOID:1826	epilepsy syndrome	SNOMEDCT	193026007
+DOID:1826	epilepsy syndrome	SNOMEDCT	246545002
+DOID:1826	epilepsy syndrome	SNOMEDCT	267593008
+DOID:1826	epilepsy syndrome	SNOMEDCT	267698007
+DOID:1826	epilepsy syndrome	SNOMEDCT	271788002
+DOID:1826	epilepsy syndrome	SNOMEDCT	313307000
+DOID:1826	epilepsy syndrome	SNOMEDCT	84757009
+DOID:1826	epilepsy syndrome	UMLS	C0014544
+DOID:2043	hepatitis B	EFO	0004197
+DOID:2043	hepatitis B	MSH	D006509
+DOID:2043	hepatitis B	NCI	C3097
+DOID:2043	hepatitis B	SNOMEDCT	154348008
+DOID:2043	hepatitis B	SNOMEDCT	186625003
+DOID:2043	hepatitis B	SNOMEDCT	266195001
+DOID:2043	hepatitis B	SNOMEDCT	66071002
+DOID:2043	hepatitis B	UMLS	C0019163
+DOID:3083	chronic obstructive pulmonary disease	EFO	0000341
+DOID:3083	chronic obstructive pulmonary disease	MSH	D029424
+DOID:3083	chronic obstructive pulmonary disease	NCI	C3199
+DOID:3083	chronic obstructive pulmonary disease	SNOMEDCT	13645005
+DOID:3083	chronic obstructive pulmonary disease	SNOMEDCT	155565006
+DOID:3083	chronic obstructive pulmonary disease	SNOMEDCT	155569000
+DOID:3083	chronic obstructive pulmonary disease	SNOMEDCT	155585005
+DOID:3083	chronic obstructive pulmonary disease	SNOMEDCT	155617000
+DOID:3083	chronic obstructive pulmonary disease	SNOMEDCT	195935004
+DOID:3083	chronic obstructive pulmonary disease	SNOMEDCT	195948000
+DOID:3083	chronic obstructive pulmonary disease	SNOMEDCT	196003006
+DOID:3083	chronic obstructive pulmonary disease	SNOMEDCT	413846005
+DOID:3083	chronic obstructive pulmonary disease	UMLS	C0024117
+DOID:7693	abdominal aortic aneurysm	EFO	0004214
+DOID:7693	abdominal aortic aneurysm	MSH	D017544
+DOID:7693	abdominal aortic aneurysm	NCI	C27000
+DOID:7693	abdominal aortic aneurysm	OMIM	100070
+DOID:7693	abdominal aortic aneurysm	OMIM	609782
+DOID:7693	abdominal aortic aneurysm	OMIM	611891
+DOID:7693	abdominal aortic aneurysm	OMIM	614375
+DOID:7693	abdominal aortic aneurysm	SNOMEDCT	155422008
+DOID:7693	abdominal aortic aneurysm	SNOMEDCT	233985008
+DOID:7693	abdominal aortic aneurysm	UMLS	C0162871
+DOID:784	chronic kidney failure	EFO	0003884
+DOID:784	chronic kidney failure	ICD9	585.6
+DOID:784	chronic kidney failure	MSH	D007676
+DOID:784	chronic kidney failure	NCI	C80078
+DOID:784	chronic kidney failure	NCI	C9438
+DOID:784	chronic kidney failure	SNOMEDCT	155856009
+DOID:784	chronic kidney failure	SNOMEDCT	197654000
+DOID:784	chronic kidney failure	SNOMEDCT	197655004
+DOID:784	chronic kidney failure	SNOMEDCT	197755007
+DOID:784	chronic kidney failure	SNOMEDCT	46177005
+DOID:784	chronic kidney failure	SNOMEDCT	90688005
+DOID:784	chronic kidney failure	UMLS	C0022661
+DOID:8398	osteoarthritis	EFO	0002506
+DOID:8398	osteoarthritis	ICD9	715.3
+DOID:8398	osteoarthritis	OMIM	140600
+DOID:8398	osteoarthritis	OMIM	165720
+DOID:8398	osteoarthritis	OMIM	607850
+DOID:8398	osteoarthritis	OMIM	610839
+DOID:8398	osteoarthritis	OMIM	612400
+DOID:8398	osteoarthritis	OMIM	612401
+DOID:8398	osteoarthritis	UMLS	C0157946
+DOID:9008	psoriatic arthritis	EFO	0003778
+DOID:9008	psoriatic arthritis	ICD9	696.0
+DOID:9008	psoriatic arthritis	MSH	D015535
+DOID:9008	psoriatic arthritis	NCI	C61277
+DOID:9008	psoriatic arthritis	SNOMEDCT	156370009
+DOID:9008	psoriatic arthritis	SNOMEDCT	200959009
+DOID:9008	psoriatic arthritis	SNOMEDCT	33339001
+DOID:9008	psoriatic arthritis	UMLS	C0003872
+DOID:0050742	nicotine dependence	EFO	0003768
+DOID:0050742	nicotine dependence	OMIM	188890
+DOID:10976	membranous glomerulonephritis	EFO	0004254
+DOID:10976	membranous glomerulonephritis	MSH	D015433
+DOID:10976	membranous glomerulonephritis	NCI	C34645
+DOID:10976	membranous glomerulonephritis	SNOMEDCT	197710000
+DOID:10976	membranous glomerulonephritis	SNOMEDCT	77182004
+DOID:10976	membranous glomerulonephritis	UMLS	C0017665
+DOID:11714	gestational diabetes	EFO	0004593
+DOID:11714	gestational diabetes	MSH	D016640
+DOID:11714	gestational diabetes	NCI	C34942
+DOID:11714	gestational diabetes	SNOMEDCT	11687002
+DOID:11714	gestational diabetes	SNOMEDCT	199232003
+DOID:11714	gestational diabetes	SNOMEDCT	237629002
+DOID:11714	gestational diabetes	SNOMEDCT	359964007
+DOID:11714	gestational diabetes	SNOMEDCT	393568003
+DOID:11714	gestational diabetes	UMLS	C0085207
+DOID:12365	malaria	EFO	0001068
+DOID:12365	malaria	ICD9	084
+DOID:12365	malaria	ICD9	084.6
+DOID:12365	malaria	MSH	D008288
+DOID:12365	malaria	NCI	C34797
+DOID:12365	malaria	OMIM	609148
+DOID:12365	malaria	OMIM	611162
+DOID:12365	malaria	ORDO	673
+DOID:12365	malaria	SNOMEDCT	105649009
+DOID:12365	malaria	SNOMEDCT	154374002
+DOID:12365	malaria	SNOMEDCT	186797008
+DOID:12365	malaria	SNOMEDCT	187510004
+DOID:12365	malaria	SNOMEDCT	248437004
+DOID:12365	malaria	SNOMEDCT	61462000
+DOID:12365	malaria	UMLS	C0024530
+DOID:12849	autistic disorder	EFO	0003758
+DOID:12849	autistic disorder	ICD10	F84.0
+DOID:12849	autistic disorder	ICD9	299.0
+DOID:12849	autistic disorder	MSH	D001321
+DOID:12849	autistic disorder	OMIM	209850
+DOID:12849	autistic disorder	OMIM	300425
+DOID:12849	autistic disorder	OMIM	300495
+DOID:12849	autistic disorder	OMIM	300496
+DOID:12849	autistic disorder	OMIM	300830
+DOID:12849	autistic disorder	OMIM	300847
+DOID:12849	autistic disorder	OMIM	300872
+DOID:12849	autistic disorder	OMIM	606059
+DOID:12849	autistic disorder	OMIM	607373
+DOID:12849	autistic disorder	OMIM	608049
+DOID:12849	autistic disorder	OMIM	608636
+DOID:12849	autistic disorder	OMIM	609378
+DOID:12849	autistic disorder	OMIM	610676
+DOID:12849	autistic disorder	OMIM	610836
+DOID:12849	autistic disorder	OMIM	610908
+DOID:12849	autistic disorder	OMIM	611015
+DOID:12849	autistic disorder	OMIM	611016
+DOID:12849	autistic disorder	OMIM	611913
+DOID:12849	autistic disorder	OMIM	612100
+DOID:12849	autistic disorder	OMIM	613410
+DOID:12849	autistic disorder	OMIM	613436
+DOID:12849	autistic disorder	OMIM	615032
+DOID:12849	autistic disorder	OMIM	615091
+DOID:12849	autistic disorder	ORDO	106
+DOID:12849	autistic disorder	SNOMEDCT	154878007
+DOID:12849	autistic disorder	SNOMEDCT	191688000
+DOID:12849	autistic disorder	SNOMEDCT	191691000
+DOID:12849	autistic disorder	SNOMEDCT	192581001
+DOID:12849	autistic disorder	SNOMEDCT	271450003
+DOID:12849	autistic disorder	SNOMEDCT	34883005
+DOID:12849	autistic disorder	SNOMEDCT	38763009
+DOID:12849	autistic disorder	SNOMEDCT	408856003
+DOID:12849	autistic disorder	SNOMEDCT	408857007
+DOID:12849	autistic disorder	SNOMEDCT	43614003
+DOID:12849	autistic disorder	UMLS	C0004352
+DOID:12930	dilated cardiomyopathy	EFO	0000407
+DOID:12930	dilated cardiomyopathy	KEGG	05414
+DOID:12930	dilated cardiomyopathy	MSH	C536231
+DOID:12930	dilated cardiomyopathy	MSH	C536277
+DOID:12930	dilated cardiomyopathy	MSH	D002311
+DOID:12930	dilated cardiomyopathy	NCI	C84673
+DOID:12930	dilated cardiomyopathy	OMIM	115200
+DOID:12930	dilated cardiomyopathy	OMIM	300069
+DOID:12930	dilated cardiomyopathy	OMIM	302045
+DOID:12930	dilated cardiomyopathy	OMIM	600884
+DOID:12930	dilated cardiomyopathy	OMIM	601154
+DOID:12930	dilated cardiomyopathy	OMIM	601493
+DOID:12930	dilated cardiomyopathy	OMIM	601494
+DOID:12930	dilated cardiomyopathy	OMIM	604145
+DOID:12930	dilated cardiomyopathy	OMIM	604288
+DOID:12930	dilated cardiomyopathy	OMIM	604765
+DOID:12930	dilated cardiomyopathy	OMIM	605362
+DOID:12930	dilated cardiomyopathy	OMIM	605582
+DOID:12930	dilated cardiomyopathy	OMIM	606685
+DOID:12930	dilated cardiomyopathy	OMIM	607482
+DOID:12930	dilated cardiomyopathy	OMIM	607487
+DOID:12930	dilated cardiomyopathy	OMIM	608569
+DOID:12930	dilated cardiomyopathy	OMIM	609909
+DOID:12930	dilated cardiomyopathy	OMIM	609915
+DOID:12930	dilated cardiomyopathy	OMIM	611407
+DOID:12930	dilated cardiomyopathy	OMIM	611615
+DOID:12930	dilated cardiomyopathy	OMIM	611878
+DOID:12930	dilated cardiomyopathy	OMIM	611879
+DOID:12930	dilated cardiomyopathy	OMIM	611880
+DOID:12930	dilated cardiomyopathy	OMIM	612158
+DOID:12930	dilated cardiomyopathy	OMIM	612877
+DOID:12930	dilated cardiomyopathy	OMIM	613122
+DOID:12930	dilated cardiomyopathy	OMIM	613172
+DOID:12930	dilated cardiomyopathy	OMIM	613252
+DOID:12930	dilated cardiomyopathy	OMIM	613286
+DOID:12930	dilated cardiomyopathy	OMIM	613424
+DOID:12930	dilated cardiomyopathy	OMIM	613426
+DOID:12930	dilated cardiomyopathy	OMIM	613642
+DOID:12930	dilated cardiomyopathy	OMIM	613694
+DOID:12930	dilated cardiomyopathy	OMIM	613697
+DOID:12930	dilated cardiomyopathy	OMIM	613740
+DOID:12930	dilated cardiomyopathy	OMIM	613881
+DOID:12930	dilated cardiomyopathy	OMIM	614672
+DOID:12930	dilated cardiomyopathy	OMIM	615184
+DOID:12930	dilated cardiomyopathy	OMIM	615235
+DOID:12930	dilated cardiomyopathy	OMIM	615916
+DOID:12930	dilated cardiomyopathy	ORDO	217604
+DOID:12930	dilated cardiomyopathy	SNOMEDCT	195018001
+DOID:12930	dilated cardiomyopathy	SNOMEDCT	195021004
+DOID:12930	dilated cardiomyopathy	SNOMEDCT	389995008
+DOID:12930	dilated cardiomyopathy	SNOMEDCT	399020009
+DOID:12930	dilated cardiomyopathy	SNOMEDCT	74368002
+DOID:12930	dilated cardiomyopathy	UMLS	C0007193
+DOID:13189	gout	EFO	0004274
+DOID:13189	gout	ICD9	274.0
+DOID:13189	gout	ICD9	274.00
+DOID:13189	gout	MSH	D015210
+DOID:13189	gout	SNOMEDCT	147966005
+DOID:13189	gout	SNOMEDCT	154745008
+DOID:13189	gout	SNOMEDCT	154746009
+DOID:13189	gout	SNOMEDCT	170733007
+DOID:13189	gout	SNOMEDCT	190827003
+DOID:13189	gout	SNOMEDCT	190828008
+DOID:13189	gout	SNOMEDCT	190844004
+DOID:13189	gout	SNOMEDCT	201661008
+DOID:13189	gout	SNOMEDCT	201662001
+DOID:13189	gout	SNOMEDCT	201672003
+DOID:13189	gout	SNOMEDCT	48440001
+DOID:13189	gout	SNOMEDCT	90560007
+DOID:13189	gout	UMLS	C0003868
+DOID:13189	gout	UMLS	C0018099
+DOID:13223	uterine fibroid	EFO	0000731
+DOID:13223	uterine fibroid	HP	0000131
+DOID:13223	uterine fibroid	ICD10	D25
+DOID:13223	uterine fibroid	ICD9	218
+DOID:13223	uterine fibroid	ICD9	218.9
+DOID:13223	uterine fibroid	MSH	D007889
+DOID:13223	uterine fibroid	NCI	C3434
+DOID:13223	uterine fibroid	OMIM	150699
+DOID:13223	uterine fibroid	SNOMEDCT	154616000
+DOID:13223	uterine fibroid	SNOMEDCT	189106003
+DOID:13223	uterine fibroid	SNOMEDCT	44598004
+DOID:13223	uterine fibroid	SNOMEDCT	95315005
+DOID:13223	uterine fibroid	UMLS	C0042133
+DOID:14268	sclerosing cholangitis	EFO	0004268
+DOID:14268	sclerosing cholangitis	MSH	D015209
+DOID:14268	sclerosing cholangitis	SNOMEDCT	197443000
+DOID:14268	sclerosing cholangitis	SNOMEDCT	235917005
+DOID:14268	sclerosing cholangitis	SNOMEDCT	4032000
+DOID:14268	sclerosing cholangitis	UMLS	C0008313
+DOID:8986	narcolepsy	EFO	0000614
+DOID:8986	narcolepsy	ICD10	G47.4
+DOID:8986	narcolepsy	ICD9	347.0
+DOID:8986	narcolepsy	MSH	D009290
+DOID:8986	narcolepsy	NCI	C84489
+DOID:8986	narcolepsy	OMIM	161400
+DOID:8986	narcolepsy	OMIM	605841
+DOID:8986	narcolepsy	OMIM	609039
+DOID:8986	narcolepsy	OMIM	612417
+DOID:8986	narcolepsy	OMIM	612851
+DOID:8986	narcolepsy	OMIM	614223
+DOID:8986	narcolepsy	OMIM	614250
+DOID:8986	narcolepsy	ORDO	2073
+DOID:8986	narcolepsy	SNOMEDCT	155059003
+DOID:8986	narcolepsy	SNOMEDCT	267702006
+DOID:8986	narcolepsy	SNOMEDCT	60380001
+DOID:8986	narcolepsy	UMLS	C0027404
+DOID:90	degenerative disc disease	EFO	0004994
+DOID:90	degenerative disc disease	NCI	C27156
+DOID:90	degenerative disc disease	SNOMEDCT	156633005
+DOID:90	degenerative disc disease	UMLS	C0410606
+DOID:90	degenerative disc disease	UMLS	C0750218
+DOID:9296	cleft lip	EFO	0003959
+DOID:9296	cleft lip	ICD9	749.1
+DOID:9296	cleft lip	ICD9	749.10
+DOID:9296	cleft lip	MSH	D002971
+DOID:9296	cleft lip	NCI	C87175
+DOID:9296	cleft lip	SNOMEDCT	156941008
+DOID:9296	cleft lip	SNOMEDCT	204606000
+DOID:9296	cleft lip	SNOMEDCT	204609007
+DOID:9296	cleft lip	SNOMEDCT	62696001
+DOID:9296	cleft lip	SNOMEDCT	80281008
+DOID:9296	cleft lip	UMLS	C0008924
+DOID:9296	cleft lip	UMLS	C0158651
+DOID:0050156	idiopathic pulmonary fibrosis	EFO	0000768
+DOID:0050156	idiopathic pulmonary fibrosis	MSH	D054990
+DOID:0050156	idiopathic pulmonary fibrosis	NCI	C35716
+DOID:0050156	idiopathic pulmonary fibrosis	OMIM	178500
+DOID:1094	attention deficit hyperactivity disorder	EFO	0003888
+DOID:1094	attention deficit hyperactivity disorder	ICD10	F90
+DOID:1094	attention deficit hyperactivity disorder	ICD9	314.00
+DOID:1094	attention deficit hyperactivity disorder	MSH	D001289
+DOID:1094	attention deficit hyperactivity disorder	NCI	C35092
+DOID:1094	attention deficit hyperactivity disorder	OMIM	143465
+DOID:1094	attention deficit hyperactivity disorder	OMIM	608903
+DOID:1094	attention deficit hyperactivity disorder	OMIM	608904
+DOID:1094	attention deficit hyperactivity disorder	OMIM	608905
+DOID:1094	attention deficit hyperactivity disorder	OMIM	608906
+DOID:1094	attention deficit hyperactivity disorder	OMIM	612311
+DOID:1094	attention deficit hyperactivity disorder	OMIM	612312
+DOID:1094	attention deficit hyperactivity disorder	OMIM	613003
+DOID:1094	attention deficit hyperactivity disorder	SNOMEDCT	23148009
+DOID:1094	attention deficit hyperactivity disorder	UMLS	C0041671
+DOID:1094	attention deficit hyperactivity disorder	UMLS	C0154629
+DOID:11119	Gilles de la Tourette syndrome	EFO	0004895
+DOID:11119	Gilles de la Tourette syndrome	ICD9	307.23
+DOID:11119	Gilles de la Tourette syndrome	MSH	D005879
+DOID:11119	Gilles de la Tourette syndrome	NCI	C35078
+DOID:11119	Gilles de la Tourette syndrome	OMIM	137580
+DOID:11119	Gilles de la Tourette syndrome	SNOMEDCT	154936002
+DOID:11119	Gilles de la Tourette syndrome	SNOMEDCT	192624004
+DOID:11119	Gilles de la Tourette syndrome	SNOMEDCT	268778009
+DOID:11119	Gilles de la Tourette syndrome	SNOMEDCT	39098006
+DOID:11119	Gilles de la Tourette syndrome	SNOMEDCT	5158005
+DOID:11119	Gilles de la Tourette syndrome	UMLS	C0040517
+DOID:14004	thoracic aortic aneurysm	EFO	0004282
+DOID:14004	thoracic aortic aneurysm	ICD10	I71.1
+DOID:14004	thoracic aortic aneurysm	ICD10	I71\,2
+DOID:14004	thoracic aortic aneurysm	ICD9	441.2
+DOID:14004	thoracic aortic aneurysm	MSH	D017545
+DOID:14004	thoracic aortic aneurysm	NCI	C27001
+DOID:14004	thoracic aortic aneurysm	OMIM	132900
+DOID:14004	thoracic aortic aneurysm	OMIM	607086
+DOID:14004	thoracic aortic aneurysm	OMIM	607087
+DOID:14004	thoracic aortic aneurysm	OMIM	611788
+DOID:14004	thoracic aortic aneurysm	OMIM	613780
+DOID:14004	thoracic aortic aneurysm	OMIM	615436
+DOID:14004	thoracic aortic aneurysm	ORDO	91387
+DOID:14004	thoracic aortic aneurysm	SNOMEDCT	155421001
+DOID:14004	thoracic aortic aneurysm	SNOMEDCT	195259003
+DOID:14004	thoracic aortic aneurysm	SNOMEDCT	433068007
+DOID:14004	thoracic aortic aneurysm	SNOMEDCT	74883004
+DOID:14004	thoracic aortic aneurysm	UMLS	C0162872
+DOID:1595	endogenous depression	EFO	0003761
+DOID:1595	endogenous depression	MSH	D003866
+DOID:1595	endogenous depression	NCI	C34532
+DOID:1595	endogenous depression	NCI	C35094
+DOID:1595	endogenous depression	OMIM	608516
+DOID:1595	endogenous depression	SNOMEDCT	154873003
+DOID:1595	endogenous depression	SNOMEDCT	191599006
+DOID:1595	endogenous depression	SNOMEDCT	231498003
+DOID:1595	endogenous depression	SNOMEDCT	300706003
+DOID:1595	endogenous depression	UMLS	C0011573
+DOID:1595	endogenous depression	UMLS	C0041696
+DOID:4481	allergic rhinitis	EFO	0003956
+DOID:4481	allergic rhinitis	NCI	C34987
+DOID:4481	allergic rhinitis	OMIM	607154
+DOID:4481	allergic rhinitis	SNOMEDCT	38103000
+DOID:4481	allergic rhinitis	UMLS	C0002103
+DOID:4989	pancreatitis	EFO	0000278
+DOID:4989	pancreatitis	MSH	D010195
+DOID:4989	pancreatitis	NCI	C3306
+DOID:4989	pancreatitis	SNOMEDCT	197461009
+DOID:4989	pancreatitis	SNOMEDCT	393591004
+DOID:4989	pancreatitis	SNOMEDCT	75694006
+DOID:4989	pancreatitis	UMLS	C0030305
+DOID:585	nephrolithiasis	EFO	0004253
+DOID:585	nephrolithiasis	ICD9	592
+DOID:585	nephrolithiasis	MSH	D053040
+DOID:585	nephrolithiasis	OMIM	167030
+DOID:585	nephrolithiasis	SNOMEDCT	155867005
+DOID:585	nephrolithiasis	SNOMEDCT	197792007
+DOID:585	nephrolithiasis	SNOMEDCT	197796005
+DOID:585	nephrolithiasis	SNOMEDCT	266556005
+DOID:585	nephrolithiasis	SNOMEDCT	266622009
+DOID:585	nephrolithiasis	UMLS	C0156257
+DOID:824	periodontitis	EFO	0000649
+DOID:824	periodontitis	MSH	D010518
+DOID:824	periodontitis	NCI	C34918
+DOID:824	periodontitis	SNOMEDCT	155648008
+DOID:824	periodontitis	SNOMEDCT	266491004
+DOID:824	periodontitis	SNOMEDCT	41565005
+DOID:824	periodontitis	UMLS	C0031099
+DOID:9206	Barrett's esophagus	EFO	0000280
+DOID:9206	Barrett's esophagus	ICD9	530.85
+DOID:9206	Barrett's esophagus	MSH	D001471
+DOID:9206	Barrett's esophagus	NCI	C2891
+DOID:9206	Barrett's esophagus	SNOMEDCT	155679007
+DOID:9206	Barrett's esophagus	SNOMEDCT	196603007
+DOID:9206	Barrett's esophagus	SNOMEDCT	196609006
+DOID:9206	Barrett's esophagus	SNOMEDCT	235597001
+DOID:9206	Barrett's esophagus	SNOMEDCT	302914006
+DOID:9206	Barrett's esophagus	SNOMEDCT	76355008
+DOID:9206	Barrett's esophagus	UMLS	C0004763
+DOID:11555	Fuchs' endothelial dystrophy	EFO	0003946
+DOID:11555	Fuchs' endothelial dystrophy	ICD10	H18.5
+DOID:11555	Fuchs' endothelial dystrophy	ICD9	371.57
+DOID:11555	Fuchs' endothelial dystrophy	MSH	D005642
+DOID:11555	Fuchs' endothelial dystrophy	NCI	C84721
+DOID:11555	Fuchs' endothelial dystrophy	OMIM	136800
+DOID:11555	Fuchs' endothelial dystrophy	OMIM	610158
+DOID:11555	Fuchs' endothelial dystrophy	OMIM	613267
+DOID:11555	Fuchs' endothelial dystrophy	OMIM	613268
+DOID:11555	Fuchs' endothelial dystrophy	OMIM	613269
+DOID:11555	Fuchs' endothelial dystrophy	OMIM	613270
+DOID:11555	Fuchs' endothelial dystrophy	OMIM	613271
+DOID:11555	Fuchs' endothelial dystrophy	OMIM	615523
+DOID:11555	Fuchs' endothelial dystrophy	ORDO	98974
+DOID:11555	Fuchs' endothelial dystrophy	SNOMEDCT	16949007
+DOID:11555	Fuchs' endothelial dystrophy	SNOMEDCT	193839007
+DOID:11555	Fuchs' endothelial dystrophy	SNOMEDCT	393581005
+DOID:11555	Fuchs' endothelial dystrophy	UMLS	C0016781
+DOID:12185	otosclerosis	EFO	0004213
+DOID:12185	otosclerosis	ICD10	H80
+DOID:12185	otosclerosis	ICD9	387.8
+DOID:12185	otosclerosis	MSH	D010040
+DOID:12185	otosclerosis	OMIM	166800
+DOID:12185	otosclerosis	OMIM	605727
+DOID:12185	otosclerosis	OMIM	608244
+DOID:12185	otosclerosis	OMIM	608484
+DOID:12185	otosclerosis	OMIM	611571
+DOID:12185	otosclerosis	OMIM	611572
+DOID:12185	otosclerosis	OMIM	612096
+DOID:12185	otosclerosis	OMIM	615589
+DOID:12185	otosclerosis	ORDO	2794
+DOID:12185	otosclerosis	SNOMEDCT	194382008
+DOID:12185	otosclerosis	SNOMEDCT	194691004
+DOID:12185	otosclerosis	UMLS	C0029696
+DOID:12995	conduct disorder	EFO	0004216
+DOID:12995	conduct disorder	ICD9	312.9
+DOID:12995	conduct disorder	MSH	D019955
+DOID:12995	conduct disorder	SNOMEDCT	154945001
+DOID:12995	conduct disorder	SNOMEDCT	192104004
+DOID:12995	conduct disorder	SNOMEDCT	192106002
+DOID:12995	conduct disorder	SNOMEDCT	192597006
+DOID:12995	conduct disorder	SNOMEDCT	192603009
+DOID:12995	conduct disorder	SNOMEDCT	268782006
+DOID:12995	conduct disorder	SNOMEDCT	268785008
+DOID:12995	conduct disorder	SNOMEDCT	430909002
+DOID:12995	conduct disorder	UMLS	C0149654
+DOID:1312	focal segmental glomerulosclerosis	EFO	0004236
+DOID:1312	focal segmental glomerulosclerosis	MSH	D005923
+DOID:1312	focal segmental glomerulosclerosis	NCI	C37308
+DOID:1312	focal segmental glomerulosclerosis	OMIM	603278
+DOID:1312	focal segmental glomerulosclerosis	OMIM	603965
+DOID:1312	focal segmental glomerulosclerosis	OMIM	607832
+DOID:1312	focal segmental glomerulosclerosis	OMIM	612551
+DOID:1312	focal segmental glomerulosclerosis	OMIM	613237
+DOID:1312	focal segmental glomerulosclerosis	OMIM	614131
+DOID:1312	focal segmental glomerulosclerosis	SNOMEDCT	236403004
+DOID:1312	focal segmental glomerulosclerosis	SNOMEDCT	25821008
+DOID:1312	focal segmental glomerulosclerosis	UMLS	C0017668
+DOID:1312	focal segmental glomerulosclerosis	UMLS	C0403425
+DOID:216	dental caries	EFO	0003819
+DOID:216	dental caries	ICD9	521.0
+DOID:216	dental caries	ICD9	521.00
+DOID:216	dental caries	MSH	D003731
+DOID:216	dental caries	NCI	C52593
+DOID:216	dental caries	SNOMEDCT	155632007
+DOID:216	dental caries	SNOMEDCT	196307002
+DOID:216	dental caries	SNOMEDCT	80967001
+DOID:216	dental caries	UMLS	C0011334
+DOID:216	dental caries	UMLS	C0949128
+DOID:216	dental caries	UMLS	C1456144
+DOID:216	dental caries	UMLS	C1456145
+DOID:2355	anemia	EFO	0004272
+DOID:2355	anemia	ICD9	285.9
+DOID:2355	anemia	MSH	D000740
+DOID:2355	anemia	NCI	C2869
+DOID:2355	anemia	SNOMEDCT	154786001
+DOID:2355	anemia	SNOMEDCT	154812000
+DOID:2355	anemia	SNOMEDCT	191277004
+DOID:2355	anemia	SNOMEDCT	267531008
+DOID:2355	anemia	SNOMEDCT	271737000
+DOID:2355	anemia	SNOMEDCT	64593003
+DOID:2355	anemia	UMLS	C0002871
+DOID:594	panic disorder	EFO	0004262
+DOID:594	panic disorder	MSH	D016584
+DOID:594	panic disorder	NCI	C34890
+DOID:594	panic disorder	OMIM	167870
+DOID:594	panic disorder	OMIM	607853
+DOID:594	panic disorder	OMIM	609985
+DOID:594	panic disorder	SNOMEDCT	191705007
+DOID:594	panic disorder	SNOMEDCT	192400001
+DOID:594	panic disorder	SNOMEDCT	268627007
+DOID:594	panic disorder	SNOMEDCT	371631005
+DOID:594	panic disorder	UMLS	C0030319
+DOID:635	acquired immunodeficiency syndrome	EFO	0000765
+DOID:635	acquired immunodeficiency syndrome	MSH	D000163
+DOID:635	acquired immunodeficiency syndrome	NCI	C2851
+DOID:635	acquired immunodeficiency syndrome	OMIM	609423
+DOID:635	acquired immunodeficiency syndrome	SNOMEDCT	186705005
+DOID:635	acquired immunodeficiency syndrome	SNOMEDCT	186715004
+DOID:635	acquired immunodeficiency syndrome	SNOMEDCT	234644008
+DOID:635	acquired immunodeficiency syndrome	SNOMEDCT	266201009
+DOID:635	acquired immunodeficiency syndrome	SNOMEDCT	62479008
+DOID:635	acquired immunodeficiency syndrome	UMLS	C0001175

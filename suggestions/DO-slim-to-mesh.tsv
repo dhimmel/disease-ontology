@@ -1,0 +1,17 @@
+doid_code	doid_name	mesh_id	mesh_name
+DOID:0050741	alcohol dependence	D000437	Alcoholism
+DOID:0050742	nicotine dependence	D014029	Tobacco Use Disorder
+DOID:0060119	pharynx cancer	D010610	Pharyngeal Neoplasms
+DOID:10021	duodenum cancer	D004379	Duodenal Neoplasms
+DOID:10153	ileum cancer	D007078	Ileal Neoplasms
+DOID:1115	sarcoma	D012509	Sarcoma
+DOID:11615	penile cancer	D010412	Penile Neoplasms
+DOID:11920	tracheal cancer	D014134	Tracheal Neoplasms
+DOID:1324	lung cancer	D008175	Lung Neoplasms
+DOID:1725	peritoneum cancer	D010534	Peritoneal Neoplasms
+DOID:1781	thyroid cancer	D013964	Thyroid Neoplasms
+DOID:4362	cervical cancer	D002583	Uterine Cervical Neoplasms
+DOID:4481	allergic rhinitis	D065631	Rhinitis, Allergic
+DOID:8398	osteoarthritis	D010003	Osteoarthritis
+DOID:8893	psoriasis	D011565	Psoriasis
+DOID:90	degenerative disc disease	D055959	Intervertebral Disc Degeneration

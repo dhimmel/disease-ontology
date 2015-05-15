@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 16:04:2015 17:02
+date: 14:05:2015 16:40
 saved-by: emitraka
 auto-generated-by: OBO-Edit 2.3.1
 subsetdef: DO_cancer_slim "DO cancer slim"
@@ -926,6 +926,7 @@ xref: EFO:0000768
 xref: MSH:D054990
 xref: NCI:C35716
 xref: OMIM:178500
+xref: UMLS_CUI:C1800706
 is_a: DOID:2797 ! idiopathic interstitial pneumonia
 
 [Term]
@@ -2848,6 +2849,7 @@ xref: OMIM:611185
 xref: OMIM:611242
 xref: OMIM:612853
 xref: OMIM:615197
+xref: UMLS_CUI:C0035258
 is_a: DOID:331 ! central nervous system disease
 
 [Term]
@@ -6229,9 +6231,12 @@ creation_date: 2012-08-10T01:08:47Z
 [Term]
 id: DOID:0050741
 name: alcohol dependence
+synonym: "alcoholism" EXACT []
 xref: EFO:0003829
 xref: KEGG:05034
+xref: MSH:D000437
 xref: OMIM:103780
+xref: UMLS_CUI:C0031347
 is_a: DOID:9973 ! substance dependence
 created_by: lschriml
 creation_date: 2012-09-05T11:48:42Z
@@ -6239,8 +6244,11 @@ creation_date: 2012-09-05T11:48:42Z
 [Term]
 id: DOID:0050742
 name: nicotine dependence
+synonym: "tobacco use disorder" EXACT [NSH:D014029]
 xref: EFO:0003768
+xref: MSH:D014029
 xref: OMIM:188890
+xref: UMLS_CUI:C0028043
 is_a: DOID:9973 ! substance dependence
 created_by: lschriml
 creation_date: 2012-09-05T11:48:42Z
@@ -9117,8 +9125,13 @@ creation_date: 2011-07-25T02:23:47Z
 [Term]
 id: DOID:0060119
 name: pharynx cancer
-def: "A gastrointestinal system cancer that is located_in the pharyx." [url:http\://en.wikipedia.org/wiki/Pharynx]
+def: "A gastrointestinal system cancer that is located_in the pharynx." [url:http\://en.wikipedia.org/wiki/Pharynx]
 subset: TopNodes_DOcancerslim
+synonym: "pharyngeal cancer" RELATED []
+synonym: "pharyngeal neoplasm" EXACT []
+synonym: "pharynx neoplasm" EXACT []
+xref: MSH:D010610
+xref: UMLS_CUI:C0031347
 is_a: DOID:3119 ! gastrointestinal system cancer
 created_by: lschriml
 creation_date: 2011-07-27T01:26:34Z
@@ -10134,7 +10147,7 @@ def: "A rare eye disease characterized by variable iris atrophy, pigmented and p
 xref: ICD10CM:H21.1
 xref: MEDDRA:10059200
 xref: ORDO:98980
-xref: UMLS:C1168173
+xref: UMLS_CUI:C1168173
 is_a: DOID:5614 ! eye disease
 created_by: emitraka
 creation_date: 2014-09-23T12:31:25Z
@@ -10427,8 +10440,8 @@ subset: DO_MGI_slim
 synonym: "xanthine dehydrogenase deficiency" EXACT []
 synonym: "xanthine oxidase deficiency" EXACT []
 xref: HP:0010934
-xref: IDC10CM:E79.8
-xref: IDC9CM:277.2
+xref: ICD10CM:E79.8
+xref: ICD9CM:277.2
 xref: MSH:C562584
 xref: MSH:C566358
 xref: OMIM:278300
@@ -11454,13 +11467,13 @@ creation_date: 2015-02-09T15:32:25Z
 [Term]
 id: DOID:0060304
 name: dyschromatosis universalis hereditaria
-def: "A pigmentation disease characterized by reticulate hyper- and hypo- pigmentated macules in a generalized distribution." [url:http\://en.wikipedia.org/wiki/Dyschromatosis_universalis_hereditaria, url:http\://www.ncbi.nlm.nih.gov/pubmed/12372090]
+def: "A pigmentation disease characterized by reticulate hyper- and hypo-pigmentated macules in a generalized distribution." [url:http\://en.wikipedia.org/wiki/Dyschromatosis_universalis_hereditaria, url:http\://www.ncbi.nlm.nih.gov/pubmed/12372090]
 comment: NT MGI.
 subset: DO_MGI_slim
 xref: ICD10CM:L81.8
 xref: MSH:C535730
 xref: OMIM:127500
-xref: OMIM:61215
+xref: OMIM:612715
 xref: OMIM:615402
 xref: ORDO:241
 is_a: DOID:10123 ! pigmentation disease
@@ -11622,7 +11635,7 @@ def: "An upper respiratory tract disease characterized by the swelling of the uv
 comment: PRISM.
 synonym: "acute uvulitis" EXACT []
 xref: ICD10CM:K12.2
-xref: MedDRA:10051962
+xref: MEDDRA:10051962
 is_a: DOID:974 ! upper respiratory tract disease
 created_by: emitraka
 creation_date: 2015-02-16T13:26:27Z
@@ -11636,7 +11649,7 @@ synonym: "adenoidal hypertrophy" EXACT []
 synonym: "enlarged adenoids" EXACT []
 xref: ICD10CM:J35.2
 xref: ICD9CM:474.12
-xref: MedDRA:10001229
+xref: MEDDRA:10001229
 is_a: DOID:974 ! upper respiratory tract disease
 created_by: emitraka
 creation_date: 2015-02-16T13:35:56Z
@@ -11667,7 +11680,7 @@ xref: ICD10CM:Q32.0
 xref: MSH:C557675
 xref: NCI:C98634
 xref: ORDO:95430
-xref: UML_CUI:C0392109
+xref: UMLS_CUI:C0392109
 is_a: DOID:3225 ! tracheal disease
 created_by: emitraka
 creation_date: 2015-02-20T16:02:03Z
@@ -11890,7 +11903,7 @@ name: mitochondrial complex V (ATP synthase) deficiency nuclear type 3
 def: "A mitochondrial metabolism disease that has material basis in mutation in the ATP5E gene on chromosome 20q13." [url:http\://omim.org/entry/614053]
 subset: DO_MGI_slim
 synonym: "MC5DN3" EXACT []
-xref: IDC10CM:E88.8
+xref: ICD10CM:E88.8
 xref: OMIM:614053
 xref: ORDO:254913
 is_a: DOID:700 ! mitochondrial metabolism disease
@@ -11941,6 +11954,28 @@ subset: DO_MGI_slim
 is_a: DOID:0060159 ! organic acidemia
 created_by: emitraka
 creation_date: 2015-04-16T10:50:48Z
+
+[Term]
+id: DOID:0060337
+name: CEDNIK syndrome
+def: "An autosomal recessive disease caused by homozygous mutation the SNAP29 gene and characterized by a unique constellation of clinical manifestations including microcephaly, severe neurologic impairment, psychomotor retardation, failure to thrive, facial dysmoprhism, palmoplantar keratoderma and late-onset ichthyosis." [PMID:21073448]
+comment: Flybase.
+synonym: "cerebral dysgenesis, neuropathy, ichthyosis and keratoderma syndrome" EXACT [OMIM:609528]
+xref: ICD10CM:Q82.8
+xref: MSH:C537943
+xref: OMIM:609528
+xref: ORDO:66631
+is_a: DOID:0050737 ! autosomal recessive disease
+created_by: emitraka
+creation_date: 2015-05-11T10:31:37Z
+
+[Term]
+id: DOID:0060338
+name: parameningeal embryonal rhabdomyosarcoma
+def: "An embryonal rhabdomyosarcoma located in the parameningeal region." [PMID:10717216, PMID:23021437]
+is_a: DOID:3246 ! embryonal rhabdomyosarcoma
+created_by: emitraka
+creation_date: 2015-05-14T14:32:27Z
 
 [Term]
 id: DOID:0070001
@@ -12546,7 +12581,9 @@ def: "A small intestine cancer that is located_in the beginning section of the s
 subset: TopNodes_DOcancerslim
 synonym: "cancer of duodenum" EXACT [NCI2004_11_17:C4803]
 synonym: "Duodenal cancer" EXACT [SNOMEDCT_2005_07_31:363403002]
+synonym: "duodenal neoplasm" EXACT []
 xref: ICD9CM:152.0
+xref: MSH:D004379
 xref: NCI:C9328
 xref: SNOMEDCT_2010_1_31:154555009
 xref: SNOMEDCT_2010_1_31:269615000
@@ -13320,8 +13357,10 @@ id: DOID:10153
 name: ileum cancer
 def: "A small intestine cancer that is located_in the ileum." [url:http\://en.wikipedia.org/wiki/Ileum]
 subset: TopNodes_DOcancerslim
+synonym: "ileal neoplasm" EXACT []
 synonym: "malignant neoplasm of ileum" EXACT [ICD9CM_2006:152.2]
 xref: ICD9CM:152.2
+xref: MSH:D007078
 xref: SNOMEDCT_2010_1_31:363405009
 xref: SNOMEDCT_2010_1_31:93832004
 xref: UMLS_CUI:C0153428
@@ -16797,6 +16836,7 @@ is_a: DOID:0060038 ! specific developmental disorder
 [Term]
 id: DOID:10590
 name: mild pre-eclampsia
+def: "A pre-eclampsia characterized by the presence of hypertension without evidence of end-organ damage, in a woman who was normotensive before 20 weeks' gestation." [url:http\://emedicine.medscape.com/article/1476919-overview]
 xref: ICD9CM:642.40
 xref: UMLS_CUI:C0156664
 is_a: DOID:10591 ! pre-eclampsia
@@ -16805,7 +16845,7 @@ is_a: DOID:10591 ! pre-eclampsia
 id: DOID:10591
 name: pre-eclampsia
 alt_id: DOID:12684
-def: "A hypertension occurring during pregnancy also characterized by large amounts of protein in the urine." [url:http\://en.wikipedia.org/wiki/Pre-eclampsia, url:http\://ghr.nlm.nih.gov/condition/preeclampsia]
+def: "A hypertension occurring during pregnancy characterized by large amounts of protein in the urine (proteinuria) and edema, usually by the last trimester of pregnancy." [PMID:24400024, url:http\://en.wikipedia.org/wiki/Pre-eclampsia, url:http\://ghr.nlm.nih.gov/condition/preeclampsia]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
 subset: DO_MGI_slim
 synonym: "gestational hypertension" EXACT [MTHICD9_2006:642.3, SNOMEDCT_2005_07_31:30354006]
@@ -20949,6 +20989,7 @@ synonym: "connective and soft tissue neoplasm" EXACT []
 synonym: "tumor of soft tissue and skeleton" EXACT [NCI2004_11_17:C3810]
 xref: ICD9CM:171
 xref: ICD9CM:171.9
+xref: MSH:D012509
 xref: SNOMEDCT_2010_1_31:187985009
 xref: SNOMEDCT_2010_1_31:93765001
 xref: UMLS_CUI:C0153519
@@ -24421,7 +24462,9 @@ synonym: "malignant Penile tumor" EXACT [NCI2004_11_17:C7547]
 synonym: "malignant tumor of body of penis (disorder)" EXACT [SNOMEDCT_2005_07_31:188230001]
 synonym: "malignant tumor of penis (disorder)" EXACT [SNOMEDCT_2005_07_31:363516004]
 synonym: "Penile Ca" EXACT [SNOMEDCT_2005_07_31:93954003]
+synonym: "penile neoplasm" EXACT []
 xref: ICD9CM:187.3
+xref: MSH:D010412
 xref: SNOMEDCT_2010_1_31:154536009
 xref: SNOMEDCT_2010_1_31:188230001
 xref: SNOMEDCT_2010_1_31:188231002
@@ -26537,7 +26580,9 @@ synonym: "Ca trachea" EXACT [SNOMEDCT_2005_07_31:269562004]
 synonym: "malignant neoplasm of trachea" EXACT [MTH:NOCODE]
 synonym: "malignant Tracheal tumor" EXACT [NCI2004_11_17:C9346]
 synonym: "malignant tumor of trachea (disorder)" EXACT [SNOMEDCT_2005_07_31:363432004]
+synonym: "tracheal neoplasm" EXACT []
 xref: ICD9CM:162.0
+xref: MSH:D014134
 xref: NCI:C9346
 xref: SNOMEDCT_2010_1_31:187855003
 xref: SNOMEDCT_2010_1_31:269562004
@@ -34265,10 +34310,13 @@ name: severe pre-eclampsia
 alt_id: DOID:13130
 alt_id: DOID:13131
 alt_id: DOID:13132
+def: "A pre-eclampsia that has_symptom at least one of the following: SBP of 160mm HG or higher or DPB of 110mm HG or higher on 2 occasions at least 6 hours apart, proteinuria more than 5g in a 24-hour collection, pulmonary edema or cyanosis, oliguria, persistent headaches, epigastric pain and/or impaired liver function, thrombocytopenia, oligohydramnios, decreased fetal growth or placental abruption." [url:http\://emedicine.medscape.com/article/1476919-overview]
 synonym: "antepartum severe pre-eclampsia" EXACT []
 synonym: "postpartum severe pre-eclampsia" EXACT []
 synonym: "Severe pre-eclampsia, with delivery" EXACT []
+synonym: "severe preeclampsia" EXACT []
 xref: ICD9CM:642.50
+xref: NCI:C112843
 xref: UMLS_CUI:C0156669
 is_a: DOID:10591 ! pre-eclampsia
 
@@ -34289,6 +34337,7 @@ is_obsolete: true
 [Term]
 id: DOID:13133
 name: HELLP syndrome
+def: "A severe pre-eclampsia characterized by hemolysis, elevated liver enzyme and low platelet count." [PMID:24400024, PMID:25879992]
 synonym: "HELLP syndrome (disorder)" EXACT [SNOMEDCT_2005_07_31:95605009]
 synonym: "syndrome of haemolysis, elevated liver enzymes and low platelet" EXACT [SNOMEDCT_2005_07_31:199010001]
 xref: MSH:D017359
@@ -35043,7 +35092,9 @@ alt_id: DOID:1322
 alt_id: DOID:9881
 def: "A respiratory system cancer that is located_in the lung." [url:http\://en.wikipedia.org/wiki/Lung_cancer]
 subset: TopNodes_DOcancerslim
+synonym: "lung neoplasm" RELATED []
 xref: ICD9CM:162.3
+xref: MSH:D008175
 xref: OMIM:211980
 xref: OMIM:608935
 xref: OMIM:612593
@@ -37587,6 +37638,7 @@ is_a: DOID:345 ! uterine disease
 id: DOID:13593
 name: eclampsia
 alt_id: DOID:13592
+def: "A pre-eclampsia characterized by the presence of seizures." [PMID:24400024, url:http\://ghr.nlm.nih.gov/condition/preeclampsia]
 synonym: "Eclampsia in puerperium (disorder)" EXACT [SNOMEDCT_2005_07_31:303063000]
 synonym: "Eclampsia, postpartum" EXACT [ICD9CM_2006:642.64]
 synonym: "Postpartum eclampsia" EXACT []
@@ -46647,7 +46699,9 @@ name: peritoneum cancer
 def: "An organ system cancer that is located in the peritoneum." [url:http\://en.wikipedia.org/wiki/Peritoneal_cancer]
 subset: TopNodes_DOcancerslim
 synonym: "cancer of peritoneum" RELATED []
+synonym: "peritoneal neoplasm" RELATED []
 xref: ICD9CM:158.8
+xref: MSH:D010534
 xref: SNOMEDCT_2010_1_31:187808008
 xref: SNOMEDCT_2010_1_31:187816004
 xref: UMLS_CUI:C0153466
@@ -47157,6 +47211,7 @@ synonym: "Thyroid gland neoplasm" EXACT [NCI2004_11_17:C3414]
 synonym: "thyroid neoplasm" EXACT [MTH:NOCODE]
 xref: ICD9CM:193
 xref: KEGG:05216
+xref: MSH:D013964
 xref: NCI:C7510
 xref: SNOMEDCT_2010_1_31:127018007
 xref: SNOMEDCT_2010_1_31:154554008
@@ -55595,10 +55650,10 @@ synonym: "glycogen storage disease type VI" EXACT []
 synonym: "hepatic glycogen phosphorylase deficiency (disorder)" EXACT [SNOMEDCT_2005_07_31:237971004]
 synonym: "hepatophosphorylase deficiency glycogenosis" EXACT [CSP2005:1849-4064]
 synonym: "Hers' disease" EXACT []
+xref: ICD10CM:E74.0
 xref: ICD9CM:271.0
 xref: MSH:D006013
 xref: OMIM:232700
-xref: OMIM:E74.0
 xref: ORDO:369
 xref: SNOMEDCT_2010_1_31:237971004
 xref: SNOMEDCT_2010_1_31:29291001
@@ -57924,7 +57979,6 @@ id: DOID:302
 name: substance abuse
 def: "A substance-related disorder that involves a maladaptive pattern of substance use leading to significant impairment in functioning." [url:http\://allpsych.com/disorders/substance/substanceabuse.html, url:http\://en.wikipedia.org/wiki/Substance_abuse]
 xref: ICD9CM:305
-xref: MSH:D019966
 xref: NCI:C16522
 xref: SNOMEDCT_2010_1_31:26416006
 xref: SNOMEDCT_2010_1_31:66214007
@@ -69504,8 +69558,10 @@ synonym: "cervix cancer" EXACT []
 synonym: "cervix uteri cancer" EXACT []
 synonym: "neoplasm of uterine cervix (disorder)" EXACT [SNOMEDCT_2005_07_31:123841004]
 synonym: "tumor of the Cervix Uteri" EXACT [NCI2004_11_17:C2940]
+synonym: "uterine cervical neoplasm" EXACT []
 xref: ICD9CM:180
 xref: ICD9CM:180.9
+xref: MSH:D002583
 xref: NCI:C9311
 xref: SNOMEDCT_2010_1_31:123841004
 xref: SNOMEDCT_2010_1_31:188174005
@@ -70552,6 +70608,7 @@ synonym: "seasonal allergic rhinitis" EXACT []
 synonym: "Seasonal allergic rhinitis (disorder)" EXACT [SNOMEDCT_2005_07_31:367498001]
 synonym: "Seasonal allergic rhinitis (disorder) [Ambiguous]" EXACT [SNOMEDCT_2005_07_31:70369002]
 xref: EFO:0003956
+xref: MSH:D065631
 xref: NCI:C34987
 xref: OMIM:607154
 xref: SNOMEDCT_2010_1_31:38103000
@@ -76182,7 +76239,7 @@ comment: Xref MGI.
 subset: DO_MGI_slim
 synonym: "carbohydrate-deficient glycoprotein syndrome" EXACT []
 xref: ICD10CM:77.8
-xref: IDC9CM:271.8
+xref: ICD9CM:271.8
 xref: MSH:D018981
 xref: NCI:C84615
 xref: OMIM:212065
@@ -95199,6 +95256,7 @@ synonym: "osteoarthrosis" EXACT []
 synonym: "Osteoarthrosis and allied disorder" EXACT []
 xref: EFO:0002506
 xref: ICD9CM:715.3
+xref: MSH:D010003
 xref: OMIM:140600
 xref: OMIM:165720
 xref: OMIM:607850
@@ -100050,6 +100108,7 @@ subset: DO_MGI_slim
 xref: EFO:0000676
 xref: ICD10CM:L40
 xref: ICD9CM:696.5
+xref: MSH:D011565
 xref: OMIM:177900
 xref: OMIM:601454
 xref: OMIM:602723
@@ -100973,9 +101032,11 @@ name: degenerative disc disease
 alt_id: DOID:7943
 def: "A bone deterioration disease that has_material_basis_in gradual dehydration and tears located_in intervertebral disc." [url:http\://en.wikipedia.org/wiki/Degenerative_disc_disease, url:http\://www.cedars-sinai.edu/Patients/Health-Conditions/Degenerative-Disc-Disease.aspx, url:http\://www.medicinenet.com/degenerative_disc/article.htm, url:http\://www.spine-health.com/conditions/degenerative-disc-disease/what-degenerative-disc-disease]
 synonym: "cervical disc degenerative disease" EXACT [NCI2004_11_17:C27156]
+synonym: "intervertebral disc degeneration" EXACT []
 synonym: "lumbar disc degeneration" EXACT []
 synonym: "vertebral disc disease" EXACT []
 xref: EFO:0004994
+xref: MSH:D055959
 xref: NCI:C27156
 xref: SNOMEDCT_2010_1_31:156633005
 xref: UMLS_CUI:C0410606
@@ -101833,6 +101894,7 @@ def: "A myeloid leukemia that is characterized by the rapid growth of abnormal w
 comment: OMIM mapping confirmed by DO. [SN].
 subset: DO_cancer_slim
 synonym: "acute myeloblastic leukemia" EXACT []
+synonym: "acute myelogenous leukemia" EXACT []
 synonym: "AML - acute Myeloid Leukemia" EXACT [NCI2004_11_17:C3171]
 synonym: "Leukemia, Myelocytic, acute" EXACT [MTH:NOCODE]
 xref: ICD9CM:205.0
@@ -107933,7 +107995,7 @@ is_a: DOID:654 ! overnutrition
 [Term]
 id: DOID:9973
 name: substance dependence
-def: "A substance-related disorder that involves the continued use of alcohol or other drugs despite despite problems related to use of the substance." [url:http\://en.wikipedia.org/wiki/Drug_dependence]
+def: "A substance-related disorder that involves the continued use of alcohol or other drugs despite problems related to use of the substance." [url:http\://en.wikipedia.org/wiki/Drug_dependence]
 xref: NCI:C35458
 xref: SNOMEDCT_2010_1_31:103326000
 xref: SNOMEDCT_2010_1_31:255338002

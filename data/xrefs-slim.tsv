@@ -26,6 +26,7 @@ DOID:1319	brain cancer	UMLS	C0750974
 DOID:1319	brain cancer	UMLS	C0750979
 DOID:1319	brain cancer	UMLS	C1334557
 DOID:1324	lung cancer	ICD9	162.3
+DOID:1324	lung cancer	MSH	D008175
 DOID:1324	lung cancer	OMIM	211980
 DOID:1324	lung cancer	OMIM	608935
 DOID:1324	lung cancer	OMIM	612593
@@ -96,6 +97,8 @@ DOID:184	bone cancer	SNOMEDCT	115239009
 DOID:184	bone cancer	SNOMEDCT	126537000
 DOID:184	bone cancer	SNOMEDCT	240201007
 DOID:184	bone cancer	UMLS	C0005967
+DOID:0060119	pharynx cancer	MSH	D010610
+DOID:0060119	pharynx cancer	UMLS	C0031347
 DOID:2394	ovarian cancer	MSH	D010051
 DOID:2394	ovarian cancer	NCI	C4984
 DOID:2394	ovarian cancer	OMIM	167000
@@ -282,6 +285,7 @@ DOID:1192	peripheral nervous system neoplasm	UMLS	C0031118
 DOID:1192	peripheral nervous system neoplasm	UMLS	C0206727
 DOID:1781	thyroid cancer	ICD9	193
 DOID:1781	thyroid cancer	KEGG	05216
+DOID:1781	thyroid cancer	MSH	D013964
 DOID:1781	thyroid cancer	NCI	C7510
 DOID:1781	thyroid cancer	SNOMEDCT	127018007
 DOID:1781	thyroid cancer	SNOMEDCT	154554008
@@ -307,6 +311,7 @@ DOID:3571	liver cancer	UMLS	C0861869
 DOID:3571	liver cancer	UMLS	C1334590
 DOID:4362	cervical cancer	ICD9	180
 DOID:4362	cervical cancer	ICD9	180.9
+DOID:4362	cervical cancer	MSH	D002583
 DOID:4362	cervical cancer	NCI	C9311
 DOID:4362	cervical cancer	SNOMEDCT	123841004
 DOID:4362	cervical cancer	SNOMEDCT	188174005
@@ -390,6 +395,7 @@ DOID:4045	muscle cancer	SNOMEDCT	93913006
 DOID:4045	muscle cancer	UMLS	C0027095
 DOID:4045	muscle cancer	UMLS	C0684743
 DOID:10021	duodenum cancer	ICD9	152.0
+DOID:10021	duodenum cancer	MSH	D004379
 DOID:10021	duodenum cancer	NCI	C9328
 DOID:10021	duodenum cancer	SNOMEDCT	154555009
 DOID:10021	duodenum cancer	SNOMEDCT	269615000
@@ -398,6 +404,7 @@ DOID:10021	duodenum cancer	SNOMEDCT	93775003
 DOID:10021	duodenum cancer	UMLS	C0153426
 DOID:10021	duodenum cancer	UMLS	C0541912
 DOID:10153	ileum cancer	ICD9	152.2
+DOID:10153	ileum cancer	MSH	D007078
 DOID:10153	ileum cancer	SNOMEDCT	363405009
 DOID:10153	ileum cancer	SNOMEDCT	93832004
 DOID:10153	ileum cancer	UMLS	C0153428
@@ -409,6 +416,7 @@ DOID:10811	nasal cavity cancer	SNOMEDCT	93917007
 DOID:10811	nasal cavity cancer	UMLS	C0728864
 DOID:1115	sarcoma	ICD9	171
 DOID:1115	sarcoma	ICD9	171.9
+DOID:1115	sarcoma	MSH	D012509
 DOID:1115	sarcoma	SNOMEDCT	187985009
 DOID:1115	sarcoma	SNOMEDCT	93765001
 DOID:1115	sarcoma	UMLS	C0153519
@@ -420,6 +428,7 @@ DOID:11239	appendix cancer	SNOMEDCT	363411007
 DOID:11239	appendix cancer	SNOMEDCT	93679002
 DOID:11239	appendix cancer	UMLS	C0496779
 DOID:11615	penile cancer	ICD9	187.3
+DOID:11615	penile cancer	MSH	D010412
 DOID:11615	penile cancer	SNOMEDCT	154536009
 DOID:11615	penile cancer	SNOMEDCT	188230001
 DOID:11615	penile cancer	SNOMEDCT	188231002
@@ -438,6 +447,7 @@ DOID:11819	ureter cancer	SNOMEDCT	363458004
 DOID:11819	ureter cancer	SNOMEDCT	94121005
 DOID:11819	ureter cancer	UMLS	C0153619
 DOID:11920	tracheal cancer	ICD9	162.0
+DOID:11920	tracheal cancer	MSH	D014134
 DOID:11920	tracheal cancer	NCI	C9346
 DOID:11920	tracheal cancer	SNOMEDCT	187855003
 DOID:11920	tracheal cancer	SNOMEDCT	269562004
@@ -460,6 +470,7 @@ DOID:13499	jejunal cancer	SNOMEDCT	363404008
 DOID:13499	jejunal cancer	SNOMEDCT	93846004
 DOID:13499	jejunal cancer	UMLS	C0153427
 DOID:1725	peritoneum cancer	ICD9	158.8
+DOID:1725	peritoneum cancer	MSH	D010534
 DOID:1725	peritoneum cancer	SNOMEDCT	187808008
 DOID:1725	peritoneum cancer	SNOMEDCT	187816004
 DOID:1725	peritoneum cancer	UMLS	C0153466
@@ -896,6 +907,7 @@ DOID:2841	asthma	UMLS	C0004096
 DOID:8893	psoriasis	EFO	0000676
 DOID:8893	psoriasis	ICD10	L40
 DOID:8893	psoriasis	ICD9	696.5
+DOID:8893	psoriasis	MSH	D011565
 DOID:8893	psoriasis	OMIM	177900
 DOID:8893	psoriasis	OMIM	601454
 DOID:8893	psoriasis	OMIM	602723
@@ -1215,6 +1227,7 @@ DOID:0050425	restless legs syndrome	OMIM	611185
 DOID:0050425	restless legs syndrome	OMIM	611242
 DOID:0050425	restless legs syndrome	OMIM	612853
 DOID:0050425	restless legs syndrome	OMIM	615197
+DOID:0050425	restless legs syndrome	UMLS	C0035258
 DOID:13378	Kawasaki disease	EFO	0004246
 DOID:13378	Kawasaki disease	ICD10	M30.3
 DOID:13378	Kawasaki disease	ICD9	446.1
@@ -1285,7 +1298,9 @@ DOID:2986	IgA glomerulonephritis	SNOMEDCT	68779003
 DOID:2986	IgA glomerulonephritis	UMLS	C0017661
 DOID:0050741	alcohol dependence	EFO	0003829
 DOID:0050741	alcohol dependence	KEGG	05034
+DOID:0050741	alcohol dependence	MSH	D000437
 DOID:0050741	alcohol dependence	OMIM	103780
+DOID:0050741	alcohol dependence	UMLS	C0031347
 DOID:11949	Creutzfeldt-Jakob disease	EFO	0004226
 DOID:11949	Creutzfeldt-Jakob disease	ICD9	046.1
 DOID:11949	Creutzfeldt-Jakob disease	MSH	D007562
@@ -1382,6 +1397,7 @@ DOID:784	chronic kidney failure	SNOMEDCT	90688005
 DOID:784	chronic kidney failure	UMLS	C0022661
 DOID:8398	osteoarthritis	EFO	0002506
 DOID:8398	osteoarthritis	ICD9	715.3
+DOID:8398	osteoarthritis	MSH	D010003
 DOID:8398	osteoarthritis	OMIM	140600
 DOID:8398	osteoarthritis	OMIM	165720
 DOID:8398	osteoarthritis	OMIM	607850
@@ -1398,7 +1414,9 @@ DOID:9008	psoriatic arthritis	SNOMEDCT	200959009
 DOID:9008	psoriatic arthritis	SNOMEDCT	33339001
 DOID:9008	psoriatic arthritis	UMLS	C0003872
 DOID:0050742	nicotine dependence	EFO	0003768
+DOID:0050742	nicotine dependence	MSH	D014029
 DOID:0050742	nicotine dependence	OMIM	188890
+DOID:0050742	nicotine dependence	UMLS	C0028043
 DOID:10976	membranous glomerulonephritis	EFO	0004254
 DOID:10976	membranous glomerulonephritis	MSH	D015433
 DOID:10976	membranous glomerulonephritis	NCI	C34645
@@ -1576,6 +1594,7 @@ DOID:8986	narcolepsy	SNOMEDCT	267702006
 DOID:8986	narcolepsy	SNOMEDCT	60380001
 DOID:8986	narcolepsy	UMLS	C0027404
 DOID:90	degenerative disc disease	EFO	0004994
+DOID:90	degenerative disc disease	MSH	D055959
 DOID:90	degenerative disc disease	NCI	C27156
 DOID:90	degenerative disc disease	SNOMEDCT	156633005
 DOID:90	degenerative disc disease	UMLS	C0410606
@@ -1596,6 +1615,7 @@ DOID:0050156	idiopathic pulmonary fibrosis	EFO	0000768
 DOID:0050156	idiopathic pulmonary fibrosis	MSH	D054990
 DOID:0050156	idiopathic pulmonary fibrosis	NCI	C35716
 DOID:0050156	idiopathic pulmonary fibrosis	OMIM	178500
+DOID:0050156	idiopathic pulmonary fibrosis	UMLS	C1800706
 DOID:1094	attention deficit hyperactivity disorder	EFO	0003888
 DOID:1094	attention deficit hyperactivity disorder	ICD10	F90
 DOID:1094	attention deficit hyperactivity disorder	ICD9	314.00
@@ -1653,6 +1673,7 @@ DOID:1595	endogenous depression	SNOMEDCT	300706003
 DOID:1595	endogenous depression	UMLS	C0011573
 DOID:1595	endogenous depression	UMLS	C0041696
 DOID:4481	allergic rhinitis	EFO	0003956
+DOID:4481	allergic rhinitis	MSH	D065631
 DOID:4481	allergic rhinitis	NCI	C34987
 DOID:4481	allergic rhinitis	OMIM	607154
 DOID:4481	allergic rhinitis	SNOMEDCT	38103000

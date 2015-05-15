@@ -1683,6 +1683,7 @@ DOID:3953	adrenal gland cancer	DOID:660	adrenal cortex cancer	1
 DOID:3953	adrenal gland cancer	DOID:7379	adrenal medulla carcinoma	2
 DOID:3953	adrenal gland cancer	DOID:8140	adrenal gland ganglioneuroblastoma	1
 DOID:4045	muscle cancer	DOID:0050924	striated muscle rhabdoid tumor	1
+DOID:4045	muscle cancer	DOID:0060338	parameningeal embryonal rhabdomyosarcoma	4
 DOID:4045	muscle cancer	DOID:1967	leiomyosarcoma	2
 DOID:4045	muscle cancer	DOID:3246	embryonal rhabdomyosarcoma	3
 DOID:4045	muscle cancer	DOID:3247	rhabdomyosarcoma	2

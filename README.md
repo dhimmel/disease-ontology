@@ -1,5 +1,8 @@
 # User-friendly extensions to the Disease Ontology
 
+[![DOI 10.5281/zenodo.45584](https://zenodo.org/badge/doi/10.5281/zenodo.45584.svg)](https://doi.org/10.5281/zenodo.45584)
+
+
 This repository creates user-friendly extensions to the [Disease Ontology](http://disease-ontology.org "Disease Ontology Homepage") (DO) [[1](https://doi.org/10.1093/nar/gkr972 "Disease Ontology: a backbone for disease semantic integration")]. Simple TSV files are extracted from the OBO-formatted ontology including datasets for term names, cross-references, and subsumption relationships. Additionally, a slim term set is extracted, which we use for our [drug repurposing research](https://doi.org/10.15363/thinklab.4, "Thinklab · Repurposing drugs on a hetnet").
 
 ## Notebooks

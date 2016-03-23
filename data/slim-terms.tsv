@@ -1,60 +1,60 @@
 doid	name	source	pathophysiology
-DOID:2531	Hematologic cancer	DOcancerslim	neoplastic
-DOID:1319	Brain cancer	DOcancerslim	neoplastic
-DOID:1324	Lung cancer	DOcancerslim	neoplastic
-DOID:263	Kidney cancer	DOcancerslim	neoplastic
-DOID:1793	Pancreatic cancer	DOcancerslim	neoplastic
-DOID:4159	Skin cancer	DOcancerslim	neoplastic
-DOID:184	Bone cancer	DOcancerslim	neoplastic
-DOID:0060119	Pharynx cancer	DOcancerslim	neoplastic
-DOID:2394	Ovarian cancer	DOcancerslim	neoplastic
-DOID:1612	Breast cancer	DOcancerslim	neoplastic
-DOID:3070	Malignant glioma	DOcancerslim	neoplastic
-DOID:363	Uterine cancer	DOcancerslim	neoplastic
-DOID:3953	Adrenal gland cancer	DOcancerslim	neoplastic
-DOID:5041	Esophageal cancer	DOcancerslim	neoplastic
-DOID:8850	Salivary gland cancer	DOcancerslim	neoplastic
-DOID:10283	Prostate cancer	DOcancerslim	neoplastic
-DOID:10534	Stomach cancer	DOcancerslim	neoplastic
-DOID:11054	Urinary bladder cancer	DOcancerslim	neoplastic
-DOID:1192	Peripheral nervous system neoplasm	DOcancerslim	neoplastic
-DOID:1781	Thyroid cancer	DOcancerslim	neoplastic
-DOID:3571	Liver cancer	DOcancerslim	neoplastic
-DOID:4362	Cervical cancer	DOcancerslim	neoplastic
-DOID:119	Vaginal cancer	DOcancerslim	neoplastic
-DOID:11934	Head and neck cancer	DOcancerslim	neoplastic
-DOID:1993	Rectum cancer	DOcancerslim	neoplastic
-DOID:2174	Ocular cancer	DOcancerslim	neoplastic
-DOID:219	Colon cancer	DOcancerslim	neoplastic
-DOID:2596	Larynx cancer	DOcancerslim	neoplastic
-DOID:2994	Germ cell cancer	DOcancerslim	neoplastic
-DOID:3277	Thymus cancer	DOcancerslim	neoplastic
-DOID:4045	Muscle cancer	DOcancerslim	neoplastic
-DOID:0060073	Lymphatic system cancer	DOcancerslim	neoplastic
-DOID:10021	Duodenum cancer	DOcancerslim	neoplastic
-DOID:10153	Ileum cancer	DOcancerslim	neoplastic
-DOID:10811	Nasal cavity cancer	DOcancerslim	neoplastic
-DOID:1115	Sarcoma	DOcancerslim	neoplastic
-DOID:11239	Appendix cancer	DOcancerslim	neoplastic
-DOID:11615	Penile cancer	DOcancerslim	neoplastic
-DOID:11819	Ureter cancer	DOcancerslim	neoplastic
-DOID:11920	Tracheal cancer	DOcancerslim	neoplastic
-DOID:1245	Vulva cancer	DOcancerslim	neoplastic
-DOID:13499	Jejunal cancer	DOcancerslim	neoplastic
-DOID:1725	Peritoneum cancer	DOcancerslim	neoplastic
-DOID:175	Vascular cancer	DOcancerslim	neoplastic
-DOID:1790	Malignant mesothelioma	DOcancerslim	neoplastic
-DOID:1909	Melanoma	DOcancerslim	neoplastic
-DOID:1964	Fallopian tube cancer	DOcancerslim	neoplastic
-DOID:2998	Testicular cancer	DOcancerslim	neoplastic
-DOID:3121	Gallbladder cancer	DOcancerslim	neoplastic
-DOID:3565	Meningioma	DOcancerslim	neoplastic
-DOID:4606	Bile duct cancer	DOcancerslim	neoplastic
-DOID:5099	Middle ear cancer	DOcancerslim	neoplastic
-DOID:5559	Mediastinal cancer	DOcancerslim	neoplastic
-DOID:5612	Spinal cancer	DOcancerslim	neoplastic
-DOID:5875	Retroperitoneal cancer	DOcancerslim	neoplastic
-DOID:9917	Pleural cancer	DOcancerslim	neoplastic
+DOID:2531	hematologic cancer	DOcancerslim	neoplastic
+DOID:1319	brain cancer	DOcancerslim	neoplastic
+DOID:1324	lung cancer	DOcancerslim	neoplastic
+DOID:263	kidney cancer	DOcancerslim	neoplastic
+DOID:1793	pancreatic cancer	DOcancerslim	neoplastic
+DOID:4159	skin cancer	DOcancerslim	neoplastic
+DOID:184	bone cancer	DOcancerslim	neoplastic
+DOID:0060119	pharynx cancer	DOcancerslim	neoplastic
+DOID:2394	ovarian cancer	DOcancerslim	neoplastic
+DOID:1612	breast cancer	DOcancerslim	neoplastic
+DOID:3070	malignant glioma	DOcancerslim	neoplastic
+DOID:363	uterine cancer	DOcancerslim	neoplastic
+DOID:3953	adrenal gland cancer	DOcancerslim	neoplastic
+DOID:5041	esophageal cancer	DOcancerslim	neoplastic
+DOID:8850	salivary gland cancer	DOcancerslim	neoplastic
+DOID:10283	prostate cancer	DOcancerslim	neoplastic
+DOID:10534	stomach cancer	DOcancerslim	neoplastic
+DOID:11054	urinary bladder cancer	DOcancerslim	neoplastic
+DOID:1192	peripheral nervous system neoplasm	DOcancerslim	neoplastic
+DOID:1781	thyroid cancer	DOcancerslim	neoplastic
+DOID:3571	liver cancer	DOcancerslim	neoplastic
+DOID:4362	cervical cancer	DOcancerslim	neoplastic
+DOID:119	vaginal cancer	DOcancerslim	neoplastic
+DOID:11934	head and neck cancer	DOcancerslim	neoplastic
+DOID:1993	rectum cancer	DOcancerslim	neoplastic
+DOID:2174	ocular cancer	DOcancerslim	neoplastic
+DOID:219	colon cancer	DOcancerslim	neoplastic
+DOID:2596	larynx cancer	DOcancerslim	neoplastic
+DOID:2994	germ cell cancer	DOcancerslim	neoplastic
+DOID:3277	thymus cancer	DOcancerslim	neoplastic
+DOID:4045	muscle cancer	DOcancerslim	neoplastic
+DOID:0060073	lymphatic system cancer	DOcancerslim	neoplastic
+DOID:10021	duodenum cancer	DOcancerslim	neoplastic
+DOID:10153	ileum cancer	DOcancerslim	neoplastic
+DOID:10811	nasal cavity cancer	DOcancerslim	neoplastic
+DOID:1115	sarcoma	DOcancerslim	neoplastic
+DOID:11239	appendix cancer	DOcancerslim	neoplastic
+DOID:11615	penile cancer	DOcancerslim	neoplastic
+DOID:11819	ureter cancer	DOcancerslim	neoplastic
+DOID:11920	tracheal cancer	DOcancerslim	neoplastic
+DOID:1245	vulva cancer	DOcancerslim	neoplastic
+DOID:13499	jejunal cancer	DOcancerslim	neoplastic
+DOID:1725	peritoneum cancer	DOcancerslim	neoplastic
+DOID:175	vascular cancer	DOcancerslim	neoplastic
+DOID:1790	malignant mesothelioma	DOcancerslim	neoplastic
+DOID:1909	melanoma	DOcancerslim	neoplastic
+DOID:1964	fallopian tube cancer	DOcancerslim	neoplastic
+DOID:2998	testicular cancer	DOcancerslim	neoplastic
+DOID:3121	gallbladder cancer	DOcancerslim	neoplastic
+DOID:3565	meningioma	DOcancerslim	neoplastic
+DOID:4606	bile duct cancer	DOcancerslim	neoplastic
+DOID:5099	middle ear cancer	DOcancerslim	neoplastic
+DOID:5559	mediastinal cancer	DOcancerslim	neoplastic
+DOID:5612	spinal cancer	DOcancerslim	neoplastic
+DOID:5875	retroperitoneal cancer	DOcancerslim	neoplastic
+DOID:9917	pleural cancer	DOcancerslim	neoplastic
 DOID:8778	Crohn's disease	hetio	immunologic
 DOID:2377	multiple sclerosis	hetio	immunologic
 DOID:9352	type 2 diabetes mellitus	hetio	metabolic
@@ -97,7 +97,7 @@ DOID:11476	osteoporosis	hetio	metabolic
 DOID:1459	hypothyroidism	hetio	immunologic
 DOID:2986	IgA glomerulonephritis	hetio	immunologic
 DOID:0050741	alcohol dependence	hetio	psychiatric
-DOID:11949	Creutzfeldt-Jakob syndrome	hetio	idiopathic
+DOID:11949	Creutzfeldt-Jakob disease	hetio	idiopathic
 DOID:14227	azoospermia	hetio	unspecific
 DOID:1826	epilepsy syndrome	hetio	unspecific
 DOID:2043	hepatitis B	hetio	infectious
